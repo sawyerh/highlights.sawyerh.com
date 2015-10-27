@@ -1,0 +1,10 @@
+.DS_Store
+.sass-cache
+.git
+config/*.*
+Gemfile.lock
+Gemfile
+.siteleaf.yml
+_site
+.jekyll-metadata
+siteleaf-gem/**

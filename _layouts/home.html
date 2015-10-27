@@ -1,0 +1,14 @@
+---
+layout: default
+---
+{% assign books = site.books %}
+
+{% for highlight in site.highlights %}
+  {% assign book = books | where:"uuid", highlight.book_uuid %}
+  <article class="highlight">
+    <blockquote>
+      {{ highlight.content }}
+    </blockquote>
+    <cite>&mdash; {{ book.first.title }}</cite>
+  </article>
+{% endfor %}

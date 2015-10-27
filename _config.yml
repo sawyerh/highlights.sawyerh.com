@@ -1,0 +1,21 @@
+---
+title: Highlights
+url: http://highlights.sawyerh.com
+timezone: UTC
+collections:
+  uploads:
+    title: Uploads
+    output: true
+  books:
+    title: Books
+    output: true
+  highlights:
+    title: Highlights
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/posts/:title/"
+permalinks: pretty
