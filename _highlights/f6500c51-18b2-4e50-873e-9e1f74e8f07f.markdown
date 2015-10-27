@@ -1,8 +1,0 @@
----
-title: 'The Playboy Interview: The Essentials: a bird flies, a fish swims, I drink.'
-book_uuid: de5dff9c-d90e-4918-80f6-a19e0fc7f30e
-location: 12606-12606
-source: kindle
----
-
-a bird flies, a fish swims, I drink.

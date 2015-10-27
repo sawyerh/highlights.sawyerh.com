@@ -1,7 +1,7 @@
 ---
 title: Sawyer Hollenshead's Gazette - Oct 11
 author: Gazette
-uuid: c61e52e4-1552-4b2c-bf7f-09fb834df52e
+uuid: 3e73684d-b839-461b-88d2-4f2423c07bd5
 original_title: Sawyer Hollenshead's Gazette - Oct 11
 ---
 

@@ -1,8 +1,0 @@
----
-title: 'Instapaper: Friday, Jul. 18th: Tiny Beautiful Things by Cheryl Strayed.'
-book_uuid: f3012425-724a-49af-931c-2746f2525994
-location: 1065-1065
-source: kindle
----
-
-Tiny Beautiful Things by Cheryl Strayed.

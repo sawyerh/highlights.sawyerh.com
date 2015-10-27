@@ -1,7 +1,7 @@
 ---
 title: 'Instapaper: Friday, Apr. 24th'
 author: Instapaper
-uuid: 7dad739b-8d58-495e-9878-9a14f408d13e
+uuid: 3eea66c0-e910-43d3-b0fc-3a05a3564a3d
 original_title: 'Instapaper: Friday, Apr. 24th'
 ---
 

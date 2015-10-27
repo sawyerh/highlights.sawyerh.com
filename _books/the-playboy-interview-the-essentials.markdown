@@ -1,7 +1,7 @@
 ---
 title: 'The Playboy Interview: The Essentials'
 author: Playboy
-uuid: de5dff9c-d90e-4918-80f6-a19e0fc7f30e
+uuid: df047616-f473-4099-b128-c0200ec6a2d7
 original_title: 'The Playboy Interview: The Essentials'
 ---
 

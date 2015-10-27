@@ -1,7 +1,7 @@
 ---
 title: 'The Everything Store: Jeff Bezos and the Age of Amazon'
 author: Stone, Brad
-uuid: 8241fc03-7f45-466f-8240-391e12ecd04e
+uuid: feaa8be8-40dc-4657-ade4-b5bbdf8af439
 original_title: 'The Everything Store: Jeff Bezos and the Age of Amazon'
 ---
 

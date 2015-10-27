@@ -1,7 +1,7 @@
 ---
 title: 'Fresh Off the Boat: A Memoir'
 author: Huang, Eddie
-uuid: 588a1c5b-0a46-4900-8d16-bace303332b2
+uuid: 9551a4d5-278e-4234-9a0e-5ab488cb5ce0
 original_title: 'Fresh Off the Boat: A Memoir'
 ---
 

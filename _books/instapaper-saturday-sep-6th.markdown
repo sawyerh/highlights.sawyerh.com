@@ -1,7 +1,7 @@
 ---
 title: 'Instapaper: Saturday, Sep. 6th'
 author: Instapaper
-uuid: 1c27580d-59c8-40ce-b057-b7614e73cc34
+uuid: 23bebb7e-0929-4011-b927-c046dbbb7ab2
 original_title: 'Instapaper: Saturday, Sep. 6th'
 ---
 

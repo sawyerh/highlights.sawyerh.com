@@ -1,9 +1,0 @@
----
-title: 'The Playboy Interview: The Essentials: In Washington, the truth is never told
-  in daylight hours or a…'
-book_uuid: de5dff9c-d90e-4918-80f6-a19e0fc7f30e
-location: 12902-12902
-source: kindle
----
-
-In Washington, the truth is never told in daylight hours or across a desk.

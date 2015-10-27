@@ -1,7 +1,7 @@
 ---
 title: Sawyer Hollenshead's Gazette - Jul 05
 author: Gazette
-uuid: c0f1af04-9e5e-4771-8341-ce282047cf58
+uuid: 6970b94f-7d07-421a-b266-dc7e7f70b54b
 original_title: Sawyer Hollenshead's Gazette - Jul 05
 ---
 
