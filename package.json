@@ -1,0 +1,10 @@
+{
+  "name": "highlights.sawyerhollenshead.com",
+  "scripts": {
+    "dev": "NODE_ENV=development webpack --progress --colors --watch",
+    "build": "NODE_ENV=production webpack --progress --colors"
+  },
+  "devDependencies": {
+    "webpack": "^1.12.2"
+  }
+}

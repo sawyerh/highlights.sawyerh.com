@@ -1,0 +1,6 @@
+{
+  "name": "highlights.sawyerhollenshead.com",
+  "dependencies": {
+    "isotope": "~2.2.2"
+  }
+}

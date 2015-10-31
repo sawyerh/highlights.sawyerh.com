@@ -19,3 +19,4 @@ defaults:
   values:
     permalink: "/posts/:title/"
 permalinks: pretty
+exclude: ['node_modules', 'bower_components']

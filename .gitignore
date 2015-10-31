@@ -7,3 +7,5 @@ config.ru
 _site
 .jekyll-metadata
 siteleaf-gem
+node_modules
+bower_components

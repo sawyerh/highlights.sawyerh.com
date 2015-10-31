@@ -8,12 +8,49 @@
 }
 
 body{
-  background: #EFF2F3
+  -webkit-font-smoothing: antialiased;
+  background: #EFF2F3;
+  font-family: "ff-tisa-sans-web-pro";
+  font-size: 20px;
+}
+
+p{
+  margin: 0 0 1.5em;
+
+  &:last-child{
+    margin-bottom: 0;
+  }
 }
 
 .highlight{
+  width: 33%;
+  border-radius: 2px;
+}
+
+.highlight--featured{
+  width: 66%;
+  font-size: 32px;
+}
+
+.highlight__inner{
   background: #fff;
-  padding: 30px;
-  max-width: 600px;
-  margin-bottom: 30px;
+  padding: 25px;
+  margin: 15px;
+  border-bottom: 2px solid rgba(#000, 0.1);
+}
+
+.highlight__content{
+  padding: 0;
+  margin: 0;
+  line-height: 1.5;
+}
+
+.highlight__footer{
+  font-size: 14px;
+  margin-top: 15px;
+}
+
+.highlight__book{
+  font-style: normal;
+  font-weight: bold;
 }

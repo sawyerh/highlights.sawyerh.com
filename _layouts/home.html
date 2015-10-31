@@ -3,13 +3,22 @@ layout: default
 ---
 {% assign books = site.books %}
 
-{% for highlight in site.highlights %}
-  {% assign book = books | where:"uuid", highlight.book_uuid %}
-  <article class="highlight">
-    <blockquote>
-      {{ highlight.content }}
-    </blockquote>
-    <cite>&mdash; {{ book.first.title }}</cite>
-    <a href="{{ highlight.url }}">Share</a>
-  </article>
-{% endfor %}
+<section class="highlights">
+  {% for highlight in site.highlights %}
+    {% assign book = books | where:"uuid", highlight.book_uuid %}
+
+    <article class="highlight{% if highlight.is_featured %} highlight--featured{% endif %}">
+      <div class="highlight__inner">
+        <blockquote class="highlight__content">
+          {{ highlight.content }}
+        </blockquote>
+
+        <div class="highlight__footer">
+          <cite class="highlight__book">{{ book.first.title }}</cite>
+          <a href="{{ highlight.url }}">Share</a>
+        </div>
+      </div>
+    </article>
+
+  {% endfor %}
+</section>
