@@ -4,8 +4,10 @@
 $text_default: #2B2B25;
 $text_light: #666457;
 
-$bg_tan: #EBE9E4;
-$bg_tan_light: #FBFAF9;
+$bg_default: #FCD4D4;
+$bg_light: #FBFAF9;
+
+$gutter: 30px;
 
 @import 'toolbox';
 
@@ -14,11 +16,15 @@ $bg_tan_light: #FBFAF9;
 }
 
 body{
-  -webkit-font-smoothing: antialiased;
-  background: $bg_tan;
+  background: $bg_default;
   color: $text_default;
-  font-family: "ff-tisa-sans-web-pro";
+  font-family: "freight-sans-pro";
   font-size: 20px;
+  margin: 0;
+}
+
+a{
+  color: $text_default;
 }
 
 p{
@@ -29,48 +35,76 @@ p{
   }
 }
 
-.highlights{
-  max-width: 700px;
-  margin: auto;
+.container{
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  overflow: auto;
 }
 
-.highlight__inner{
-  background: #fff;
-  margin: 15px;
-  border-radius: 2px;
-  border-bottom: 2px solid darken($bg_tan, 5%);
+.book{
+  max-width: 450px;
+  padding: $gutter;
+  border-right: 1px solid rgba(#000, 0.2);
+  bottom: 0;
+  overflow: auto;
+
+  &::-webkit-scrollbar {
+    width: 3px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background-color: rgba(#000, 0.1);
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: rgba(#000, 0.1);
+    outline: none;
+    border-radius: 30px;
+  }
+}
+
+.book__title{
+  -webkit-font-smoothing: antialiased;
+  font-family: "freight-display-pro";
+  font-style: italic;
+  font-weight: normal;
+  font-size: 24px;
+  margin: 0 0 $gutter;
+  line-height: 1.2;
+
+  strong{
+    font-size: 36px;
+  }
+}
+
+.book__credit{
+  display: block;
+  margin-top: 5px;
+}
+
+.highlight{
+  line-height: 1.5;
+  margin-bottom: 2em;
 }
 
 .highlight__content{
-  padding: 25px 25px 0;
+  padding: 0;
   margin: 0;
-  line-height: 1.5;
 }
 
 .highlight__footer{
   font-size: 14px;
-  margin-top: 15px;
-  padding: 0 25px 25px;
-  color: $text_light;
-
-  a{
-    color: $text_light;
-  }
-}
-
-.highlight__book{
-  font-style: normal;
 }
 
 .comments{
-  background: $bg_tan_light;
-  border-top: 1px solid $bg_tan;
   font-size: 14px;
-  padding: 25px;
 }
 
 .comment{
-  border-bottom: 1px solid $bg_tan;
+  border-bottom: 1px solid $bg_default;
   margin-bottom: 10px;
   padding-bottom: 10px;
 

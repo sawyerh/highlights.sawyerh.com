@@ -1,43 +1,43 @@
 ---
 layout: default
 ---
-{% assign books = site.books %}
+{% assign all_highlights = site.highlights %}
 
-<section class="highlights">
-  {% for highlight in site.highlights %}
-    {% assign book = books | where:"uuid", highlight.book_uuid %}
+<section class="container">
+  {% for book in site.books %}
+    {% assign highlights = all_highlights | where:"book_uuid", book.uuid %}
 
-    <article class="highlight{% if highlight.is_featured %} highlight--featured{% endif %}">
-      <div class="highlight__inner">
-        <blockquote class="highlight__content">
-          {{ highlight.content }}
-        </blockquote>
-
-        <div class="highlight__footer">
-          <cite class="highlight__book">
-            {{ book.first.title }}
-            {% if book.first.author %}
-              &middot;
-              {{ book.first.author }}
-            {% endif %}
-          </cite>
-          &middot; <a href="{{ highlight.url }}">Share</a>
-        </div>
-
-        {% if highlight.comments %}
-          <div class="comments">
-            {% for comment in highlight.comments %}
-              <div class="comment">
-                {{ comment.body }}
-                {% if comment.author %}
-                  <cite class="comment__author">&mdash; {{ comment.author }}</cite>
-                {% endif %}
-              </div>
-            {% endfor %}
-          </div>
+    <div class="book">
+      <h1 class="book__title">
+        <strong>{{ book.title }}</strong>
+        {% if book.author %}
+          <span class="book__credit">{{ book.author }}</span>
         {% endif %}
-      </div>
-    </article>
+      </h1>
+      {% for highlight in highlights %}
+        <article class="highlight{% if highlight.is_featured %} highlight--featured{% endif %}">
+          <blockquote class="highlight__content">
+            {{ highlight.content }}
+          </blockquote>
 
+          {% comment %}<div class="highlight__footer">
+            <a href="{{ highlight.url }}">Share</a>
+          </div>{% endcomment %}
+
+          {% if highlight.comments %}
+            <div class="comments">
+              {% for comment in highlight.comments %}
+                <div class="comment">
+                  {{ comment.body }}
+                  {% if comment.author %}
+                    <cite class="comment__author">&mdash; {{ comment.author }}</cite>
+                  {% endif %}
+                </div>
+              {% endfor %}
+            </div>
+          {% endif %}
+        </article>
+      {% endfor %}
+    </div>
   {% endfor %}
 </section>

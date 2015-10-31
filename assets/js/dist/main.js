@@ -44,23 +44,20 @@
 /* 0 */
 /***/ function(module, exports, __webpack_require__) {
 
+	__webpack_require__(17);
 	var Isotope = __webpack_require__(1);
 
 	var createGrid = function(){
 	  console.log('loaded');
 
-	  new Isotope('.highlights', {
-	    itemSelector: '.highlight',
-	    percentPosition: true,
-	    masonry: {
-	      columnWidth: document.querySelector('.highlight'),
-	      gutter: 0
-	    }
+	  new Isotope('.container', {
+	    itemSelector: '.book',
+	    layoutMode: 'horizontal'
 	  });
 	};
 
 
-	// window.onload = createGrid;
+	createGrid();
 
 /***/ },
 /* 1 */
@@ -4238,6 +4235,71 @@
 	return Item;
 
 	}));
+
+
+/***/ },
+/* 17 */
+/***/ function(module, exports, __webpack_require__) {
+
+	var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;/*!
+	 * horizontal layout mode for Isotope
+	 * v1.1.2
+	 * http://isotope.metafizzy.co/layout-modes/horizontal.html
+	 */
+
+	( function( window ) {
+
+	'use strict';
+
+	function horizontalDefinition( LayoutMode ) {
+
+	  var Horizontal = LayoutMode.create( 'horizontal', {
+	    verticalAlignment: 0
+	  });
+
+	  Horizontal.prototype._resetLayout = function() {
+	    this.x = 0;
+	  };
+
+	  Horizontal.prototype._getItemLayoutPosition = function( item ) {
+	    item.getSize();
+	    var y = ( this.isotope.size.innerHeight - item.size.outerHeight ) *
+	      this.options.verticalAlignment;
+	    var x = this.x;
+	    this.x += item.size.outerWidth;
+	    return { x: x, y: y };
+	  };
+
+	  Horizontal.prototype._getContainerSize = function() {
+	    return { width: this.x };
+	  };
+
+	  Horizontal.prototype.needsResizeLayout = function() {
+	    return this.needsVerticalResizeLayout();
+	  };
+
+	  return Horizontal;
+
+	}
+
+	if ( true ) {
+	  // AMD
+	  !(__WEBPACK_AMD_DEFINE_ARRAY__ = [
+	      __webpack_require__(11)
+	    ], __WEBPACK_AMD_DEFINE_FACTORY__ = (horizontalDefinition), __WEBPACK_AMD_DEFINE_RESULT__ = (typeof __WEBPACK_AMD_DEFINE_FACTORY__ === 'function' ? (__WEBPACK_AMD_DEFINE_FACTORY__.apply(exports, __WEBPACK_AMD_DEFINE_ARRAY__)) : __WEBPACK_AMD_DEFINE_FACTORY__), __WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__));
+	} else if ( typeof exports === 'object' ) {
+	  // CommonJS
+	  module.exports = horizontalDefinition(
+	    require('isotope-layout/js/layout-mode')
+	  );
+	} else {
+	  // browser global
+	  horizontalDefinition(
+	    window.Isotope.LayoutMode
+	  );
+	}
+
+	})( window );
 
 
 /***/ }
