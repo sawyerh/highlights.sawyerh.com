@@ -14,9 +14,28 @@ layout: default
         </blockquote>
 
         <div class="highlight__footer">
-          <cite class="highlight__book">{{ book.first.title }}</cite>
-          <a href="{{ highlight.url }}">Share</a>
+          <cite class="highlight__book">
+            {{ book.first.title }}
+            {% if book.first.author %}
+              &middot;
+              {{ book.first.author }}
+            {% endif %}
+          </cite>
+          &middot; <a href="{{ highlight.url }}">Share</a>
         </div>
+
+        {% if highlight.comments %}
+          <div class="comments">
+            {% for comment in highlight.comments %}
+              <div class="comment">
+                {{ comment.body }}
+                {% if comment.author %}
+                  <cite class="comment__author">&mdash; {{ comment.author }}</cite>
+                {% endif %}
+              </div>
+            {% endfor %}
+          </div>
+        {% endif %}
       </div>
     </article>
 

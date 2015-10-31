@@ -19,4 +19,4 @@ defaults:
   values:
     permalink: "/posts/:title/"
 permalinks: pretty
-exclude: ['node_modules', 'bower_components']
+exclude: ['node_modules', 'bower_components', 'siteleaf-gem']

@@ -14,4 +14,4 @@ var createGrid = function(){
 };
 
 
-window.onload = createGrid;
+// window.onload = createGrid;

@@ -60,7 +60,7 @@
 	};
 
 
-	window.onload = createGrid;
+	// window.onload = createGrid;
 
 /***/ },
 /* 1 */
