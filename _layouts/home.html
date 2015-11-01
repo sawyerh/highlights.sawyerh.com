@@ -2,27 +2,39 @@
 layout: default
 ---
 {% assign all_highlights = site.highlights %}
+<header class="nav">
+  <span class="filter">
+    Filter by book
+  </span>
+
+  <div class="nav__buttons">
+    <button class="ss-icon nav__button nav--prev is-inactive">navigateleft</button>
+    <button class="ss-icon nav__button nav--next">navigateright</button>
+  </div>
+</header>
 
 <section class="container">
   {% for book in site.books %}
-    {% assign highlights = all_highlights | where:"book_uuid", book.uuid %}
+    {% assign highlights = all_highlights | where:"book_uuid", book.uuid | sort: 'location' %}
 
     <div class="book">
-      <h1 class="book__title">
-        <strong>{{ book.title }}</strong>
-        {% if book.author %}
-          <span class="book__credit">{{ book.author }}</span>
-        {% endif %}
-      </h1>
+      <h1 class="book__title">{{ book.title }}</h1>
+      {% if book.author %}
+        <h2 class="book__credit">{{ book.author }}</h2>
+      {% endif %}
       {% for highlight in highlights %}
         <article class="highlight{% if highlight.is_featured %} highlight--featured{% endif %}">
           <blockquote class="highlight__content">
             {{ highlight.content }}
           </blockquote>
 
-          {% comment %}<div class="highlight__footer">
-            <a href="{{ highlight.url }}">Share</a>
-          </div>{% endcomment %}
+          <div class="highlight__footer">
+            {% if highlight.location %}
+              {{ highlight.location }} &middot;
+            {% endif %}
+
+            <a href="{{ highlight.url }}" class="ss-icon">link</a>
+          </div>
 
           {% if highlight.comments %}
             <div class="comments">

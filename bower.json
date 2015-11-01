@@ -2,6 +2,7 @@
   "name": "highlights.sawyerhollenshead.com",
   "dependencies": {
     "isotope": "~2.2.2",
-    "isotope-horizontal": "~1.1.2"
+    "isotope-horizontal": "~1.1.2",
+    "flickity": "~1.1.1"
   }
 }
