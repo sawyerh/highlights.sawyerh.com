@@ -4,6 +4,7 @@ title: 'American Gods: I can tell you this, you never say no to the opportunity 
 book_uuid: 7c440081-4527-417c-a9b4-82e5f8d6cfff
 location: 1952-1953
 source: kindle
+layout: highlight
 ---
 
 I can tell you this, you never say no to the opportunity to piss, to eat, or to get half an hour’s shut-eye.

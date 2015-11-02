@@ -2,22 +2,16 @@
 ---
 @import 'toolbox';
 @import 'flickity';
+@import 'variables';
 
-$text_default: #fff;
-$text_faded: #919BA0;
+@each $color in $colors{
+  $book_selector: unquote(".book:nth-child(#{length($colors)}n + #{index($colors, $color)})");
+  $nav_selector: unquote(".books__nav__item:nth-child(#{length($colors)}n + #{index($colors, $color)})");
 
-$bg_default: #111;
-$bg_light: #FBFAF9;
-
-$border_color: rgba(#fff, 0.2);
-
-$h_nav: 60px;
-$gutter: 30px;
-
-$colors: "#ff8a80", "#ff80ab", "#ea80fc", "#b388ff", "#8c9eff", "#82b1ff", "#80d8ff", "#84ffff", "#a7ffeb", "#b9f6ca", "#ccff90", "#f4ff81", "#ffff8d", "#ffe57f", "#ffd180", "#ff9e80";
-
-$font_body: "freight-text-pro"; //"freight-sans-pro";
-$font_headline: "acumin-pro-extra-condensed"; //"freight-display-pro";
+  #{$book_selector} .highlight__content, #{$nav_selector}{
+    background-color: unquote($color);
+  }
+}
 
 * {
   @include box-sizing(border-box)
@@ -27,7 +21,7 @@ body{
   -webkit-font-smoothing: antialiased;
   background: $bg_default;
   color: $text_default;
-  font-family: $font_body;
+  font-family: $serif;
   font-size: 18px;
   margin: 0;
 }
@@ -44,12 +38,28 @@ p{
   }
 }
 
+button{
+  background: none;
+  border: 0 none;
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+}
+
+// NAV
+// ========================================================
 .nav{
-  border-top: 1px solid $border_color;
   position: fixed;
   left: 0;
   bottom: 0;
+  min-height: $h_nav;
   width: 100%;
+  z-index: 20;
+  overflow: auto;
+}
+
+.nav__sticky{
+  background: $bg_dark;
   height: $h_nav;
 }
 
@@ -61,18 +71,17 @@ p{
   width: $h_nav;
   height: $h_nav;
   background: #fff;
-  color: $bg_default;
+  color: $bg_dark;
   border: 0 none;
-  border-left: 1px solid $bg_default;
+  border-left: 1px solid $bg_dark;
   font-size: 32px;
-  cursor: pointer;
   float: left;
   transition: background-color 500ms ease, color 500ms ease;
   outline: none;
 
   &.is-inactive{
     pointer-events: none;
-    background: $bg_default;
+    background: $bg_dark;
     color: $text_faded;
   }
 
@@ -85,6 +94,51 @@ p{
   }
 }
 
+.books__nav__toggle{
+  line-height: $h_nav;
+  font-family: $sans_condensed;
+  font-size: 24px;
+  color: $text_faded;
+  margin-left: 20px;
+
+  &:before{
+    margin-right: 5px;
+    position: relative;
+    top: 2px;
+    font-size: 85%;
+    color: $text_default;
+  }
+}
+
+// BOOKS NAV
+// ========================================================
+.books__nav{
+  clear: both;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: none;
+}
+
+.books__nav__item{
+  font-family: $sans_condensed;
+  font-size: 90px;
+  line-height: 1;
+  padding: ($gutter * 1.4) ($gutter * 2) ($gutter * 2);
+}
+
+.books__nav__link{
+  display: block;
+  color: #000;
+  text-decoration: none;
+
+  &:hover{
+    text-decoration: underline;
+  }
+}
+
+// HIGHLIGHTS
+// ========================================================
 .container{
   position: fixed !important;
   bottom: $h_nav;
@@ -92,6 +146,7 @@ p{
   top: 0;
   width: 100%;
   overflow: auto;
+  z-index: 10;
 }
 
 .book{
@@ -99,8 +154,9 @@ p{
   width: 100%;
   padding: $gutter;
   overflow: auto;
-  top: 0;
+  top: 10px;
   bottom: 0;
+  border-right: 1px solid $border_color;
 
   &::-webkit-scrollbar {
     width: 2px;
@@ -109,29 +165,18 @@ p{
   &::-webkit-scrollbar-track {
     width: 2px;
     border-radius: 30px;
-    box-shadow: 0 0 1px rgba(#fff, 0.2) inset;
   }
 
   &::-webkit-scrollbar-thumb {
     outline: none;
     border-radius: 30px;
-    background-color: rgba(#fff, 0.1);
+    background-color: lighten($border_color, 7%);
     width: 10px;
   }
 }
 
-@each $color in $colors{
-  $selector: unquote(".book:nth-child(#{length($colors)}n + #{index($colors, $color)})");
-
-  #{$selector}{
-    .highlight__content{
-      background-color: unquote($color);
-    }
-  }
-}
-
 .book__title{
-  font-family: $font_headline;
+  font-family: $sans_condensed;
   font-weight: 400;
   font-size: 44px;
   margin: 0;
@@ -139,7 +184,7 @@ p{
 }
 
 .book__credit{
-  font-family: $font_headline;
+  font-family: $sans_condensed;
   font-weight: 400;
   font-size: 24px;
   margin: 0;
@@ -160,24 +205,28 @@ p{
   margin: 0;
   border-radius: 2px;
   color: #000;
+  border-bottom: 3px solid #000;
 }
 
 .highlight__footer{
-  font-size: 16px;
-  font-family: $font_headline;
-  letter-spacing: 1px;
+  font-size: 12px;
+  font-family: $sans;
   color: $text_faded;
   margin-top: 5px;
+}
 
-  a{
-    color: $text_faded;
+.highlight__link{
+  vertical-align: middle;
+  color: $text_faded;
+  margin-right: 3px;
 
-    &:hover{
-      color: $text_default;
-    }
+  &:hover{
+    color: $text_default;
   }
 }
 
+// COMMENTS
+// ========================================================
 .comments{
   font-size: 14px;
 }
