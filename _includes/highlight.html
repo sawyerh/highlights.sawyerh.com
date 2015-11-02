@@ -4,8 +4,14 @@
   </blockquote>
 
   <div class="highlight__footer">
-    <a href="{{ highlight.url }}" class="ss-icon highlight__link">link</a>
-    {% if highlight.location %}{{ highlight.location }}{% endif %}
+    {% if page.collection == 'highlights' %}
+      <a href="/#{{ book.path }}" class="ss-navigateleft highlight__link highlight__link--all">Browse all highlights</a>
+    {% else %}
+      <a href="{{ highlight.url }}" class="ss-icon highlight__link">link</a>
+    {% endif %}
+    {% if highlight.location %}
+      <span class="highlight__location">{{ highlight.location }}</span>
+    {% endif %}
   </div>
 
   {% if highlight.comments %}

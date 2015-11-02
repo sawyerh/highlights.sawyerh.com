@@ -18,5 +18,9 @@ defaults:
     type: posts
   values:
     permalink: "/posts/:title/"
+- scope:
+    path: "highlights"
+  values:
+    layout: "highlight"
 permalinks: pretty
 exclude: ['node_modules', 'bower_components', 'siteleaf-gem']

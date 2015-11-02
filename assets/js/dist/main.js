@@ -65,7 +65,8 @@
 	});
 
 	var state = {
-	  showingBooksNav: false
+	  showingBooksNav: false,
+	  hashChecked: false
 	};
 
 	var handleKeyDown = function (event) {
@@ -81,13 +82,14 @@
 	};
 
 	var handleBookLinkClick = function (event) {
-	  var path = event.target.href.split('#')[1];
-
-	  _forEach(books, (book, i) => {
-	    if (book.getAttribute('data-path') == path) flkty.select(i);
-	  });
-
+	  selectByHash(event.target.href);
 	  handleBooksToggle();
+	};
+
+	var selectByHash = function (hash) {
+	  _forEach(books, (book, i) => {
+	    if (book.getAttribute('data-path') == hash.split('#')[1]) flkty.select(i);
+	  });
 	};
 
 	var handleBooksToggle = function (event) {
@@ -139,6 +141,12 @@
 	_forEach(bookLinks, link => eventie.bind(link, 'click', handleBookLinkClick));
 
 	flkty.on('settle', () => {
+	  if (!state.hashChecked) {
+	    state.hashChecked = true;
+
+	    if (window.location.hash && window.location.hash != '') selectByHash(window.location.hash);
+	  }
+
 	  if (flkty.selectedIndex == 0) {
 	    prev.classList.add('is-inactive');
 	  } else {

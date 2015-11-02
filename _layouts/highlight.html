@@ -3,4 +3,10 @@ layout: default
 ---
 
 {% assign highlight = page %}
-{% include highlight.html %}
+{% assign books = site.books | where:"uuid", page.book_uuid %}
+{% assign book = books.first %}
+
+<div class="book permalink">
+  {% include book_header.html %}
+  {% include highlight.html %}
+</div>

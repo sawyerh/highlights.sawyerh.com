@@ -28,10 +28,7 @@ layout: default
     {% assign highlights = all_highlights | where:"book_uuid", book.uuid | sort: 'location' %}
 
     <div class="book" data-path="{{ book.path }}">
-      <h1 class="book__title">{{ book.title }}</h1>
-      {% if book.author %}
-        <h2 class="book__credit">{{ book.author }}</h2>
-      {% endif %}
+      {% include book_header.html %}
       {% for highlight in highlights %}
         {% include highlight.html %}
       {% endfor %}

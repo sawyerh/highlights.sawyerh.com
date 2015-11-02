@@ -19,7 +19,8 @@ var flkty = new Flickity(container, {
 });
 
 var state = {
-  showingBooksNav: false
+  showingBooksNav: false,
+  hashChecked: false
 }
 
 var handleKeyDown = function( event ) {
@@ -36,14 +37,15 @@ var handleKeyDown = function( event ) {
 };
 
 var handleBookLinkClick = function( event ) {
-  var path = event.target.href.split('#')[1];
+  selectByHash(event.target.href);
+  handleBooksToggle();
+};
 
+var selectByHash = function( hash ) {
   _forEach(books, (book, i) => {
-    if(book.getAttribute('data-path') == path)
+    if(book.getAttribute('data-path') == hash.split('#')[1])
       flkty.select(i);
   });
-
-  handleBooksToggle();
 };
 
 var handleBooksToggle = function( event ) {
@@ -95,6 +97,13 @@ eventie.bind(prev, 'click', () => flkty.previous() );
 _forEach(bookLinks, (link) => eventie.bind(link, 'click', handleBookLinkClick) );
 
 flkty.on('settle', () => {
+  if(!state.hashChecked){
+    state.hashChecked = true;
+
+    if(window.location.hash && window.location.hash != '')
+      selectByHash(window.location.hash);
+  }
+
   if(flkty.selectedIndex == 0){
     prev.classList.add('is-inactive');
   } else {

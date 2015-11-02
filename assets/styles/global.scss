@@ -5,8 +5,9 @@
 @import 'variables';
 
 @each $color in $colors{
-  $book_selector: unquote(".book:nth-child(#{length($colors)}n + #{index($colors, $color)})");
-  $nav_selector: unquote(".books__nav__item:nth-child(#{length($colors)}n + #{index($colors, $color)})");
+  $i: index($colors, $color);
+  $book_selector: unquote(".book:nth-child(#{length($colors)}n + #{$i})");
+  $nav_selector: unquote(".books__nav__item:nth-child(#{length($colors)}n + #{$i})");
 
   #{$book_selector} .highlight__content, #{$nav_selector}{
     background-color: unquote($color);
@@ -22,7 +23,7 @@ body{
   background: $bg_default;
   color: $text_default;
   font-family: $serif;
-  font-size: 18px;
+  font-size: $font_size_default;
   margin: 0;
 }
 
@@ -200,6 +201,12 @@ button{
   }
 }
 
+.permalink{
+  margin: 90px auto;
+  border-right: 0 none;
+  max-width: 600px;
+}
+
 .book__title{
   font-family: $sans_condensed;
   font-weight: 400;
@@ -229,13 +236,19 @@ button{
   padding: 15px 20px;
   margin: 0;
   border-radius: 2px;
+  background-color: unquote(nth($colors, 1));
   color: #000;
-  border-bottom: 3px solid #000;
+
+  .permalink &{
+    padding: 25px 30px;
+    font-size: $font_size_default + 6;
+  }
 }
 
 .highlight__footer{
   font-size: 12px;
   font-family: $sans;
+  font-weight: 500;
   color: $text_faded;
   margin-top: 5px;
 }
@@ -244,10 +257,31 @@ button{
   vertical-align: middle;
   color: $text_faded;
   margin-right: 3px;
+  text-decoration: none;
 
   &:hover{
     color: $text_default;
   }
+}
+
+.highlight__link--all{
+  color: $text_default;
+  font-size: 14px;
+  margin-right: 10px;
+
+  &:hover{
+    color: $text_faded;
+  }
+
+  &:before{
+    margin-right: 3px;
+    position: relative;
+    top: 3px;
+  }
+}
+
+.permalink .highlight__location{
+  float: right;
 }
 
 // COMMENTS
