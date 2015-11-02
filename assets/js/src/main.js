@@ -1,8 +1,14 @@
 require('flickity');
-var books = document.querySelectorAll('.book');
-var container = document.querySelector('.container');
-var next = document.querySelector('.nav--next');
-var prev = document.querySelector('.nav--prev');
+var _forEach = require('lodash/collection/forEach'),
+    animate = require('animateplus'),
+    books = document.querySelectorAll('.book'),
+    bookLinks = document.querySelectorAll('.books__nav__link'),
+    booksNav = document.querySelector('.books__nav'),
+    booksToggle = document.querySelector('.books__nav__toggle'),
+    container = document.querySelector('.container'),
+    nav = document.querySelector('.nav'),
+    next = document.querySelector('.nav--next'),
+    prev = document.querySelector('.nav--prev');
 
 var flkty = new Flickity(container, {
   cellAlign: 'left',
@@ -11,6 +17,10 @@ var flkty = new Flickity(container, {
   draggable: false,
   prevNextButtons: false
 });
+
+var state = {
+  showingBooksNav: false
+}
 
 var handleKeyDown = function( event ) {
   // Flickity only fires key navigation events when the container is in focus,
@@ -25,15 +35,64 @@ var handleKeyDown = function( event ) {
   }
 };
 
+var handleBookLinkClick = function( event ) {
+  var path = event.target.href.split('#')[1];
+
+  _forEach(books, (book, i) => {
+    if(book.getAttribute('data-path') == path)
+      flkty.select(i);
+  });
+
+  handleBooksToggle();
+};
+
+var handleBooksToggle = function( event ) {
+  state.showingBooksNav ? hideBooksNav() : showBooksNav();
+  state.showingBooksNav = !state.showingBooksNav;
+};
+
+var hideBooksNav = function(){
+  var top = nav.offsetTop;
+
+  animate({
+    el: nav,
+    translateY: [(top * -1), 0],
+    easing: 'easeOutExpo',
+    duration: 750,
+    begin: () => {
+      nav.classList.remove('showing-books-nav');
+    },
+    complete: () => {
+      booksNav.style.display = 'none';
+      nav.style.top = 'auto';
+      nav.style.bottom = '0';
+    }
+  });
+};
+
+var showBooksNav = function(){
+  var top = nav.offsetTop;
+
+  animate({
+    el: nav,
+    translateY: (top * -1),
+    easing: 'easeOutExpo',
+    duration: 750,
+    begin: () => {
+      nav.style.top = top + 'px';
+      nav.style.bottom = 'auto';
+      nav.classList.add('showing-books-nav');
+      booksNav.style.display = 'block';
+    }
+  });
+};
+
 eventie.bind( document, 'keydown', handleKeyDown );
-
-next.addEventListener('click', () => {
-  flkty.next();
-}, false);
-
-prev.addEventListener('click', () => {
-  flkty.previous();
-}, false);
+eventie.bind(booksToggle, 'click', handleBooksToggle );
+eventie.bind(document.querySelector('.nav--collapse'), 'click', handleBooksToggle );
+eventie.bind(next, 'click', () => flkty.next() );
+eventie.bind(prev, 'click', () => flkty.previous() );
+_forEach(bookLinks, (link) => eventie.bind(link, 'click', handleBookLinkClick) );
 
 flkty.on('settle', () => {
   if(flkty.selectedIndex == 0){

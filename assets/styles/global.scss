@@ -53,9 +53,9 @@ button{
   left: 0;
   bottom: 0;
   min-height: $h_nav;
+  max-height: 100%;
   width: 100%;
   z-index: 20;
-  overflow: auto;
 }
 
 .nav__sticky{
@@ -94,12 +94,37 @@ button{
   }
 }
 
+.nav--collapse{
+  display: none;
+}
+
+.showing-books-nav{
+  overflow: auto;
+
+  .nav--next, .nav--prev{
+    display: none;
+  }
+
+  .nav--collapse{
+    display: inline-block;
+  }
+
+  .books__nav__toggle:before{
+    content: '-';
+  }
+}
+
 .books__nav__toggle{
   line-height: $h_nav;
   font-family: $sans_condensed;
   font-size: 24px;
   color: $text_faded;
   margin-left: 20px;
+  outline: none;
+
+  &:hover{
+    color: $text_default;
+  }
 
   &:before{
     margin-right: 5px;
