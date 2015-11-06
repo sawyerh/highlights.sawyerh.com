@@ -1,0 +1,12 @@
+---
+title: 'Anon: There&#x2019;s a quick way to determine if your company has embraced
+  the negative definition o…'
+book_uuid: d28b3d60-73b7-4cd3-8836-29f3903bb687
+comments:
+- body: ''
+highlighted_on: August 1, 2015
+location: 'Chapter 6: Fear and Failure'
+source: ibooks
+---
+
+There&#x2019;s a quick way to determine if your company has embraced the negative definition of failure. Ask yourself what happens when an error is discovered. Do people shut down and turn inward, instead of coming together to untangle the causes of problems that might be avoided going forward? Is the question being asked: Whose fault was this? If so, your culture is one that vilifies failure. Failure is difficult enough without it being compounded by the search for a scapegoat.
