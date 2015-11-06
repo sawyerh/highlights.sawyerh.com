@@ -1,0 +1,22 @@
+---
+title: 'The Playboy Interview: The Essentials: Actors go into auditions thinking,
+  Oh God, they’re going to h…'
+book_uuid: 435c903c-9cc6-4980-8d1c-1848b5c42911
+comments:
+- body: George Clooney
+  date: '2013-12-11T05:08:33Z'
+  user:
+    username: sawyer
+    firstname: Sawyer
+    lastname: Hollenshead
+    country: USA
+    city: Brooklyn
+    website: ''
+    description: ''
+    avatar: assets/avatars/sawyer.jpg
+highlighted_on: '2013-12-11T05:08:00Z'
+location: 0.85995
+source: readmill
+---
+
+Actors go into auditions thinking, Oh God, they’re going to hate me, they’re going to hate me. I started to come in selling confidence, not even my acting skills. The best actor never gets the job when they audition. Never. Especially in television. The guy who gets the job is somebody who comes in and delivers every day. It’s often looks more than anything. So I just changed my attitude. I thought, From here on out, I cannot lose a job. I’ll do whatever it takes. So I’d come in with a dog under my arm for some scene. I’d pull a champagne bottle and phone out of my jacket and do the scene. People were like, “What the fuck is that?’’ I just thought, Fuck it. It’s where I’m going to hit the ball, not if I’m going to hit it.

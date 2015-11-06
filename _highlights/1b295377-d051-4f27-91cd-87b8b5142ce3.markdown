@@ -1,0 +1,11 @@
+---
+title: 'The Boy Kings: As the engineering team grew into the hundreds, the product
+  teams were refashioned on…'
+book_uuid: ff17aad4-39dd-4462-bc21-3706f8bc842f
+comments: []
+highlighted_on: '2014-02-04T04:05:26Z'
+location: 0.809453
+source: readmill
+---
+
+As the engineering team grew into the hundreds, the product teams were refashioned on the model of little startups, with their own war rooms, so that they could feel like small companies despite being part of the larger group.

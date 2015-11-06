@@ -1,0 +1,11 @@
+---
+title: 'Mr. Penumbra''s 24-Hour Bookstore: A Novel: And then, on a sunny Friday morning,
+  for three seconds, y…'
+book_uuid: cf6bbd89-79cd-4092-898b-567941822c9e
+comments: []
+highlighted_on: '2012-11-22T00:00:00Z'
+location: 
+source: readmill
+---
+
+And then, on a sunny Friday morning, for three seconds, you can’t search for anything. You can’t check your email. You can’t watch any videos. You can’t get directions. For just three seconds, nothing works, because every single one of Google’s computers around the world is dedicated to this task. Make that a really, really big gun.

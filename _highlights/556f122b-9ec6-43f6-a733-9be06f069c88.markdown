@@ -1,0 +1,21 @@
+---
+title: 'Pocket 2012 - A Reading List: Live in the future, then build what''s missing.'
+book_uuid: a986d8bf-13d4-4025-9e4f-fc682f4b9813
+comments:
+- body: Paul Graham - Coming up with startup ideas
+  date: '2012-12-31T23:14:49Z'
+  user:
+    username: sawyer
+    firstname: Sawyer
+    lastname: Hollenshead
+    country: USA
+    city: Brooklyn
+    website: ''
+    description: ''
+    avatar: assets/avatars/sawyer.jpg
+highlighted_on: '2012-12-31T23:14:49Z'
+location: 0.824165
+source: readmill
+---
+
+Live in the future, then build what's missing.

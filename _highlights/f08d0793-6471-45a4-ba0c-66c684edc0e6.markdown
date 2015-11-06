@@ -1,0 +1,22 @@
+---
+title: 'Sawyer Hollenshead''s Gazette - Mar 22: Let me let you in on a little secret:
+  if you are hearing abou…'
+book_uuid: 112353ce-6a37-454c-8c36-c65951ea9e12
+comments:
+- body: Frank Chimero × Blog × Let’s Talk About Timeless Design
+  date: '2013-03-23T14:57:30Z'
+  user:
+    username: sawyer
+    firstname: Sawyer
+    lastname: Hollenshead
+    country: USA
+    city: Brooklyn
+    website: ''
+    description: ''
+    avatar: assets/avatars/sawyer.jpg
+highlighted_on: '2013-03-23T14:57:30Z'
+location: 0.951156
+source: readmill
+---
+
+Let me let you in on a little secret: if you are hearing about something old, it is almost certainly good. Why? Because nobody wants to talk about shitty old stuff, but lots of people still talk about shitty new stuff, because they are still trying to figure out if it is shitty or not. The past wasn’t better, we just forgot about all the shitty shit.

@@ -1,0 +1,11 @@
+---
+title: 'Sawyer Hollenshead''s Gazette - Jun 21: Returning to Anil''s description of
+  the web we lost: We get a …'
+book_uuid: 469e1316-6c75-403f-b20e-38e529ec2521
+comments: []
+highlighted_on: '2013-06-23T02:56:49Z'
+location: 0.273951
+source: readmill
+---
+
+Returning to Anil's description of the web we lost: We get a generation of entrepreneurs encouraged to make more narrow-minded, web-hostile products like these because it continues to make a small number of wealthy people even more wealthy, instead of letting lots of people build innovative new opportunities for themselves on top of the web itself.

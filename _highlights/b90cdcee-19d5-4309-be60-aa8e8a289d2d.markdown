@@ -1,0 +1,21 @@
+---
+title: 'Submergence: His phone rang before dawn. His first waking word was a profanity.'
+book_uuid: e7a56261-5c64-4cd8-bf3e-d987fda95555
+comments:
+- body: Same
+  date: '2014-01-30T02:10:32Z'
+  user:
+    username: sawyer
+    firstname: Sawyer
+    lastname: Hollenshead
+    country: USA
+    city: Brooklyn
+    website: ''
+    description: ''
+    avatar: assets/avatars/sawyer.jpg
+highlighted_on: '2014-01-30T02:10:23Z'
+location: 0.267005
+source: readmill
+---
+
+His phone rang before dawn. His first waking word was a profanity.

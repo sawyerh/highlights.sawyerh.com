@@ -1,0 +1,11 @@
+---
+title: 'What Technology Wants: Thomas Edison believed his phonograph would be used
+  primarily to record the l…'
+book_uuid: 4d38439a-10eb-4384-9937-69ae643c45bc
+comments: []
+highlighted_on: '2013-02-27T03:46:14Z'
+location: 0.512487
+source: readmill
+---
+
+Thomas Edison believed his phonograph would be used primarily to record the last-minute bequests of the dying. The radio was funded by early backers who believed it would be the ideal device for delivering sermons to rural farmers. Viagra was clinically tested as a drug for heart disease. The internet was invented as a disaster-proof communications backup. Very few great ideas start out headed toward the greatness they eventually achieve. That means that projecting what harm may come from a technology before it “is” is almost impossible.

@@ -1,0 +1,11 @@
+---
+title: 'Sawyer Hollenshead''s Gazette - May 24: in order to determine north, one needs
+  to know the direction …'
+book_uuid: 374096b9-5cce-4330-9f81-8d079d7758b3
+comments: []
+highlighted_on: '2013-05-26T17:23:30Z'
+location: 0.457019
+source: readmill
+---
+
+in order to determine north, one needs to know the direction east

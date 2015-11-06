@@ -1,0 +1,11 @@
+---
+title: 'Sawyer Hollenshead''s Gazette - May 31: Jones Beach has been hailed as one
+  of the most beautiful and …'
+book_uuid: 53c3c677-0614-40ba-a91c-a1b7c4b0e1cc
+comments: []
+highlighted_on: '2013-06-04T23:43:24Z'
+location: 0.659529
+source: readmill
+---
+
+Jones Beach has been hailed as one of the most beautiful and impressive public parks in the world.

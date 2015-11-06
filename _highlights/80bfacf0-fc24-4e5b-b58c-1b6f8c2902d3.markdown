@@ -1,0 +1,11 @@
+---
+title: 'The Boy Kings: People were too busy reading their screens to talk to each
+  other.'
+book_uuid: ff17aad4-39dd-4462-bc21-3706f8bc842f
+comments: []
+highlighted_on: '2014-02-04T04:52:38Z'
+location: 0.889096
+source: readmill
+---
+
+People were too busy reading their screens to talk to each other.

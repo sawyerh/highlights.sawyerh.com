@@ -1,0 +1,22 @@
+---
+title: 'Sawyer Hollenshead''s Gazette - Apr 26: we should ask ourselves, is what I
+  am about to say better tha…'
+book_uuid: 34fc8c52-1c8d-4693-8984-ea5a5ab06769
+comments:
+- body: 'Amen, Mike Monterio. '
+  date: '2013-04-27T23:47:39Z'
+  user:
+    username: sawyer
+    firstname: Sawyer
+    lastname: Hollenshead
+    country: USA
+    city: Brooklyn
+    website: ''
+    description: ''
+    avatar: assets/avatars/sawyer.jpg
+highlighted_on: '2013-04-27T23:47:39Z'
+location: 0.352955
+source: readmill
+---
+
+we should ask ourselves, is what I am about to say better than silence? Am I adding anything to what's already being said?

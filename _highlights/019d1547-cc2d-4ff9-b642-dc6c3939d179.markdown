@@ -1,0 +1,11 @@
+---
+title: 'The Kings County Distillery Guide to Urban Moonshining: How to Make and Drink
+  Whiskey: . A 1766 map …'
+book_uuid: fe186552-c315-4722-9904-18d3d5147df0
+comments: []
+highlighted_on: '2013-12-15T22:06:52Z'
+location: 0.131926
+source: readmill
+---
+
+. A 1766 map illustrates very little development in Brooklyn, other than a large distillery complex in Brooklyn Heights standing among the scattered houses in the woods and marshes.

@@ -1,0 +1,11 @@
+---
+title: 'The Internet of Things: Memory Diamond — a hypothetical crystalline form of
+  carbon used for data sto…'
+book_uuid: 1b086139-a308-4335-aca6-40fa0c31637f
+comments: []
+highlighted_on: '2013-05-15T04:15:43Z'
+location: 0.49399
+source: readmill
+---
+
+Memory Diamond — a hypothetical crystalline form of carbon used for data storage, in which each bit is represented positionally by an atom of one isotope or another (in this case, carbon-12 or carbon-13)

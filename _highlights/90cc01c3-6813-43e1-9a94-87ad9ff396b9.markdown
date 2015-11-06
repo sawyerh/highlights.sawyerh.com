@@ -1,0 +1,10 @@
+---
+title: 'Sawyer Hollenshead''s Gazette - May 17: Zen and the Art of Motorcycle Maintenance.'
+book_uuid: c3c41411-f9b4-4049-89f5-b45fb951d47b
+comments: []
+highlighted_on: '2013-05-19T04:02:41Z'
+location: 0.542101
+source: readmill
+---
+
+Zen and the Art of Motorcycle Maintenance.

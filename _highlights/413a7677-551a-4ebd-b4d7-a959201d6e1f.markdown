@@ -1,0 +1,22 @@
+---
+title: 'Sawyer Hollenshead''s Gazette - May 31: the best way to predict the future
+  is to invent it.'
+book_uuid: 53c3c677-0614-40ba-a91c-a1b7c4b0e1cc
+comments:
+- body: Alan Kay
+  date: '2013-06-01T13:47:42Z'
+  user:
+    username: sawyer
+    firstname: Sawyer
+    lastname: Hollenshead
+    country: USA
+    city: Brooklyn
+    website: ''
+    description: ''
+    avatar: assets/avatars/sawyer.jpg
+highlighted_on: '2013-06-01T13:47:42Z'
+location: 0.24223
+source: readmill
+---
+
+the best way to predict the future is to invent it.

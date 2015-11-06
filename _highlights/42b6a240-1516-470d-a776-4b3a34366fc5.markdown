@@ -1,0 +1,11 @@
+---
+title: 'Sawyer Hollenshead''s Gazette - Jun 21: Mitch Hedberg once said that if you
+  spend your whole life pre…'
+book_uuid: 469e1316-6c75-403f-b20e-38e529ec2521
+comments: []
+highlighted_on: '2013-06-22T02:43:05Z'
+location: 0.0723338
+source: readmill
+---
+
+Mitch Hedberg once said that if you spend your whole life preparing, then you're never going to do anything. Just jump in and do it. That's the best way to get better at something. Do it while you suck at it."

@@ -1,0 +1,22 @@
+---
+title: 'Sawyer Hollenshead''s Gazette - May 03: I don''t want to wait on the tool,
+  I want the tool to wait for…'
+book_uuid: 6faeba40-acbc-4d7a-865c-d3f270eed819
+comments:
+- body: 'Orson Welles '
+  date: '2013-05-04T21:17:24Z'
+  user:
+    username: sawyer
+    firstname: Sawyer
+    lastname: Hollenshead
+    country: USA
+    city: Brooklyn
+    website: ''
+    description: ''
+    avatar: assets/avatars/sawyer.jpg
+highlighted_on: '2013-05-04T21:17:24Z'
+location: 0.74981
+source: readmill
+---
+
+I don't want to wait on the tool, I want the tool to wait for me,"

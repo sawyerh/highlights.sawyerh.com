@@ -1,0 +1,11 @@
+---
+title: 'The Playboy Interview: The Essentials: Playboy: Do you enjoy your job? Seinfeld:
+  I am my job. Everyt…'
+book_uuid: 435c903c-9cc6-4980-8d1c-1848b5c42911
+comments: []
+highlighted_on: '2013-11-16T18:18:20Z'
+location: 0.692454
+source: readmill
+---
+
+Playboy: Do you enjoy your job? Seinfeld: I am my job. Everything else in life pales by comparison to the interpretive experience: seeing something, interpreting it, shaping it, communicating it and being affirmed for it.

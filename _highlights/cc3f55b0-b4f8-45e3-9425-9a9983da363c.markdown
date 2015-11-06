@@ -1,0 +1,11 @@
+---
+title: 'The Information: DNA serves two different functions. First, it preserves information.
+  It does this b…'
+book_uuid: 42eddd4e-7595-4d70-a2c3-ce6391d46100
+comments: []
+highlighted_on: '2012-12-03T03:59:14Z'
+location: 0.503154
+source: readmill
+---
+
+DNA serves two different functions. First, it preserves information. It does this by copying itself, from generation to generation, spanning eons—a Library of Alexandria that keeps its data safe by copying itself billions of times.

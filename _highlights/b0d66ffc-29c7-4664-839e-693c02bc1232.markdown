@@ -1,0 +1,22 @@
+---
+title: 'Decoded: When people asked him what his art was about, he’d hit them with
+  the same three words: “Roy…'
+book_uuid: 1efbbece-0d15-4078-978f-deb01dff9fd0
+comments:
+- body: Jean-Michel Basquiat
+  date: '2013-01-27T05:12:43Z'
+  user:
+    username: sawyer
+    firstname: Sawyer
+    lastname: Hollenshead
+    country: USA
+    city: Brooklyn
+    website: ''
+    description: ''
+    avatar: assets/avatars/sawyer.jpg
+highlighted_on: '2013-01-27T05:12:43Z'
+location: 0.248643
+source: readmill
+---
+
+When people asked him what his art was about, he’d hit them with the same three words: “Royalty, heroism, and the streets.”

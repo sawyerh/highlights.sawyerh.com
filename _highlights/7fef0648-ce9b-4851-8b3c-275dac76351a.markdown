@@ -1,0 +1,11 @@
+---
+title: 'Sawyer Hollenshead''s Gazette - May 31: So if the future is possible today,
+  why is it still the futur…'
+book_uuid: 53c3c677-0614-40ba-a91c-a1b7c4b0e1cc
+comments: []
+highlighted_on: '2013-06-01T13:34:06Z'
+location: 0.220047
+source: readmill
+---
+
+So if the future is possible today, why is it still the future?

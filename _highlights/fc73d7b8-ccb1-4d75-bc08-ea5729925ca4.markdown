@@ -1,0 +1,11 @@
+---
+title: 'Close to the machine: When the humans come back to talk changes, I can just
+  run the program. Show th…'
+book_uuid: e944298a-c2b5-4a66-b035-dfb39a161a73
+comments: []
+highlighted_on: '2012-12-25T01:17:29Z'
+location: 0.184715
+source: readmill
+---
+
+When the humans come back to talk changes, I can just run the program. Show them: Here. Look at this. See? This is not just talk. This runs. Whatever you might say, whatever the consequences, all you have are words and what I have is this, this thing I’ve built, this operational system. Talk all you want, but this thing here: it works.

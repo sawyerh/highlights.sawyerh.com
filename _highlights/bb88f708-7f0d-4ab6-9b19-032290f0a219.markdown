@@ -1,0 +1,11 @@
+---
+title: 'Einstein: Question every premise, challenge conventional wisdom, and never
+  accept the truth of somet…'
+book_uuid: 3ba0acc5-3a1c-439c-8422-c5463eeed8ee
+comments: []
+highlighted_on: '2013-05-19T17:20:55Z'
+location: 0.124216
+source: readmill
+---
+
+Question every premise, challenge conventional wisdom, and never accept the truth of something merely because everyone else views it as obvious. Resist being credulous.

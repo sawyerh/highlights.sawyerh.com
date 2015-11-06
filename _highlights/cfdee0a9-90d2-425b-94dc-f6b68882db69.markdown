@@ -1,0 +1,11 @@
+---
+title: 'The Kings County Distillery Guide to Urban Moonshining: How to Make and Drink
+  Whiskey: —whiskey is s…'
+book_uuid: fe186552-c315-4722-9904-18d3d5147df0
+comments: []
+highlighted_on: '2013-12-12T05:40:48Z'
+location: 0.103178
+source: readmill
+---
+
+—whiskey is steeped in America. It is the spirit that George Washington distilled at home and offered to his troops during the Revolutionary War, and the spirit Thomas Jefferson foresaw when granting land in western Virginia to corn growers. It is the spirit that defined the soul of the South after its defeat in the Civil War, and the spirit that was most easily manufactured (sometimes through grossly artificial means) during Prohibition, fueling the urban speakeasies of the Jazz Age,

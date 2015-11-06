@@ -1,0 +1,11 @@
+---
+title: 'Sawyer Hollenshead''s Gazette - May 10: When the core value isn''t technical,
+  it doesn''t matter how mu…'
+book_uuid: 14c58fef-1588-4904-a3b1-6230b6f653da
+comments: []
+highlighted_on: '2013-05-11T22:54:32Z'
+location: 0.400439
+source: readmill
+---
+
+When the core value isn't technical, it doesn't matter how much you know about tech, it matters how well you understand your market and your users.

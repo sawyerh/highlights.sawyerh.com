@@ -1,0 +1,11 @@
+---
+title: 'The Design of Everyday Things: When simple things need pictures, labels, or
+  instructions, the design…'
+book_uuid: e748e589-39d1-4980-98ef-cc0eb1bc3904
+comments: []
+highlighted_on: '2012-03-17T00:00:00Z'
+location: 
+source: readmill
+---
+
+When simple things need pictures, labels, or instructions, the design has failed.

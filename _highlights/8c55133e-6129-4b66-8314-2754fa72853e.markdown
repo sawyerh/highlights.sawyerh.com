@@ -1,0 +1,11 @@
+---
+title: 'The Playboy Interview: The Essentials: Seinfeld: I’m very kind. Everyone has
+  a few fake laughs they …'
+book_uuid: 435c903c-9cc6-4980-8d1c-1848b5c42911
+comments: []
+highlighted_on: '2013-11-16T18:11:51Z'
+location: 0.691441
+source: readmill
+---
+
+Seinfeld: I’m very kind. Everyone has a few fake laughs they use to get through life. The snort, the snort-chuckle, the nod-smile, the “That’s good!” But they’re all just nice ways of saying “Stop. Please stop.”

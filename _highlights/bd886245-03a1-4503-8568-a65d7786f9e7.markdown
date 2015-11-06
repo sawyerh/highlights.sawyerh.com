@@ -1,0 +1,22 @@
+---
+title: 'Sawyer Hollenshead''s Gazette - Mar 22: I think one of the most odd things
+  about learning is the mome…'
+book_uuid: 112353ce-6a37-454c-8c36-c65951ea9e12
+comments:
+- body: The Particle frankchimero.com
+  date: '2013-03-24T17:34:32Z'
+  user:
+    username: sawyer
+    firstname: Sawyer
+    lastname: Hollenshead
+    country: USA
+    city: Brooklyn
+    website: ''
+    description: ''
+    avatar: assets/avatars/sawyer.jpg
+highlighted_on: '2013-03-24T17:34:32Z'
+location: 0.176609
+source: readmill
+---
+
+I think one of the most odd things about learning is the moment where you know enough to realize how much you don’t know. It’s scary as hell, because of how vulnerable it makes you feel.

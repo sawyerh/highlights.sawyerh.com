@@ -1,0 +1,11 @@
+---
+title: 'The Information: He instituted a Noah’s Ark rule, inviting two of each species
+  so that speakers woul…'
+book_uuid: 42eddd4e-7595-4d70-a2c3-ce6391d46100
+comments: []
+highlighted_on: '2012-10-31T01:06:07Z'
+location: 0.415101
+source: readmill
+---
+
+He instituted a Noah’s Ark rule, inviting two of each species so that speakers would always have someone present who could see through their jargon

@@ -1,0 +1,22 @@
+---
+title: 'Sawyer Hollenshead''s Gazette - Jan 03: . Much effort will be put into the
+  designing of vehicles with…'
+book_uuid: 5dcf7675-2b68-4858-a6ed-91ad18029589
+comments:
+- body: "✅"
+  date: '2014-01-03T23:58:53Z'
+  user:
+    username: sawyer
+    firstname: Sawyer
+    lastname: Hollenshead
+    country: USA
+    city: Brooklyn
+    website: ''
+    description: ''
+    avatar: assets/avatars/sawyer.jpg
+highlighted_on: '2014-01-03T23:58:35Z'
+location: 0.775965
+source: readmill
+---
+
+. Much effort will be put into the designing of vehicles with "Robot-brains"*vehicles that can be set for particular destinations and that will then proceed there without interference by the slow reflexes of a human driver.

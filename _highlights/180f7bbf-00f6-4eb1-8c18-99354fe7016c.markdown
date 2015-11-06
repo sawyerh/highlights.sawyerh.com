@@ -1,0 +1,11 @@
+---
+title: 'The Information: E. E. Cummings: “Some son-of-a-bitch will invent a machine
+  to measure Spring with.”'
+book_uuid: 42eddd4e-7595-4d70-a2c3-ce6391d46100
+comments: []
+highlighted_on: '2012-11-05T04:48:26Z'
+location: 0.453594
+source: readmill
+---
+
+E. E. Cummings: “Some son-of-a-bitch will invent a machine to measure Spring with.”

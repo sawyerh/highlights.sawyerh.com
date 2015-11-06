@@ -1,0 +1,11 @@
+---
+title: 'These Days: Resistance to technology is as old as technology itself. Because
+  technology is change, a…'
+book_uuid: 8dae0837-951e-404c-bdd0-8d7856621d86
+comments: []
+highlighted_on: '2013-05-07T04:50:52Z'
+location: 0.944965
+source: readmill
+---
+
+Resistance to technology is as old as technology itself. Because technology is change, and change is difficult to accept.

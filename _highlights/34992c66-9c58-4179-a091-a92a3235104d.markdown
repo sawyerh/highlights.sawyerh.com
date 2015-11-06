@@ -1,0 +1,22 @@
+---
+title: 'Sawyer Hollenshead''s Gazette - Mar 29: It seems hard at this point to envision
+  search and related fu…'
+book_uuid: 30d7d8b0-5212-4f8e-8182-44b72c9f30a9
+comments:
+- body: The Economics of Evil Google - NYTimes.com
+  date: '2013-03-30T02:56:15Z'
+  user:
+    username: sawyer
+    firstname: Sawyer
+    lastname: Hollenshead
+    country: USA
+    city: Brooklyn
+    website: ''
+    description: ''
+    avatar: assets/avatars/sawyer.jpg
+highlighted_on: '2013-03-30T02:56:15Z'
+location: 0.880115
+source: readmill
+---
+
+It seems hard at this point to envision search and related functions as public utilities, but that's arguably where the logic will eventually lead us.

@@ -1,0 +1,11 @@
+---
+title: 'Sawyer Hollenshead''s Gazette - Dec 06: Can well-timed sounds - long neglected
+  on the web but increas…'
+book_uuid: 4fb544cd-9441-4169-987a-67ab680e75d0
+comments: []
+highlighted_on: '2013-12-11T04:22:14Z'
+location: 0.553587
+source: readmill
+---
+
+Can well-timed sounds - long neglected on the web but increasingly common on phones and tablets - tell users what's happening without looking?

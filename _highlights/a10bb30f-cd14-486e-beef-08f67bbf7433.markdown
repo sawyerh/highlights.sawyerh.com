@@ -1,0 +1,11 @@
+---
+title: 'Sawyer Hollenshead''s Gazette - May 31: Technology and economics are so tightly
+  intertwined, in fact,…'
+book_uuid: 53c3c677-0614-40ba-a91c-a1b7c4b0e1cc
+comments: []
+highlighted_on: '2013-06-01T13:35:11Z'
+location: 0.221519
+source: readmill
+---
+
+Technology and economics are so tightly intertwined, in fact, that it hardly even makes sense to consider them in isolation.

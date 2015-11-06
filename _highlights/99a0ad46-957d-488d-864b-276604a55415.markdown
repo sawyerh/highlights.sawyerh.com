@@ -1,0 +1,22 @@
+---
+title: 'The Playboy Interview: The Essentials: In your 20s, you figure out what it
+  is you’re going to be. Yo…'
+book_uuid: 435c903c-9cc6-4980-8d1c-1848b5c42911
+comments:
+- body: George Clooney
+  date: '2013-12-11T05:16:35Z'
+  user:
+    username: sawyer
+    firstname: Sawyer
+    lastname: Hollenshead
+    country: USA
+    city: Brooklyn
+    website: ''
+    description: ''
+    avatar: assets/avatars/sawyer.jpg
+highlighted_on: '2013-12-11T05:16:16Z'
+location: 0.862875
+source: readmill
+---
+
+In your 20s, you figure out what it is you’re going to be. You do a lot of different jobs. By your late 20s, you sort of have some idea of what it is. Then you spend your 30s and a lot of your 40s making your mark.

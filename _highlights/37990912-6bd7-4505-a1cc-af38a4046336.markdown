@@ -1,0 +1,23 @@
+---
+title: 'Sawyer Hollenshead''s Gazette - Apr 05: fine-grained controls had led people
+  to "share more sensitive…'
+book_uuid: 7e775628-c91f-4760-89a1-dc3a27d6deb9
+comments:
+- body: "Web Privacy, and How Consumers Let Down Their Guard\n        \n      \n      \n
+    \       by SOMINI SENGUPTA\n      \n      \n        \n        \n          nytimes.com"
+  date: '2013-04-07T11:05:44Z'
+  user:
+    username: sawyer
+    firstname: Sawyer
+    lastname: Hollenshead
+    country: USA
+    city: Brooklyn
+    website: ''
+    description: ''
+    avatar: assets/avatars/sawyer.jpg
+highlighted_on: '2013-04-07T11:05:18Z'
+location: 0.0812381
+source: readmill
+---
+
+fine-grained controls had led people to "share more sensitive information with larger, and possibly riskier, audiences."

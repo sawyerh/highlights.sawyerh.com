@@ -1,0 +1,22 @@
+---
+title: 'Sawyer Hollenshead''s Gazette - Mar 22: Good design is meant to help other
+  people live well, and if i…'
+book_uuid: 112353ce-6a37-454c-8c36-c65951ea9e12
+comments:
+- body: The Particle frankchimero.com
+  date: '2013-03-24T17:44:46Z'
+  user:
+    username: sawyer
+    firstname: Sawyer
+    lastname: Hollenshead
+    country: USA
+    city: Brooklyn
+    website: ''
+    description: ''
+    avatar: assets/avatars/sawyer.jpg
+highlighted_on: '2013-03-24T17:44:46Z'
+location: 0.1941
+source: readmill
+---
+
+Good design is meant to help other people live well, and if it doesn’t do that for the audience, there’s no point in it existing.

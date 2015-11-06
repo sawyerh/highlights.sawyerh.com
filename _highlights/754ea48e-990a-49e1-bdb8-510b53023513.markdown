@@ -1,0 +1,11 @@
+---
+title: 'The Internet of Things: in 2007 it was estimated that councils in London spent
+  around £150M, or €190…'
+book_uuid: 1b086139-a308-4335-aca6-40fa0c31637f
+comments: []
+highlighted_on: '2013-05-15T04:21:04Z'
+location: 0.44572
+source: readmill
+---
+
+in 2007 it was estimated that councils in London spent around £150M, or €190M, per year on removing chewing gum from the city streets.

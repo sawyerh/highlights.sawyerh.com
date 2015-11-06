@@ -1,0 +1,22 @@
+---
+title: 'Decoded: In the corner of the painting are the words, MOST YOUNG KINGS GET
+  THIER HEAD CUT OFF.'
+book_uuid: 1efbbece-0d15-4078-978f-deb01dff9fd0
+comments:
+- body: Jean-Michel Basquiat
+  date: '2013-01-27T05:16:21Z'
+  user:
+    username: sawyer
+    firstname: Sawyer
+    lastname: Hollenshead
+    country: USA
+    city: Brooklyn
+    website: ''
+    description: ''
+    avatar: assets/avatars/sawyer.jpg
+highlighted_on: '2013-01-27T05:16:21Z'
+location: 0.25104
+source: readmill
+---
+
+In the corner of the painting are the words, MOST YOUNG KINGS GET THIER HEAD CUT OFF.

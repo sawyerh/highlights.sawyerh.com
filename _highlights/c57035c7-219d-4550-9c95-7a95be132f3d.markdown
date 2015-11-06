@@ -1,0 +1,10 @@
+---
+title: 'Einstein: “Best wishes etc., especially the latter.”'
+book_uuid: 3ba0acc5-3a1c-439c-8422-c5463eeed8ee
+comments: []
+highlighted_on: '2013-01-29T04:52:15Z'
+location: 0.0829097
+source: readmill
+---
+
+“Best wishes etc., especially the latter.”

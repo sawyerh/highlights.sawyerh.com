@@ -1,0 +1,11 @@
+---
+title: 'Close to the machine: One VC proposed a toast. “Work hard!” he exclaimed.
+  Another raised his glass. …'
+book_uuid: e944298a-c2b5-4a66-b035-dfb39a161a73
+comments: []
+highlighted_on: '2013-01-07T02:23:19Z'
+location: 0.760378
+source: readmill
+---
+
+One VC proposed a toast. “Work hard!” he exclaimed. Another raised his glass. “Work long hours!” he said.

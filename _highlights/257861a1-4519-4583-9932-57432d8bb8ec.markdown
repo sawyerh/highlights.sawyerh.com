@@ -1,0 +1,11 @@
+---
+title: 'Sawyer Hollenshead''s Gazette - Nov 22: Eventually, he said, "we''ll have
+  a small box like a printer a…'
+book_uuid: 845ebb3b-d6b9-4ce6-a977-0b4ee9c1e0dc
+comments: []
+highlighted_on: '2013-11-23T05:04:16Z'
+location: 0.0531376
+source: readmill
+---
+
+Eventually, he said, "we'll have a small box like a printer attached to your computer." A person with a bacterial infection might be sent the code to recreate a virus intended to kill that specific bacterium.

@@ -1,0 +1,10 @@
+---
+title: 'The Information: his “diamond code”'
+book_uuid: 42eddd4e-7595-4d70-a2c3-ce6391d46100
+comments: []
+highlighted_on: '2012-12-03T03:53:21Z'
+location: 0.499841
+source: readmill
+---
+
+his “diamond code”

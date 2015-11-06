@@ -1,0 +1,11 @@
+---
+title: 'Sawyer Hollenshead''s Gazette - Feb 07: All of the data we''re collecting,
+  all of the data points and …'
+book_uuid: 707105f6-f856-4b4c-8eeb-6c95a864baff
+comments: []
+highlighted_on: '2014-02-08T17:13:58Z'
+location: 0.197911
+source: readmill
+---
+
+All of the data we're collecting, all of the data points and metadata, is history itself. Much as we marvel at Babylonian clay tablets listing measures of grain, future generations will find just as much meaning in our log files as they will in the media we consume.

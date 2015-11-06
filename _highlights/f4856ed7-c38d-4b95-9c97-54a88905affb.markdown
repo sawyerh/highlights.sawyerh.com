@@ -1,0 +1,11 @@
+---
+title: 'ReWork: When there’s something new to announce every two weeks, you energize
+  your team and give your…'
+book_uuid: 5af2509b-87db-4301-8004-6ead65a4a90b
+comments: []
+highlighted_on: '2013-03-21T13:58:38Z'
+location: 0.423012
+source: readmill
+---
+
+When there’s something new to announce every two weeks, you energize your team and give your customers something to be excited about.
