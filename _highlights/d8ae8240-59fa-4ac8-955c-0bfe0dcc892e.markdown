@@ -1,0 +1,9 @@
+---
+title: 'The Undersea Network: Almost all of Australia’s Internet traffic goes out
+  through a single thirty-mi…'
+book_uuid: 49a23562-c08d-4f6b-a199-2bf361f45037
+location: 355-355
+source: kindle
+---
+
+Almost all of Australia’s Internet traffic goes out through a single thirty-mile stretch,
