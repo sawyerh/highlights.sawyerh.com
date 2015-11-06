@@ -2,7 +2,7 @@
 title: 'Instapaper: Friday, Feb. 13th: What does elicit a visceral reaction—hard,
   heavy laughter—is the wall…'
 book_uuid: 1994ebdb-379d-445b-ad30-429ba8ed8778
-location: '1309-1312'
+location: 1309-1312
 source: kindle
 ---
 

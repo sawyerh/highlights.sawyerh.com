@@ -2,7 +2,7 @@
 title: 'Instapaper: Friday, Dec. 19th: time swiping: the ability to go back and forth
   in time.'
 book_uuid: fece53f8-6ac0-4195-baa3-18735bfdfc57
-location: '1242-1242'
+location: 1242-1242
 source: kindle
 ---
 

@@ -2,7 +2,7 @@
 title: 'Fresh Off the Boat: A Memoir: Baos, birds, or bud, you do everything you can
   up front to get them in…'
 book_uuid: 075045fb-856e-4beb-adfb-309ddc3e7f53
-location: '2758-2760'
+location: 2758-2760
 source: kindle
 ---
 

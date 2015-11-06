@@ -2,7 +2,7 @@
 title: 'Sawyer Hollenshead''s Gazette - Jul 05: This is how RSS and Atom have always
   worked: you put in some …'
 book_uuid: 655bcc91-1c0d-4824-ad21-e281465e10fb
-location: '2698-2700'
+location: 2698-2700
 source: kindle
 ---
 

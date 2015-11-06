@@ -1,7 +1,7 @@
 ---
 title: 'American Gods: bought his stupid at a two-for-one sale,'
 book_uuid: 63f2d586-e837-44b5-93d2-4629915beb98
-location: '1955-1956'
+location: 1955-1956
 source: kindle
 ---
 

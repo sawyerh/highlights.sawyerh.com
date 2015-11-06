@@ -4,7 +4,7 @@ title: 'Mr. Penumbra''s 24-Hour Bookstore: A Novel: People want things to be rea
 book_uuid: cf6bbd89-79cd-4092-898b-567941822c9e
 comments: []
 highlighted_on: '2012-10-15T00:00:00Z'
-location:
+location: 
 source: readmill
 ---
 

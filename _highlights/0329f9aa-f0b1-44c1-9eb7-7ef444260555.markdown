@@ -2,7 +2,7 @@
 title: 'The Undersea Network: One recent cable that connects Australia and Guam has
   enough capacity to carry…'
 book_uuid: 49a23562-c08d-4f6b-a199-2bf361f45037
-location: '349-351'
+location: 349-351
 source: kindle
 ---
 

@@ -2,7 +2,7 @@
 title: 'The Playboy Interview: The Essentials: Trumpet players, like anybody else,
   are individualized by the…'
 book_uuid: 435c903c-9cc6-4980-8d1c-1848b5c42911
-location: '275-276'
+location: 275-276
 source: kindle
 ---
 

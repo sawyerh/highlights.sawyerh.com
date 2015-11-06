@@ -2,7 +2,7 @@
 title: 'American Gods: I can tell you this, you never say no to the opportunity to
   piss, to eat, or to get h…'
 book_uuid: 63f2d586-e837-44b5-93d2-4629915beb98
-location: '1952-1953'
+location: 1952-1953
 source: kindle
 ---
 
