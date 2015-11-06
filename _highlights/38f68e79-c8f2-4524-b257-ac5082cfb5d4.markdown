@@ -4,7 +4,7 @@ title: 'Quiet: I discovered early on that people don’t buy from me because the
 book_uuid: ded39800-49e5-4448-a582-6159f3775e7e
 comments: []
 highlighted_on: '2012-12-12T03:34:37Z'
-location: 0.716201
+location: '0.716201'
 source: readmill
 ---
 

@@ -2,7 +2,7 @@
 title: 'The Everything Store: Jeff Bezos and the Age of Amazon: After the interviews,
   everyone who had parti…'
 book_uuid: 52cc3535-ebbd-4e2e-83d9-6c0bd53d3258
-location: 260-262
+location: '260-262'
 source: kindle
 ---
 

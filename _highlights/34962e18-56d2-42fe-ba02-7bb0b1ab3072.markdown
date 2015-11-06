@@ -4,7 +4,7 @@ title: 'American Gods: He had played chess, too, but he was not temperamentally 
 book_uuid: 63f2d586-e837-44b5-93d2-4629915beb98
 comments: []
 highlighted_on: '2013-06-24T04:04:31Z'
-location: 0.155205
+location: '0.155205'
 source: readmill
 ---
 

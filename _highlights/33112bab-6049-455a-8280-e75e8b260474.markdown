@@ -4,7 +4,7 @@ title: 'Sawyer Hollenshead''s Gazette - Dec 27: , "THE CAN''T COOK BOOK: 100+ Re
 book_uuid: a0941e8a-b7a3-4ecf-9a7e-fe75ac818170
 comments: []
 highlighted_on: '2013-12-28T03:23:48Z'
-location: 0.933505
+location: '0.933505'
 source: readmill
 ---
 

@@ -3,7 +3,7 @@ title: 'The Boy Kings: “The king stay the king, unless he a smart-ass pawn.”
 book_uuid: ff17aad4-39dd-4462-bc21-3706f8bc842f
 comments: []
 highlighted_on: '2014-01-07T05:00:42Z'
-location: 0.439435
+location: '0.439435'
 source: readmill
 ---
 

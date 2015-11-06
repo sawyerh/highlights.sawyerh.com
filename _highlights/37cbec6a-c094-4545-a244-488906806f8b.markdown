@@ -16,7 +16,7 @@ comments:
     description: Webmaster at Readmill. Looking for a fiction book to entertain me.
     avatar: assets/avatars/david.jpg
 highlighted_on: '2013-03-26T03:22:20Z'
-location: 0.570985
+location: '0.570985'
 source: readmill
 ---
 

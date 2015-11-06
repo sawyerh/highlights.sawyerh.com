@@ -4,7 +4,7 @@ title: 'Sawyer Hollenshead''s Gazette - Apr 12: light travels so quickly that it
 book_uuid: 46d0f865-5315-4f8f-b082-fe71e7e33098
 comments: []
 highlighted_on: '2013-04-13T21:02:37Z'
-location: 0.308715
+location: '0.308715'
 source: readmill
 ---
 

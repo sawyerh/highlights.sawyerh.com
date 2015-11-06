@@ -4,7 +4,7 @@ title: 'The Playboy Interview: The Essentials: Playboy: Do you enjoy your job? S
 book_uuid: 435c903c-9cc6-4980-8d1c-1848b5c42911
 comments: []
 highlighted_on: '2013-11-16T18:18:20Z'
-location: 0.692454
+location: '0.692454'
 source: readmill
 ---
 

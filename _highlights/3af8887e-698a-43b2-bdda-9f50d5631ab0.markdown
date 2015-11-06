@@ -4,7 +4,7 @@ title: 'Sawyer Hollenshead''s Gazette - Jun 21: If those services don''t trust m
 book_uuid: 469e1316-6c75-403f-b20e-38e529ec2521
 comments: []
 highlighted_on: '2013-06-23T02:57:14Z'
-location: 0.275106
+location: '0.275106'
 source: readmill
 ---
 

@@ -4,7 +4,7 @@ title: 'Tenth of December: Stories: I tend to agree with that thing about, If it
 book_uuid: 33f3e50c-25d5-4e8e-ad0e-1e4676d48c4f
 comments: []
 highlighted_on: '2013-04-11T03:09:19Z'
-location: 0.793684
+location: '0.793684'
 source: readmill
 ---
 

@@ -4,7 +4,7 @@ title: 'Sawyer Hollenshead''s Gazette - Jan 03: you will be able to reach someon
 book_uuid: 5dcf7675-2b68-4858-a6ed-91ad18029589
 comments: []
 highlighted_on: '2014-01-04T00:03:44Z'
-location: 0.779707
+location: '0.779707'
 source: readmill
 ---
 

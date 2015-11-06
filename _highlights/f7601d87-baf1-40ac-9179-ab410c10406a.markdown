@@ -4,7 +4,7 @@ title: 'Sawyer Hollenshead''s Gazette - Jan 10: )Alex Ross Perry''s The Color Wh
 book_uuid: db87b96a-9458-4903-807b-b26fb92c6b19
 comments: []
 highlighted_on: '2014-01-15T00:12:23Z'
-location: 0.346593
+location: '0.346593'
 source: readmill
 ---
 

@@ -4,7 +4,7 @@ title: 'Sawyer Hollenshead''s Gazette - Sep 20: So I stepped away from my ego a 
 book_uuid: daa89b01-818f-4450-8316-990db8538631
 comments: []
 highlighted_on: '2013-09-28T16:33:57Z'
-location: 0.344269
+location: '0.344269'
 source: readmill
 ---
 

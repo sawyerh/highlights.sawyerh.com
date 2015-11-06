@@ -4,7 +4,7 @@ title: 'Tenth of December: Stories: Jeff, stop crying. Contrary to what you migh
 book_uuid: 33f3e50c-25d5-4e8e-ad0e-1e4676d48c4f
 comments: []
 highlighted_on: '2013-03-24T03:48:23Z'
-location: 0.298797
+location: '0.298797'
 source: readmill
 ---
 

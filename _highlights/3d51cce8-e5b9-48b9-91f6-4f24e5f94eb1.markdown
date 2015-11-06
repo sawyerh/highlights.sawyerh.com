@@ -4,7 +4,7 @@ title: 'The Kings County Distillery Guide to Urban Moonshining: How to Make and 
 book_uuid: fe186552-c315-4722-9904-18d3d5147df0
 comments: []
 highlighted_on: '2013-12-20T16:37:45Z'
-location: 0.292226
+location: '0.292226'
 source: readmill
 ---
 

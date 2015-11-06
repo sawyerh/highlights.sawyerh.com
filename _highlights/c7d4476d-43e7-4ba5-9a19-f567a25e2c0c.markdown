@@ -4,7 +4,7 @@ title: 'The Information: A stranger is at a party of people who know one another
 book_uuid: 42eddd4e-7595-4d70-a2c3-ce6391d46100
 comments: []
 highlighted_on: '2012-10-31T01:32:37Z'
-location: 0.425586
+location: '0.425586'
 source: readmill
 ---
 

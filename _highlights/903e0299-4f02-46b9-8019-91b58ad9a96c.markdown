@@ -2,7 +2,7 @@
 title: 'Sawyer Hollenshead''s Gazette - Feb 14: To see things as they are includes
   seeing them as they will b…'
 book_uuid: 2aeba70a-3d7d-4666-9556-88aa54756bc6
-location: 696-698
+location: '696-698'
 source: kindle
 ---
 

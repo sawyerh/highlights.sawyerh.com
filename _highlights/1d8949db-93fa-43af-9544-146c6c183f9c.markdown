@@ -4,7 +4,7 @@ title: 'Sawyer Hollenshead''s Gazette - Sep 20: I think if people know too much 
 book_uuid: daa89b01-818f-4450-8316-990db8538631
 comments: []
 highlighted_on: '2013-09-28T16:31:59Z'
-location: 0.340299
+location: '0.340299'
 source: readmill
 ---
 

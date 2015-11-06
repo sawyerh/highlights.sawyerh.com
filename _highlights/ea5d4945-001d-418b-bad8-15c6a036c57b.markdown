@@ -4,7 +4,7 @@ title: 'What Technology Wants: If you are a web designer today, it is only becau
 book_uuid: 4d38439a-10eb-4384-9937-69ae643c45bc
 comments: []
 highlighted_on: '2013-02-17T05:50:44Z'
-location: 0.499579
+location: '0.499579'
 source: readmill
 ---
 

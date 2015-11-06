@@ -4,7 +4,7 @@ title: 'The Instructions: I yelled up into Unger’s ear: You’re scared of any
 book_uuid: 5cd476e0-051f-4222-9b67-bff5fbee52e6
 comments: []
 highlighted_on: '2012-11-26T02:22:58Z'
-location: 0.0540651
+location: '0.0540651'
 source: readmill
 ---
 

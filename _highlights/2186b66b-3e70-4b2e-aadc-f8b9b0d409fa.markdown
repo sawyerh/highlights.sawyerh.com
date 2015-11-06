@@ -2,7 +2,7 @@
 title: 'Fresh Off the Boat: A Memoir: I’m convinced that frats are the beginning of
   the end for most of the …'
 book_uuid: 075045fb-856e-4beb-adfb-309ddc3e7f53
-location: 2573-2574
+location: '2573-2574'
 source: kindle
 ---
 

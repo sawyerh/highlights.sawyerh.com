@@ -4,7 +4,7 @@ title: 'These Days: Did our ancestors stand around in caves arguing over whether
 book_uuid: 8dae0837-951e-404c-bdd0-8d7856621d86
 comments: []
 highlighted_on: '2013-04-19T04:16:08Z'
-location: 0.272444
+location: '0.272444'
 source: readmill
 ---
 

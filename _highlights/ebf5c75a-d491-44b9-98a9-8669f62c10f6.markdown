@@ -2,7 +2,7 @@
 title: 'Fresh Off the Boat: A Memoir: I saw how managers would give people manuals,
   train them, and write th…'
 book_uuid: 075045fb-856e-4beb-adfb-309ddc3e7f53
-location: 2334-2336
+location: '2334-2336'
 source: kindle
 ---
 

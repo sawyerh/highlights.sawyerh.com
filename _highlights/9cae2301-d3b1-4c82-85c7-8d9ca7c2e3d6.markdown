@@ -4,7 +4,7 @@ title: 'Decoded: He knew that the key to success was believing in the quality of
 book_uuid: 1efbbece-0d15-4078-978f-deb01dff9fd0
 comments: []
 highlighted_on: '2013-01-27T05:00:11Z'
-location: 0.220145
+location: '0.220145'
 source: readmill
 ---
 

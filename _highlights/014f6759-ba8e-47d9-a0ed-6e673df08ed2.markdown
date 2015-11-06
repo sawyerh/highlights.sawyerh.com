@@ -4,7 +4,7 @@ title: 'Sawyer Hollenshead''s Gazette - Apr 19: window.onerror = function(messag
 book_uuid: 5678c581-a84c-42c2-a9ea-4f155098a5ee
 comments: []
 highlighted_on: '2013-04-21T02:04:55Z'
-location: 0.993846
+location: '0.993846'
 source: readmill
 ---
 

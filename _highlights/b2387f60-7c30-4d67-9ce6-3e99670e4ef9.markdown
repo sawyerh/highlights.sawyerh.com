@@ -4,7 +4,7 @@ title: 'Decoded: Thereâ€™s no way to quantify all that on a spreadsheet, but itâ
 book_uuid: 1efbbece-0d15-4078-978f-deb01dff9fd0
 comments: []
 highlighted_on: '2013-01-27T04:42:54Z'
-location: 0.20601
+location: '0.20601'
 source: readmill
 ---
 

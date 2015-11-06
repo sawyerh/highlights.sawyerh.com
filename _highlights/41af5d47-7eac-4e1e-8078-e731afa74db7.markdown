@@ -4,7 +4,7 @@ title: 'ReWork: What distinguishes people who are ten times more effective than 
 book_uuid: 5af2509b-87db-4301-8004-6ead65a4a90b
 comments: []
 highlighted_on: '2013-03-21T14:03:24Z'
-location: 0.438605
+location: '0.438605'
 source: readmill
 ---
 

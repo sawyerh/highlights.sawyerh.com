@@ -4,7 +4,7 @@ title: 'Sawyer Hollenshead''s Gazette - Dec 06: if you''re reading and you glanc
 book_uuid: 4fb544cd-9441-4169-987a-67ab680e75d0
 comments: []
 highlighted_on: '2013-12-11T04:07:15Z'
-location: 0.543462
+location: '0.543462'
 source: readmill
 ---
 

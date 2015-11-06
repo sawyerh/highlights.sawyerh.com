@@ -3,7 +3,7 @@ title: 'Submergence: She had come to see the sea, not the ocean.'
 book_uuid: e7a56261-5c64-4cd8-bf3e-d987fda95555
 comments: []
 highlighted_on: '2014-01-25T05:36:47Z'
-location: 0.111864
+location: '0.111864'
 source: readmill
 ---
 

@@ -4,7 +4,7 @@ title: 'It Will Be Exhilarating: Design and development are intertwined, and the
 book_uuid: 3d99a389-b1a5-4d03-a38d-87d701893585
 comments: []
 highlighted_on: '2012-11-24T00:26:11Z'
-location: 0.588354
+location: '0.588354'
 source: readmill
 ---
 

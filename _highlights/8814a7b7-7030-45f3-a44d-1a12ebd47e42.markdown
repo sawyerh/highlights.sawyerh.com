@@ -4,7 +4,7 @@ title: 'Sawyer Hollenshead''s Gazette - Jun 21: Returning to Anil''s description
 book_uuid: 469e1316-6c75-403f-b20e-38e529ec2521
 comments: []
 highlighted_on: '2013-06-23T02:56:49Z'
-location: 0.273951
+location: '0.273951'
 source: readmill
 ---
 

@@ -2,7 +2,7 @@
 title: 'Sawyer Hollenshead''s Gazette - Feb 07: One fabu- lously complex floral pattern
   that measures 320 squ…'
 book_uuid: 707105f6-f856-4b4c-8eeb-6c95a864baff
-location: 2056-2057
+location: '2056-2057'
 source: kindle
 ---
 

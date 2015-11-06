@@ -4,7 +4,7 @@ title: 'It Will Be Exhilarating: One of the more fascinating aspects of Indie Ca
 book_uuid: 3d99a389-b1a5-4d03-a38d-87d701893585
 comments: []
 highlighted_on: '2012-11-23T23:32:38Z'
-location: 0.187776
+location: '0.187776'
 source: readmill
 ---
 

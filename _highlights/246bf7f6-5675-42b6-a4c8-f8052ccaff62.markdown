@@ -4,7 +4,7 @@ title: 'Sawyer Hollenshead''s Gazette - Jul 19: use Rack::Deflater It turns out 
 book_uuid: b1db7a73-b178-4458-a842-90f0765a6eb8
 comments: []
 highlighted_on: '2013-07-24T23:35:24Z'
-location: 0.738382
+location: '0.738382'
 source: readmill
 ---
 

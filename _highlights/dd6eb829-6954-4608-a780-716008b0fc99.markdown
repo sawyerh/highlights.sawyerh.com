@@ -4,7 +4,7 @@ title: 'ReWork: Evolution doesn’t linger on past failures, it’s always build
 book_uuid: 5af2509b-87db-4301-8004-6ead65a4a90b
 comments: []
 highlighted_on: '2013-02-17T05:30:22Z'
-location: 0.0912694
+location: '0.0912694'
 source: readmill
 ---
 

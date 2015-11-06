@@ -4,7 +4,7 @@ title: 'Sawyer Hollenshead''s Gazette - Dec 13: You make things. You make things
 book_uuid: 4c1eaacb-7074-498a-be39-3d8224357b04
 comments: []
 highlighted_on: '2013-12-14T19:51:41Z'
-location: 0.264594
+location: '0.264594'
 source: readmill
 ---
 

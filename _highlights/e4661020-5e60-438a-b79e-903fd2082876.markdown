@@ -4,7 +4,7 @@ title: 'The Internet of Things: the GeoCities of Things'' - the moment when it''
 book_uuid: 1b086139-a308-4335-aca6-40fa0c31637f
 comments: []
 highlighted_on: '2013-05-20T03:53:09Z'
-location: 0.94033
+location: '0.94033'
 source: readmill
 ---
 

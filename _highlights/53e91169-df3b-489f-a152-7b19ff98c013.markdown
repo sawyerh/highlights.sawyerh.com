@@ -3,7 +3,7 @@ title: 'Einstein: Blind respect for authority is the greatest enemy of truth.'
 book_uuid: 3ba0acc5-3a1c-439c-8422-c5463eeed8ee
 comments: []
 highlighted_on: '2013-03-22T13:52:26Z'
-location: 0.109757
+location: '0.109757'
 source: readmill
 ---
 

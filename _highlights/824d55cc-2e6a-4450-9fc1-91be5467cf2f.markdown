@@ -3,7 +3,7 @@ title: 'Floating City: “Don’t make no waves, don’t back no losers.”'
 book_uuid: 1652182f-0202-4fcd-a235-7a3c9e88ea80
 comments: []
 highlighted_on: '2014-02-15T17:09:07Z'
-location: 0.0456097
+location: '0.0456097'
 source: readmill
 ---
 

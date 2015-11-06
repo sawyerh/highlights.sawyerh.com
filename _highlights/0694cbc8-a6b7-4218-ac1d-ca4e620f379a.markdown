@@ -4,7 +4,7 @@ title: 'Sawyer Hollenshead''s Gazette - Jan 10: "Having many different things yo
 book_uuid: db87b96a-9458-4903-807b-b26fb92c6b19
 comments: []
 highlighted_on: '2014-01-11T17:57:48Z'
-location: 0.0430924
+location: '0.0430924'
 source: readmill
 ---
 

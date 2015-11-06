@@ -4,7 +4,7 @@ title: 'Sawyer Hollenshead''s Gazette - Aug 16:  I think it was Frank Chimero wh
 book_uuid: 12da7d14-6b51-4830-b5e2-a0a44d3f124f
 comments: []
 highlighted_on: '2013-08-20T22:24:28Z'
-location: 0.440388
+location: '0.440388'
 source: readmill
 ---
 

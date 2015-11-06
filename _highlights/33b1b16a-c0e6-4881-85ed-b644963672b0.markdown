@@ -2,7 +2,7 @@
 title: 'Sawyer Hollenshead''s Gazette - Oct 11: Have Backbone; Disagree and Commit
   Leaders are obligated to r…'
 book_uuid: 671e18e7-b464-40ba-8bc6-9a8a1976772f
-location: 2458-2461
+location: '2458-2461'
 source: kindle
 ---
 

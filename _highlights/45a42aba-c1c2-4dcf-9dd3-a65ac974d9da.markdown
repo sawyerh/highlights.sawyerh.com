@@ -4,7 +4,7 @@ title: 'What Technology Wants: many of the forms we see in evolution today are d
 book_uuid: 4d38439a-10eb-4384-9937-69ae643c45bc
 comments: []
 highlighted_on: '2012-12-23T03:45:44Z'
-location: 0.265977
+location: '0.265977'
 source: readmill
 ---
 

@@ -2,7 +2,7 @@
 title: 'Instapaper: Friday, Feb. 13th: “Until, like, six months ago we were literally
   communicating all day …'
 book_uuid: 1994ebdb-379d-445b-ad30-429ba8ed8778
-location: 281-282
+location: '281-282'
 source: kindle
 ---
 

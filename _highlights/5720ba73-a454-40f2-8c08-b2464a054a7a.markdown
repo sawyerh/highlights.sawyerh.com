@@ -15,7 +15,7 @@ comments:
     description: ''
     avatar: assets/avatars/sawyer.jpg
 highlighted_on: '2013-04-16T02:57:41Z'
-location: 0.426887
+location: '0.426887'
 source: readmill
 ---
 

@@ -4,7 +4,7 @@ title: 'Sawyer Hollenshead''s Gazette - Sep 20: Every manager - in fact, every e
 book_uuid: daa89b01-818f-4450-8316-990db8538631
 comments: []
 highlighted_on: '2013-09-25T04:11:04Z'
-location: 0.746732
+location: '0.746732'
 source: readmill
 ---
 

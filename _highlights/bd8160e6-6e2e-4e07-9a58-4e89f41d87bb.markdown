@@ -4,7 +4,7 @@ title: 'ReWork: Anyone who takes a “we’ll figure out how to profit in the fu
 book_uuid: 5af2509b-87db-4301-8004-6ead65a4a90b
 comments: []
 highlighted_on: '2013-02-17T19:43:06Z'
-location: 0.22291
+location: '0.22291'
 source: readmill
 ---
 

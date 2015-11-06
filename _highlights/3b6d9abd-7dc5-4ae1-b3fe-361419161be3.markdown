@@ -4,7 +4,7 @@ title: 'Sawyer Hollenshead''s Gazette - May 24: Cobo believes that many of the g
 book_uuid: 374096b9-5cce-4330-9f81-8d079d7758b3
 comments: []
 highlighted_on: '2013-05-26T17:53:38Z'
-location: 0.459454
+location: '0.459454'
 source: readmill
 ---
 

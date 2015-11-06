@@ -4,7 +4,7 @@ title: 'The Information: Gamow framed the issue simply: “The nucleus of a livi
 book_uuid: 42eddd4e-7595-4d70-a2c3-ce6391d46100
 comments: []
 highlighted_on: '2012-12-03T04:01:13Z'
-location: 0.504332
+location: '0.504332'
 source: readmill
 ---
 

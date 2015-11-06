@@ -4,7 +4,7 @@ title: 'Sawyer Hollenshead''s Gazette - Mar 07: Mormons also believe that if the
 book_uuid: eb37c4c8-bd41-44be-bc70-f508ac4ac6af
 comments: []
 highlighted_on: '2014-03-09T04:55:51Z'
-location: 0.895075
+location: '0.895075'
 source: readmill
 ---
 

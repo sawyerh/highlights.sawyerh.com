@@ -4,7 +4,7 @@ title: 'Sawyer Hollenshead''s Gazette - Jan 03: All the high-school students wil
 book_uuid: 5dcf7675-2b68-4858-a6ed-91ad18029589
 comments: []
 highlighted_on: '2014-01-04T00:09:18Z'
-location: 0.79529
+location: '0.79529'
 source: readmill
 ---
 

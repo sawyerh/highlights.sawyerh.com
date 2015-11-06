@@ -4,7 +4,7 @@ title: 'It Will Be Exhilarating: Making It: Manufacturing Techniques for Product
 book_uuid: 3d99a389-b1a5-4d03-a38d-87d701893585
 comments: []
 highlighted_on: '2012-11-23T23:58:40Z'
-location: 0.410337
+location: '0.410337'
 source: readmill
 ---
 

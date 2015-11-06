@@ -3,7 +3,7 @@ title: 'Sawyer Hollenshead''s Gazette - Jul 19: The Elements of Style'
 book_uuid: b1db7a73-b178-4458-a842-90f0765a6eb8
 comments: []
 highlighted_on: '2013-07-24T23:31:48Z'
-location: 0.719721
+location: '0.719721'
 source: readmill
 ---
 

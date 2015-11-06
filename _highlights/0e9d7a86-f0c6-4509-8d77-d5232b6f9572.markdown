@@ -3,7 +3,7 @@ title: 'YOUTH MODE: It’s a delicate balance between FOMO and DGAF'
 book_uuid: 6bdf1dc2-05ff-4bed-910c-674556dddcd4
 comments: []
 highlighted_on: '2013-11-29T02:33:57Z'
-location: 0.51282
+location: '0.51282'
 source: readmill
 ---
 

@@ -4,7 +4,7 @@ title: 'The Internet of Things: Memory Diamond — a hypothetical crystalline fo
 book_uuid: 1b086139-a308-4335-aca6-40fa0c31637f
 comments: []
 highlighted_on: '2013-05-15T04:15:43Z'
-location: 0.49399
+location: '0.49399'
 source: readmill
 ---
 

@@ -4,7 +4,7 @@ title: 'The Playboy Interview: The Essentials: Trumpet players, like anybody els
 book_uuid: 435c903c-9cc6-4980-8d1c-1848b5c42911
 comments: []
 highlighted_on: '2013-11-06T00:00:00Z'
-location: 
+location:
 source: readmill
 ---
 

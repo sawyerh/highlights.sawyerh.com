@@ -4,7 +4,7 @@ title: 'Sawyer Hollenshead''s Gazette - Jan 03: There was a time when people wer
 book_uuid: 5dcf7675-2b68-4858-a6ed-91ad18029589
 comments: []
 highlighted_on: '2014-01-06T02:08:26Z'
-location: 0.11199
+location: '0.11199'
 source: readmill
 ---
 

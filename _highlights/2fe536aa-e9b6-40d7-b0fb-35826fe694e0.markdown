@@ -4,7 +4,7 @@ title: 'It Will Be Exhilarating: Thirty days seems to be the sweet spot for camp
 book_uuid: 3d99a389-b1a5-4d03-a38d-87d701893585
 comments: []
 highlighted_on: '2012-11-23T23:42:22Z'
-location: 0.283811
+location: '0.283811'
 source: readmill
 ---
 

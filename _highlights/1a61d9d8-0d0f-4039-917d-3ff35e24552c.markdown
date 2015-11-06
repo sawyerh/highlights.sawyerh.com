@@ -4,7 +4,7 @@ title: 'What Technology Wants: because we cannot imagine it, it will never happe
 book_uuid: 4d38439a-10eb-4384-9937-69ae643c45bc
 comments: []
 highlighted_on: '2013-02-07T04:42:44Z'
-location: 0.442075
+location: '0.442075'
 source: readmill
 ---
 

@@ -4,7 +4,7 @@ title: 'Sawyer Hollenshead''s Gazette - Nov 22: Eventually, he said, "we''ll hav
 book_uuid: 845ebb3b-d6b9-4ce6-a977-0b4ee9c1e0dc
 comments: []
 highlighted_on: '2013-11-23T05:04:16Z'
-location: 0.0531376
+location: '0.0531376'
 source: readmill
 ---
 

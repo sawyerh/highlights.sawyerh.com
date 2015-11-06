@@ -4,7 +4,7 @@ title: 'Sawyer Hollenshead''s Gazette - May 17: I''m more a fan of the idea of b
 book_uuid: c3c41411-f9b4-4049-89f5-b45fb951d47b
 comments: []
 highlighted_on: '2013-05-18T20:22:16Z'
-location: 0.526972
+location: '0.526972'
 source: readmill
 ---
 

@@ -4,7 +4,7 @@ title: 'American Gods: Information and knowledge: these are currencies that have
 book_uuid: 63f2d586-e837-44b5-93d2-4629915beb98
 comments: []
 highlighted_on: '2013-06-16T03:52:00Z'
-location: 0.065024
+location: '0.065024'
 source: readmill
 ---
 

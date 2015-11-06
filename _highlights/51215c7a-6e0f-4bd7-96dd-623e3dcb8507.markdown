@@ -4,7 +4,7 @@ title: 'The Internet of Things: creating something personal, even of moderate qu
 book_uuid: 1b086139-a308-4335-aca6-40fa0c31637f
 comments: []
 highlighted_on: '2013-05-20T03:47:57Z'
-location: 0.798672
+location: '0.798672'
 source: readmill
 ---
 

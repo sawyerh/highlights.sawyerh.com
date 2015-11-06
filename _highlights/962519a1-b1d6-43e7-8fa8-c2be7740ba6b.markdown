@@ -2,7 +2,7 @@
 title: 'China''s Second Continent: How a Million Migrants Are Building a New Empire
   in Africa: Time and again…'
 book_uuid: 8b17f193-08cf-4feb-bf55-14184b6af4ad
-location: 509-510
+location: '509-510'
 source: kindle
 ---
 

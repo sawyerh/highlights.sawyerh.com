@@ -2,7 +2,7 @@
 title: 'The Undersea Network: Only forty-five undersea cables extend outward from
   the continental United Sta…'
 book_uuid: 49a23562-c08d-4f6b-a199-2bf361f45037
-location: 344-348
+location: '344-348'
 source: kindle
 ---
 

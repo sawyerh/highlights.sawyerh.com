@@ -16,7 +16,7 @@ comments:
       a fictional life.
     avatar: assets/avatars/milesalex.jpg
 highlighted_on: '2013-10-28T03:23:20Z'
-location: 0.367186
+location: '0.367186'
 source: readmill
 ---
 

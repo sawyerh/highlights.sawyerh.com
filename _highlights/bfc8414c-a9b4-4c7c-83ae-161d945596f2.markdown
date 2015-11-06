@@ -4,7 +4,7 @@ title: 'Future thinking: Some physicists believe that we live in an infinite sea
 book_uuid: 5fc7e4e6-3274-4db5-aea0-6eac5ba1f530
 comments: []
 highlighted_on: '2013-03-31T23:25:55Z'
-location: 0.269866
+location: '0.269866'
 source: readmill
 ---
 

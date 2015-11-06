@@ -4,7 +4,7 @@ title: 'Decoded: The whole vibe of start-up companies in Silicon Valley with twe
 book_uuid: 1efbbece-0d15-4078-978f-deb01dff9fd0
 comments: []
 highlighted_on: '2013-01-27T04:57:49Z'
-location: 0.218384
+location: '0.218384'
 source: readmill
 ---
 

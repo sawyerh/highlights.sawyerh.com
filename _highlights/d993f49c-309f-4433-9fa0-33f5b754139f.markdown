@@ -4,7 +4,7 @@ title: 'Makers: The New Industrial Revolution: The past ten years have been abou
 book_uuid: af2d0f41-a525-47f2-affe-0da20d4a8c5b
 comments: []
 highlighted_on: '2013-03-26T02:54:57Z'
-location: 0.0742884
+location: '0.0742884'
 source: readmill
 ---
 

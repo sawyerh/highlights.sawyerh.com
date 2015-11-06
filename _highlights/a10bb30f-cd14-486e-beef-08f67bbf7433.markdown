@@ -4,7 +4,7 @@ title: 'Sawyer Hollenshead''s Gazette - May 31: Technology and economics are so 
 book_uuid: 53c3c677-0614-40ba-a91c-a1b7c4b0e1cc
 comments: []
 highlighted_on: '2013-06-01T13:35:11Z'
-location: 0.221519
+location: '0.221519'
 source: readmill
 ---
 
