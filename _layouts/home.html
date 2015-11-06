@@ -26,7 +26,7 @@ layout: default
 
 <section class="container">
   {% for book in site.books %}
-    {% assign highlights = all_highlights | where:"book_uuid", book.uuid | sort: 'location' %}
+    {% assign highlights = all_highlights | where:"book_uuid", book.uuid %}
 
     <div class="book" data-path="{{ book.path }}">
       {% include book_header.html %}
