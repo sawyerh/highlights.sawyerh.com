@@ -1,9 +1,0 @@
----
-title: 'Sawyer Hollenshead''s Gazette - Jul 26: the future is already here, it''s
-  just not evenly distributed.'
-book_uuid: 1ab86e0e-e229-4832-ba38-a7920ac23230
-location: 632-632
-source: kindle
----
-
-the future is already here, it's just not evenly distributed.

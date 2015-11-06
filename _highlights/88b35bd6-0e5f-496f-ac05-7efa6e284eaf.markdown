@@ -1,9 +1,0 @@
----
-title: 'Fresh Off the Boat: A Memoir: I’m convinced that frats are the beginning of
-  the end for most of the …'
-book_uuid: 9551a4d5-278e-4234-9a0e-5ab488cb5ce0
-location: 2573-2574
-source: kindle
----
-
-I’m convinced that frats are the beginning of the end for most of the people who end up running the world. It teaches them to give up individuality, independence, and even their paper for acceptance.

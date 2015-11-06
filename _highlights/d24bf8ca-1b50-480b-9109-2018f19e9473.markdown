@@ -1,9 +1,0 @@
----
-title: 'Sawyer Hollenshead''s Gazette - Feb 14: "If I''m out until two or three in
-  the morning on a weeknight,…'
-book_uuid: 35cf8048-a06a-45d9-8a28-681617d6989a
-location: 983-984
-source: kindle
----
-
-"If I'm out until two or three in the morning on a weeknight, it's because I'm recording at the studio, not out being an idiot."

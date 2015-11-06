@@ -1,8 +1,0 @@
----
-title: 'Fresh Off the Boat: A Memoir: “A Modest Proposal”'
-book_uuid: 9551a4d5-278e-4234-9a0e-5ab488cb5ce0
-location: 2075-2075
-source: kindle
----
-
-“A Modest Proposal”

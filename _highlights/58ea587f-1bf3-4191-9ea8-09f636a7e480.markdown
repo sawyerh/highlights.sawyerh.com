@@ -1,9 +1,0 @@
----
-title: 'Instapaper: Friday, Dec. 19th: time swiping: the ability to go back and forth
-  in time.'
-book_uuid: 8c0f3dec-c3b9-4b3e-9b76-712b8eff222f
-location: 1242-1242
-source: kindle
----
-
-time swiping: the ability to go back and forth in time.

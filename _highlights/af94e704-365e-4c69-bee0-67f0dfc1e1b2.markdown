@@ -1,9 +1,0 @@
----
-title: 'Instapaper: Saturday, Sep. 6th: TED Talk, “The History of Our World in 18
-  Minutes,”'
-book_uuid: 23bebb7e-0929-4011-b927-c046dbbb7ab2
-location: 169-169
-source: kindle
----
-
-TED Talk, “The History of Our World in 18 Minutes,”
