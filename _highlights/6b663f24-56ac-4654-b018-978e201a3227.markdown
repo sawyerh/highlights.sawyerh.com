@@ -1,0 +1,12 @@
+---
+title: 'Anon: A manager&#x2019;s default mode should not be secrecy. What is needed
+  is a thoughtful consider…'
+book_uuid: d28b3d60-73b7-4cd3-8836-29f3903bb687
+comments:
+- body: ''
+highlighted_on: August 1, 2015
+location: 'Chapter 6: Fear and Failure'
+source: ibooks
+---
+
+A manager&#x2019;s default mode should not be secrecy. What is needed is a thoughtful consideration of the cost of secrecy weighed against the risks. When you instantly resort to secrecy, you are telling people they can&#x2019;t be trusted. When you are candid, you are telling people that you trust them and that there is nothing to fear. To confide in employees is to give them a sense of ownership over the information. The result&#x2014;and I&#x2019;ve seen this again and again&#x2014;is that they are less likely to leak whatever it is that you&#x2019;ve confided.
