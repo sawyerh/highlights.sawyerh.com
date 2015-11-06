@@ -1,0 +1,12 @@
+---
+title: 'Anon: personally, I think the person who can&#x2019;t change his or her mind
+  is dangerous. Steve Job…'
+book_uuid: d28b3d60-73b7-4cd3-8836-29f3903bb687
+comments:
+- body: ''
+highlighted_on: September 13, 2015
+location: 'Chapter 8: Change and Randomness'
+source: ibooks
+---
+
+personally, I think the person who can&#x2019;t change his or her mind is dangerous. Steve Jobs was known for changing his mind instantly in the light of new facts, and I don&#x2019;t know anyone who thought he was weak.
