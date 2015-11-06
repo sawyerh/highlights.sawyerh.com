@@ -1,0 +1,12 @@
+---
+title: 'Anon: One technique I&#x2019;ve used to soften the process is to ask everyone
+  in the room to make tw…'
+book_uuid: d28b3d60-73b7-4cd3-8836-29f3903bb687
+comments:
+- body: ''
+highlighted_on: October 9, 2015
+location: 'Chapter 10: Broadening Our View'
+source: ibooks
+---
+
+One technique I&#x2019;ve used to soften the process is to ask everyone in the room to make two lists: the top five things that they would do again and the top five things that they wouldn&#x2019;t do again. People find it easier to be candid if they balance the negative with the positive, and a good facilitator can make it easier for that balance to be struck.
