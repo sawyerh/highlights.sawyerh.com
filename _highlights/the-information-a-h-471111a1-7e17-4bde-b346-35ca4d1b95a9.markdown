@@ -1,6 +1,6 @@
 ---
 title: 'The Information: A H: When information is cheap, attention becomes expensive.'
-date: 2015-11-08 04:55:00 Z
+date: 2015-11-08 04:55:00 UTC
 book_uuid: 484271b9-e2c0-47ed-83de-63c23de48d95
 location: 
 source: readmill
