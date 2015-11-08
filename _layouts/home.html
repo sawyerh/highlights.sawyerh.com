@@ -25,7 +25,7 @@ layout: default
 </nav>
 
 <section class="container">
-  {% for book in site.books %}
+  {% for book in site.books | sort: 'date' %}
     {% assign highlights = all_highlights | where:"book_uuid", book.uuid | sort: 'location' %}
 
     <div class="book" data-path="{{ book.path }}">
