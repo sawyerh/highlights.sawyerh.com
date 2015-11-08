@@ -1,7 +1,8 @@
 ---
 title: 'The Information: A H: Some years before his death, he told a friend that he
   would …'
-book_uuid: 803fe0bb-2575-4e71-889d-1806eb49f9ab
+date: 2015-11-08 04:55:00 Z
+book_uuid: 484271b9-e2c0-47ed-83de-63c23de48d95
 comments:
 - body: Cryogenics / suspense.
   date: '2012-07-07T00:00:00Z'
@@ -9,8 +10,8 @@ comments:
     username: dianakimball
     firstname: Diana
     lastname: Kimball
-    country: ''
-    city: ''
+    country: 
+    city: 
     website: http://blog.dianakimball.com
     description: 'A student at Harvard Business School & everywhere. Once a month
       or so, I write a longer letter that I’d love to send to you: http://expertnovice.com'
@@ -22,8 +23,8 @@ highlight_by:
   username: dianakimball
   firstname: Diana
   lastname: Kimball
-  country: ''
-  city: ''
+  country: 
+  city: 
   website: http://blog.dianakimball.com
   description: 'A student at Harvard Business School & everywhere. Once a month or
     so, I write a longer letter that I’d love to send to you: http://expertnovice.com'

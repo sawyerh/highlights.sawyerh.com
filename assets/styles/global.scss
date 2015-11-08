@@ -181,12 +181,12 @@ button{
   width: 100%;
   padding: $gutter;
   overflow: auto;
-  top: 10px;
+  top: 0;
   bottom: 0;
   border-right: 1px solid $border_color;
 
   &::-webkit-scrollbar {
-    width: 2px;
+    width: 4px;
   }
 
   &::-webkit-scrollbar-track {
@@ -197,8 +197,12 @@ button{
   &::-webkit-scrollbar-thumb {
     outline: none;
     border-radius: 30px;
-    background-color: lighten($border_color, 7%);
+    background-color: lighten($border_color, 10%);
     width: 10px;
+
+    &:hover{
+      background: #fff;
+    }
   }
 }
 
