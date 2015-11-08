@@ -1,7 +1,7 @@
 ---
 title: 'Instapaper: Friday, Dec. 19th'
 author: Instapaper
-uuid: 0b555529-6665-4fc2-9471-bdc724ea24e5
+uuid: d47a6e81-4145-4a5f-b676-86122101292b
 original_title: 'Instapaper: Friday, Dec. 19th'
 ---
 

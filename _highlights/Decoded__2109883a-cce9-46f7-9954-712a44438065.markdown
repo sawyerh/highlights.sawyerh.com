@@ -1,9 +1,0 @@
----
-title: 'Decoded: Life’s a bitch, I hope to not make her a widow'
-book_uuid: 47104eb5-7a56-4b44-8db1-7fca28b79dc1
-location: '0.0953717'
-source: readmill
-highlighted_on: '2012-09-02T03:56:42.000Z'
----
-
-Life’s a bitch, I hope to not make her a widow

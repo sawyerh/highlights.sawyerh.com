@@ -1,9 +1,0 @@
----
-title: 'Creativity Inc: A competitive approach measures other ideas against your own…'
-book_uuid: d8e43598-d082-40dc-a9a8-dddd83cfb06a
-location: 'Chapter 5: Honesty and Candor'
-source: ibooks
-highlighted_on: '2015-05-17T04:00:00.000Z'
----
-
-A competitive approach measures other ideas against your own, turning the discussion into a debate to be won or lost. An additive approach, on the other hand, starts with the understanding that each participant contributes something (even if it’s only an idea that fuels the discussion—and ultimately doesn’t work).

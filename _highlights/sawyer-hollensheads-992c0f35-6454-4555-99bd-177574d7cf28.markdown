@@ -1,0 +1,23 @@
+---
+title: 'Sawyer Hollenshead''s: We only call a medium a technology when it is new,
+  when it s…'
+book_uuid: 0ef94472-57e9-4700-9040-320279544c19
+comments:
+- body: Can you provide some context for this? Not sure if I agree with it.
+  date: '2013-10-28T09:33:50Z'
+  user:
+    username: milesalex
+    firstname: Alex
+    lastname: Miles
+    country: Germany
+    city: Berlin
+    website: http://alexmilesdesign.com
+    description: Designer at Readmill. Developer after hours. Non-fiction books and
+      a fictional life.
+    avatar: assets/avatars/milesalex.jpg
+location: '0.367186'
+source: readmill
+highlighted_on: '2013-10-28T03:23:20.000Z'
+---
+
+We only call a medium a technology when it is new, when it still has novelty, when it is not widely understood or accepted by the masses. But all mediums start as technologies - drawing, sculpture, photography, cinema; all these were technologies first, mediums later.

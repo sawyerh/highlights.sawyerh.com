@@ -1,7 +1,7 @@
 ---
 title: 'Lean Analytics: Use Data to Build a Better Startup Faster'
 author: Alistair Croll and Benjamin Yoskovitz
-uuid: 32463b28-dc4c-47ce-a01a-a465158c2ae8
+uuid: 469d793e-6506-4521-afcc-84257a4dfcf7
 original_title: 'Lean Analytics: Use Data to Build a Better Startup Faster'
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Instapaper: Friday, Feb. 13th'
 author: Instapaper
-uuid: c0d7d75f-94a2-43a4-bdae-25a31d518038
+uuid: e4064218-149d-4f6c-9727-0c0ebdd41b48
 original_title: 'Instapaper: Friday, Feb. 13th'
 ---
 

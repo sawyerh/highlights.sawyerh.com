@@ -1,7 +1,7 @@
 ---
 title: Sawyer Hollenshead's Gazette - Nov 29
 author: Gazette
-uuid: deea4f4e-656f-4b7e-9f17-4139367ecf7a
+uuid: 420b89b9-83db-49f0-8b82-4989c0d79426
 original_title: Sawyer Hollenshead's Gazette - Nov 29
 ---
 

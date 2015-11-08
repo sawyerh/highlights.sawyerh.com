@@ -1,7 +1,7 @@
 ---
 title: 'Fresh Off the Boat: A Memoir'
 asin: B00957T3UC
-uuid: 21b59043-b0d6-487b-b8c3-88187c2d5757
+uuid: 2f50f3c0-5652-4576-9214-e53aae7074c1
 original_title: 'Fresh Off the Boat: A Memoir'
 ---
 

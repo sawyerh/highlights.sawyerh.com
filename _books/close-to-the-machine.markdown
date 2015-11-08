@@ -1,7 +1,7 @@
 ---
 title: Close to the machine
 author: Ellen Ullman
-uuid: cd10aab9-e7a5-429b-b7cb-b5b4388ce3a5
+uuid: d4bf4d23-0f84-446e-8c0a-bfd227fa2a69
 original_title: Close to the machine
 ---
 

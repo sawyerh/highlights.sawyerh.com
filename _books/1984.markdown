@@ -1,7 +1,7 @@
 ---
 title: '1984'
 author: Orwell, George
-uuid: 0740db6d-9a0f-4cd5-8bb6-6eb019b6c191
+uuid: 9139ec85-ba74-4611-b129-15774149e1c7
 original_title: '1984'
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: The Information
 author: James Gleick
-uuid: 643cb4ba-388e-4628-8ef5-f559593969df
+uuid: 484271b9-e2c0-47ed-83de-63c23de48d95
 original_title: The Information
 ---
 

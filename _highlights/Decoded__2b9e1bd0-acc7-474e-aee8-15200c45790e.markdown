@@ -1,9 +1,0 @@
----
-title: 'Decoded: In the game there’s always a younger guy who has an old soul…'
-book_uuid: 47104eb5-7a56-4b44-8db1-7fca28b79dc1
-location: '0.107994'
-source: readmill
-highlighted_on: '2012-09-03T01:25:50.000Z'
----
-
-In the game there’s always a younger guy who has an old soul and an understanding of things beyond his years. I mean in the street game, but it also applies to the music industry. An older guy will see a kid and think, Man, that kid moves differently from the rest. He’s ready for this life. They know that if they find the right kid, they can put him under their tutelage and he’ll get it fast, step right into the rhythm of the life. But it starts by the other guy watching him, trying to pick up clues.

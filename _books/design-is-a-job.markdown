@@ -1,7 +1,7 @@
 ---
 title: Design Is a Job
 author: Mike Monteiro
-uuid: 04b8e17f-327a-4310-9e12-7cf21ca245dc
+uuid: 0a8ccbc8-7a1d-41de-9acb-a33fe8e7c691
 original_title: Design Is a Job
 ---
 

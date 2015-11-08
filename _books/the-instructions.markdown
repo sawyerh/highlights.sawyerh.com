@@ -1,7 +1,7 @@
 ---
 title: The Instructions
 author: Adam Levin
-uuid: 240bfcb4-0457-4df9-bdcd-da24217ff732
+uuid: d20d1ba2-d6c2-4fe1-94ce-5430fdb14055
 original_title: The Instructions
 ---
 

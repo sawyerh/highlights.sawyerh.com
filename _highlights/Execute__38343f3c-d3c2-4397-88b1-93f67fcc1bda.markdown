@@ -1,9 +1,0 @@
----
-title: 'Execute: “Do projects when you don’t know how to code. Then you’ll kn…'
-book_uuid: e147e9c9-a8b8-464d-9dac-c70d028f8981
-location: '0.148197'
-source: readmill
-highlighted_on: '2013-01-26T23:20:01.000Z'
----
-
-“Do projects when you don’t know how to code. Then you’ll know how to code.”

@@ -1,8 +1,0 @@
----
-title: 'Sawyer Hollenshead''s: Never complain, never explain:'
-book_uuid: deea4f4e-656f-4b7e-9f17-4139367ecf7a
-location: 2977-2977
-source: kindle
----
-
-Never complain, never explain:

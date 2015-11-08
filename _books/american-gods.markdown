@@ -1,7 +1,7 @@
 ---
 title: American Gods
 author: Neil Gaiman
-uuid: 2853a049-787e-4803-b075-f0a43c366ca1
+uuid: b0dccede-49e9-4126-bc98-5d9b7e4f0a8e
 original_title: American Gods
 ---
 

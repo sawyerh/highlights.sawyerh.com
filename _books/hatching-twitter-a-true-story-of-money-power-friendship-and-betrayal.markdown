@@ -1,7 +1,7 @@
 ---
 title: 'Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal'
 author: Nick Bilton
-uuid: e9e3ce10-cf70-49e5-80c6-9a4627db0ae0
+uuid: 0b022670-1330-4530-a8f0-a0a2b603f21a
 original_title: 'Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal'
 ---
 

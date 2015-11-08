@@ -1,9 +1,0 @@
----
-title: '1984: Who controls the past controls the future: who controls the …'
-book_uuid: 0740db6d-9a0f-4cd5-8bb6-6eb019b6c191
-location: '0.805865'
-source: readmill
-highlighted_on: '2013-01-09T00:33:27.000Z'
----
-
-Who controls the past controls the future: who controls the present controls the past

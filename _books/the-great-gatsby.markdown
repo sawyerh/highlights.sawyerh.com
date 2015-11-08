@@ -1,7 +1,7 @@
 ---
 title: The Great Gatsby
 author: Francis Scott Fitzgerald
-uuid: 72813bc4-aab1-4da9-9608-b12e6acd0e7d
+uuid: 363285bc-c668-47b6-986a-fb3a45a456b0
 original_title: The Great Gatsby
 ---
 

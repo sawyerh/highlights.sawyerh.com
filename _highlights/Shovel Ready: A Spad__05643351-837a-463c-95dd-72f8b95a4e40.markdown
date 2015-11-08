@@ -1,9 +1,0 @@
----
-title: 'Shovel Ready: A Spad: Needle in a haystack. Never did understand that expression.
-  …'
-book_uuid: 98caf766-4571-4437-87ae-fa7b0463f3d6
-location: '464'
-source: kindle
----
-
-Needle in a haystack. Never did understand that expression. Fuck searching, just buy another needle

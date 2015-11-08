@@ -1,0 +1,9 @@
+---
+title: 'Einstein: Blind respect for authority is the greatest enemy of truth.'
+book_uuid: 75ba9f24-9b09-4d3d-94b8-0dc8cfb6da2d
+location: '0.109757'
+source: readmill
+highlighted_on: '2013-03-22T13:52:26.000Z'
+---
+
+Blind respect for authority is the greatest enemy of truth.

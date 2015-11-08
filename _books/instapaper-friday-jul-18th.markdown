@@ -1,7 +1,7 @@
 ---
 title: 'Instapaper: Friday, Jul. 18th'
 author: Instapaper
-uuid: 6656582f-0191-48c2-abbf-346d3beace24
+uuid: 5aff995b-8931-4479-81a0-ef77eec5be3e
 original_title: 'Instapaper: Friday, Jul. 18th'
 ---
 
