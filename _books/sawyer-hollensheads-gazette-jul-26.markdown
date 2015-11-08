@@ -1,6 +1,6 @@
 ---
 title: Sawyer Hollenshead's Gazette - Jul 26
-date: 2015-11-08 05:28:00 UTC
+date: '2015-11-08T18:00:06-05:00'
 published: false
 author: Gazette
 uuid: 5aeb82c7-7df8-4e81-bb58-8cfb099c0114

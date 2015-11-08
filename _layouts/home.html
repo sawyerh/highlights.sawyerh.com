@@ -25,12 +25,13 @@ layout: default
 </nav>
 
 <section class="container">
-  {% for book in site.books | sort: 'date' %}
+  {% assign chrono_books = site.books | sort: 'date' %}
+  {% for book in chrono_books reversed %}
     {% assign highlights = all_highlights | where:"book_uuid", book.uuid | sort: 'location' %}
 
     <div class="book" data-path="{{ book.path }}">
       {% include book_header.html %}
-      {% for highlight in highlights %}
+      {% for highlight in highlights reversed %}
         {% include highlight.html %}
       {% endfor %}
     </div>
