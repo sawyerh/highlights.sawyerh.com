@@ -1,9 +1,0 @@
----
-title: 'Sawyer Hollenshead''s Gazette - Jul 05: This is how RSS and Atom have always
-  worked: you put in some …'
-book_uuid: 655bcc91-1c0d-4824-ad21-e281465e10fb
-location: 2698-2700
-source: kindle
----
-
-This is how RSS and Atom have always worked: you put in some effort up front to get the system built, and in most instances, you never need to touch it. It just hums along, immune to redesigns, changing APIs, web-development trends, and slash-and-burn executives on "sunsetting" sprees.

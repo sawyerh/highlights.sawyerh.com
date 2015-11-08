@@ -1,7 +1,7 @@
 ---
 title: 'Mr. Penumbra''s 24-Hour Bookstore: A Novel'
 author: Robin Sloan
-uuid: cf6bbd89-79cd-4092-898b-567941822c9e
+uuid: 140aab0b-b533-41bb-9e8b-9e96dc26cc01
 original_title: 'Mr. Penumbra''s 24-Hour Bookstore: A Novel'
 ---
 

@@ -1,8 +1,0 @@
----
-title: 'American Gods: White people have some fucked-up gods, Mister Shadow.”'
-book_uuid: 63f2d586-e837-44b5-93d2-4629915beb98
-location: 2608-2609
-source: kindle
----
-
-White people have some fucked-up gods, Mister Shadow.”

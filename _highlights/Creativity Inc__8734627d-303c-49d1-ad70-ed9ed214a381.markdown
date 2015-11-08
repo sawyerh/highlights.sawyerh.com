@@ -1,0 +1,9 @@
+---
+title: 'Creativity Inc: when the British introduced golf to India in the 1820s. Upon…'
+book_uuid: d8e43598-d082-40dc-a9a8-dddd83cfb06a
+location: 'Chapter 8: Change and Randomness'
+source: ibooks
+highlighted_on: '2015-09-13T04:00:00.000Z'
+---
+
+when the British introduced golf to India in the 1820s. Upon building the first golf course there, the Royal Calcutta, the British discovered a problem: Indigenous monkeys were intrigued by the little white balls and would swoop down out of the trees and onto the fairways, picking them up and carrying them off. This was a disruption, to say the least. In response, officials tried erecting fences to keep the monkeys out, but the monkeys climbed right over. They tried capturing and relocating the monkeys, but the monkeys kept coming back. They tried loud noises to scare them away. Nothing worked. In the end, they arrived at a solution: They added a new rule to the game—“Play the ball where the monkey drops it.”

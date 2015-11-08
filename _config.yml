@@ -3,14 +3,14 @@ title: Highlights
 url: http://highlights.sawyerhollenshead.com
 timezone: America/New_York
 collections:
+  uploads:
+    title: Uploads
+    output: true
   books:
     title: Books
     output: true
   highlights:
     title: Highlights
-    output: true
-  uploads:
-    title: Uploads
     output: true
 defaults:
 - scope:

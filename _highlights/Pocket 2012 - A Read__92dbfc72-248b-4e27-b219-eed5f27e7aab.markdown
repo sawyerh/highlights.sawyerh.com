@@ -1,0 +1,20 @@
+---
+title: 'Pocket 2012 - A Read: First, the people running the old system don’t notice
+  the ch…'
+book_uuid: 47737768-f118-431d-9988-4267d56c11d2
+location: '0.791783'
+source: readmill
+highlighted_on: '2013-03-11T04:04:18.000Z'
+highlight_by:
+  username: KeenanCummings
+  firstname: Keenan
+  lastname: Cummings
+  country: ''
+  city: ''
+  website: http://fieldstudy.tumblr.com
+  description: 'Creative Director / Co-founder at Wander (@onWander) living and working
+    in New York City. '
+  avatar: assets/avatars/KeenanCummings.jpg
+---
+
+First, the people running the old system don’t notice the change. When they do, they assume it’s minor. Then that it’s a niche. Then a fad. And by the time they understand that the world has actually changed, they’ve squandered most of the time they had to adapt.

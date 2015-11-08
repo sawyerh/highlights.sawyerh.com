@@ -2,7 +2,7 @@
 title: 'China''s Second Continent: How a Million Migrants Are Building a New Empire
   in Africa'
 author: French, Howard W.
-uuid: 8b17f193-08cf-4feb-bf55-14184b6af4ad
+uuid: 4aa09062-3344-42a6-8b47-bdb494f8fa96
 original_title: 'China''s Second Continent: How a Million Migrants Are Building a
   New Empire in Africa'
 ---

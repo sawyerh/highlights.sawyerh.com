@@ -1,9 +1,0 @@
----
-title: 'Sawyer Hollenshead''s Gazette - Oct 11: Frugality breeds resourcefulness,
-  self-sufficiency, and inven…'
-book_uuid: 671e18e7-b464-40ba-8bc6-9a8a1976772f
-location: 2471-2472
-source: kindle
----
-
-Frugality breeds resourcefulness, self-sufficiency, and invention.

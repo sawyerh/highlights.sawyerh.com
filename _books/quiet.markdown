@@ -1,7 +1,7 @@
 ---
 title: Quiet
 author: Susan Cain
-uuid: ded39800-49e5-4448-a582-6159f3775e7e
+uuid: 14f2e7b7-a90a-48c6-9091-7da9a70c8ac3
 original_title: Quiet
 ---
 

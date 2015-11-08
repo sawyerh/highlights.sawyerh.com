@@ -1,9 +1,0 @@
----
-title: 'Sawyer Hollenshead''s Gazette - Jul 05: Fitzgerald was a notoriously poor
-  speller.'
-book_uuid: 655bcc91-1c0d-4824-ad21-e281465e10fb
-location: 2866-2867
-source: kindle
----
-
-Fitzgerald was a notoriously poor speller.

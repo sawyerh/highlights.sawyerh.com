@@ -1,0 +1,9 @@
+---
+title: 'Quiet: The description of such characters as thin-skinned is meant …'
+book_uuid: 14f2e7b7-a90a-48c6-9091-7da9a70c8ac3
+location: '0.487644'
+source: readmill
+highlighted_on: '2012-08-13T06:23:57.000Z'
+---
+
+The description of such characters as thin-skinned is meant metaphorically, but it turns out that it’s actually quite literal. Among the tests researchers use to measure personality traits are skin conductance tests, which record how much people sweat in response to noises, strong emotions, and other stimuli. High-reactive introverts sweat more; low-reactive extroverts sweat less. Their skin is literally “thicker,” more impervious to stimuli, cooler to the touch. In fact, according to some of the scientists I spoke to, this is where our notion of being socially “cool” comes from

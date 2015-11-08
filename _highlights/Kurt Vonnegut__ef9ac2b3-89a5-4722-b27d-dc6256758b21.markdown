@@ -1,0 +1,18 @@
+---
+title: 'Kurt Vonnegut: One of Kurt’s ill-fated efforts to earn money in this period…'
+book_uuid: 62af866e-3821-4ed0-b387-dec3949d9135
+location: '0.138467'
+source: readmill
+highlighted_on: '2012-11-16T14:45:14.000Z'
+highlight_by:
+  username: javier
+  firstname: Javier
+  lastname: Arce
+  country: Spain
+  city: Madrid
+  website: 'http://javierarce.com '
+  description: Enthusiast · Reader · Illustrator · Front-end developer at @Vizzuality.
+  avatar: assets/avatars/javier.jpg
+---
+
+One of Kurt’s ill-fated efforts to earn money in this period was a tryout to write for Sports Illustrated, a new magazine of Time Inc. He was assigned to write an article about a racehorse that had bolted when the starting gun went off at Aqueduct and jumped over the railing of the infield. After thinking about it for an hour or so, Vonnegut wrote, “The horse jumped over the fucking fence,” walked out of the office, and went home.

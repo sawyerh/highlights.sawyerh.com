@@ -1,7 +1,7 @@
 ---
 title: The Design of Everyday Things
-author: Don Norman
-uuid: e748e589-39d1-4980-98ef-cc0eb1bc3904
+asin: B003KVKYAM
+uuid: d9154f56-bb89-43d5-945c-52330abf26b8
 original_title: The Design of Everyday Things
 ---
 

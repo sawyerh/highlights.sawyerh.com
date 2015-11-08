@@ -1,9 +1,0 @@
----
-title: 'The Undersea Network: It was not until the large-scale environmental transformation
-  of climate chang…'
-book_uuid: 49a23562-c08d-4f6b-a199-2bf361f45037
-location: 463-464
-source: kindle
----
-
-It was not until the large-scale environmental transformation of climate change, however, that a transarctic cable route became feasible.

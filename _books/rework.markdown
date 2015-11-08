@@ -1,7 +1,7 @@
 ---
 title: ReWork
 author: Jason Fried and David Heinemeier Hansson
-uuid: 5af2509b-87db-4301-8004-6ead65a4a90b
+uuid: ad2fae04-4e6b-4b30-8d26-9a101abe9a34
 original_title: ReWork
 ---
 

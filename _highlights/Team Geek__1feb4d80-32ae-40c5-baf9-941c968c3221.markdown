@@ -1,0 +1,9 @@
+---
+title: 'Team Geek: Traditional managers worry about how to get things done, whi…'
+book_uuid: 6af52595-e637-4d68-86c3-3ce6cdc1c632
+location: '0.385302'
+source: readmill
+highlighted_on: '2012-11-19T14:47:57.000Z'
+---
+
+Traditional managers worry about how to get things done, while leaders worry about what things get done … (and trust their team to figure out how to do it)
