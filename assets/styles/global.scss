@@ -58,6 +58,7 @@ button{
   max-height: 100%;
   width: 100%;
   z-index: 20;
+  -webkit-overflow-scrolling: touch;
 }
 
 .nav__sticky{
@@ -89,10 +90,6 @@ button{
 
   &:hover{
     opacity: 0.6;
-  }
-
-  &:active{
-    opacity: 0.3;
   }
 }
 
@@ -152,6 +149,15 @@ button{
   font-size: 90px;
   line-height: 1;
   padding: ($gutter * 1.4) ($gutter * 2) ($gutter * 2);
+
+  @include max-width(900px){
+    font-size: 52px;
+    padding: $gutter ($gutter / 2);
+  }
+
+  @include max-width(600px){
+    font-size: 32px;
+  }
 }
 
 .books__nav__link{
@@ -184,6 +190,7 @@ button{
   top: 0;
   bottom: 0;
   border-right: 1px solid $border_color;
+  -webkit-overflow-scrolling: touch;
 
   &::-webkit-scrollbar {
     width: 4px;
