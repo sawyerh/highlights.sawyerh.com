@@ -95,7 +95,7 @@ p:last-child { margin-bottom: 0; }
 
 button { background: none; border: 0 none; padding: 0; margin: 0; cursor: pointer; }
 
-.home-button { color: #919BA0; font-size: 32px; position: fixed; top: 0; right: 0; padding: 15px; text-decoration: none; }
+.home-button { color: #919BA0; font-size: 32px; position: fixed; top: 0; right: 0; padding: 15px; text-decoration: none; z-index: 30; display: inline-block; }
 @media only screen and (max-width: 570px) { .home-button { position: absolute; } }
 .home-button:hover { color: #fff; }
 
