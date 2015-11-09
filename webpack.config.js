@@ -4,6 +4,7 @@ var webpack = require("webpack");
 var config = {
   entry: {
     main: './assets/js/src/main.js',
+    type: './assets/js/src/type.js'
   },
   output: {
     path: './assets/js/dist',
@@ -17,10 +18,12 @@ var config = {
         exclude: /(node_modules)/
       },
       {
-        // React
         test: /\.js?$/,
         exclude: /(node_modules|bower_components)/,
-        loader: 'babel'
+        loader: 'babel',
+        query: {
+          presets: ['es2015']
+        }
       }
     ]
   },

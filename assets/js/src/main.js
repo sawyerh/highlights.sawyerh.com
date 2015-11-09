@@ -1,3 +1,4 @@
+"use strict";
 require('flickity');
 var _forEach = require('lodash/collection/forEach'),
     animate = require('animateplus'),
@@ -21,7 +22,7 @@ var flkty = new Flickity(container, {
 var state = {
   showingBooksNav: false,
   hashChecked: false
-}
+};
 
 var handleKeyDown = function( event ) {
   // Flickity only fires key navigation events when the container is in focus,
@@ -43,13 +44,18 @@ var handleBookLinkClick = function( event ) {
 
 var selectByHash = function( hash ) {
   _forEach(books, (book, i) => {
-    if(book.getAttribute('data-path') == hash.split('#')[1])
+    if(book.getAttribute('data-path') === hash.split('#')[1])
       flkty.select(i);
   });
 };
 
-var handleBooksToggle = function( event ) {
-  state.showingBooksNav ? hideBooksNav() : showBooksNav();
+var handleBooksToggle = function() {
+  if(state.showingBooksNav){
+    hideBooksNav();
+  } else {
+    showBooksNav();
+  }
+
   state.showingBooksNav = !state.showingBooksNav;
 };
 
@@ -100,11 +106,11 @@ flkty.on('settle', () => {
   if(!state.hashChecked){
     state.hashChecked = true;
 
-    if(window.location.hash && window.location.hash != '')
+    if(window.location.hash && window.location.hash !== '')
       selectByHash(window.location.hash);
   }
 
-  if(flkty.selectedIndex == 0){
+  if(flkty.selectedIndex === 0){
     prev.classList.add('is-inactive');
   } else {
     prev.classList.remove('is-inactive');

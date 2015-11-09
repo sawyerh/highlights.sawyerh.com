@@ -1,0 +1,9 @@
+---
+title: 'Creativity Inc: I’ve noticed what might be called a “law of subverting succe…'
+book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
+location: 'Chapter 10: Broadening Our View'
+source: ibooks
+highlighted_on: '2015-10-09T04:00:00.000Z'
+---
+
+I’ve noticed what might be called a “law of subverting successful approaches,” by which I mean once you’ve hit on something that works, don’t expect it to work again, because attendees will know how to manipulate it the second time around

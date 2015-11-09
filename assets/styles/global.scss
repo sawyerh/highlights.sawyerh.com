@@ -181,12 +181,12 @@ button{
   width: 100%;
   padding: $gutter;
   overflow: auto;
-  top: 10px;
+  top: 0;
   bottom: 0;
   border-right: 1px solid $border_color;
 
   &::-webkit-scrollbar {
-    width: 2px;
+    width: 4px;
   }
 
   &::-webkit-scrollbar-track {
@@ -197,8 +197,12 @@ button{
   &::-webkit-scrollbar-thumb {
     outline: none;
     border-radius: 30px;
-    background-color: lighten($border_color, 7%);
+    background-color: lighten($border_color, 10%);
     width: 10px;
+
+    &:hover{
+      background: #fff;
+    }
   }
 }
 
@@ -268,7 +272,8 @@ button{
 .highlight__link--all{
   color: $text_default;
   font-size: 14px;
-  margin-right: 10px;
+  display: block;
+  margin-top: 10px;
 
   &:hover{
     color: $text_faded;
@@ -281,7 +286,7 @@ button{
   }
 }
 
-.permalink .highlight__location{
+.highlight__via{
   float: right;
 }
 
@@ -289,16 +294,13 @@ button{
 // ========================================================
 .comments{
   font-size: 14px;
+  font-family: $sans;
+  color: $text_faded;
+  margin-bottom: $gutter;
 }
 
 .comment{
-  border-bottom: 1px solid $bg_default;
-  margin-bottom: 10px;
-  padding-bottom: 10px;
-
-  &:last-child{
-    border-bottom: 0 none;
-    margin-bottom: 0;
-    padding-bottom: 0;
-  }
+  border-top: 1px solid $border_color;
+  margin-top: 10px;
+  padding-top: 10px;
 }

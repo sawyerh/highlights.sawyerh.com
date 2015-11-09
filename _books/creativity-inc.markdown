@@ -1,8 +1,8 @@
 ---
-title: Creativity Inc.
-date: 2015-11-05 20:59:00 -05:00
-author: 20ebooks
-uuid: d28b3d60-73b7-4cd3-8836-29f3903bb687
-original_title: Anon
+title: Creativity Inc
+date: '2015-11-08T18:11:54-05:00'
+author: Amy Wallace and Edwin Catmull
+uuid: a1351c21-deba-45a0-9ec2-6322200c1753
+original_title: Creativity Inc
 ---
 
