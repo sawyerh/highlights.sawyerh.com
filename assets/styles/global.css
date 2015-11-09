@@ -95,7 +95,11 @@ p:last-child { margin-bottom: 0; }
 
 button { background: none; border: 0 none; padding: 0; margin: 0; cursor: pointer; }
 
-.nav { position: fixed; left: 0; bottom: 0; min-height: 60px; max-height: 100%; width: 100%; z-index: 20; }
+.home-button { color: #919BA0; font-size: 32px; position: fixed; top: 0; right: 0; padding: 15px; text-decoration: none; }
+@media only screen and (max-width: 570px) { .home-button { position: absolute; } }
+.home-button:hover { color: #fff; }
+
+.nav { position: fixed; left: 0; bottom: 0; min-height: 60px; max-height: 100%; width: 100%; z-index: 20; -webkit-overflow-scrolling: touch; }
 
 .nav__sticky { background: #000; height: 60px; }
 
@@ -104,7 +108,6 @@ button { background: none; border: 0 none; padding: 0; margin: 0; cursor: pointe
 .nav__button { width: 60px; height: 60px; background: #fff; color: #000; border: 0 none; border-left: 1px solid #000; font-size: 32px; float: left; transition: background-color 500ms ease, color 500ms ease; outline: none; }
 .nav__button.is-inactive { pointer-events: none; background: #000; color: #919BA0; }
 .nav__button:hover { opacity: 0.6; }
-.nav__button:active { opacity: 0.3; }
 
 .nav--collapse { display: none; }
 
@@ -120,21 +123,26 @@ button { background: none; border: 0 none; padding: 0; margin: 0; cursor: pointe
 .books__nav { clear: both; margin: 0; padding: 0; list-style: none; display: none; }
 
 .books__nav__item { font-family: "acumin-pro-extra-condensed"; font-size: 90px; line-height: 1; padding: 42px 60px 60px; }
+@media only screen and (max-width: 900px) { .books__nav__item { font-size: 52px; padding: 30px 15px; } }
+@media only screen and (max-width: 600px) { .books__nav__item { font-size: 32px; } }
 
 .books__nav__link { display: block; color: #000; text-decoration: none; }
 .books__nav__link:hover { text-decoration: underline; }
 
 .container { position: fixed !important; bottom: 60px; left: 0; top: 0; width: 100%; overflow: auto; z-index: 10; }
 
-.book { max-width: 450px; width: 100%; padding: 30px; overflow: auto; top: 0; bottom: 0; border-right: 1px solid #26262d; }
+.book { max-width: 450px; width: 100%; padding: 30px; overflow: auto; top: 0; bottom: 0; border-right: 1px solid #26262d; -webkit-overflow-scrolling: touch; }
 .book::-webkit-scrollbar { width: 4px; }
 .book::-webkit-scrollbar-track { width: 2px; border-radius: 30px; }
 .book::-webkit-scrollbar-thumb { outline: none; border-radius: 30px; background-color: #3d3d49; width: 10px; }
 .book::-webkit-scrollbar-thumb:hover { background: #fff; }
 
-.permalink { margin: 90px auto; border-right: 0 none; max-width: 600px; }
+.collection__highlights .book { margin: 90px auto; border-right: 0 none; max-width: 600px; }
 
 .book__title { font-family: "acumin-pro-extra-condensed"; font-weight: 400; font-size: 44px; margin: 0; line-height: 1; }
+@media only screen and (max-width: 600px) { .book__title { font-size: 30px; } }
+.book__title a { text-decoration: none; }
+.book__title a:hover { color: #919BA0; }
 
 .book__credit { font-family: "acumin-pro-extra-condensed"; font-weight: 400; font-size: 24px; margin: 0; color: #919BA0; }
 
@@ -142,7 +150,7 @@ button { background: none; border: 0 none; padding: 0; margin: 0; cursor: pointe
 .highlight:first-of-type { margin-top: 30px; }
 
 .highlight__content { padding: 15px 20px; margin: 0; border-radius: 2px; background-color: #ff8a80; color: #000; }
-.permalink .highlight__content { padding: 25px 30px; font-size: 24px; }
+@media only screen and (min-width: 500px) { .collection__highlights .highlight__content, .collection__books .highlight__content { padding: 25px 30px; font-size: 24px; } }
 
 .highlight__footer { font-size: 12px; font-family: "acumin-pro"; font-weight: 500; color: #919BA0; margin-top: 5px; }
 
@@ -158,3 +166,11 @@ button { background: none; border: 0 none; padding: 0; margin: 0; cursor: pointe
 .comments { font-size: 14px; font-family: "acumin-pro"; color: #919BA0; margin-bottom: 30px; }
 
 .comment { border-top: 1px solid #26262d; margin-top: 10px; padding-top: 10px; }
+
+.collection__books .container { position: static !important; max-width: 800px; margin: auto; }
+.collection__books .book__title { text-align: center; }
+@media only screen and (min-width: 800px) { .collection__books .book__title { font-size: 60px; margin-bottom: 15px; } }
+.collection__books .book__credit { text-align: center; }
+.collection__books .book { border-right: 0 none; max-width: none; }
+.collection__books .book__header { margin: 60px 0; }
+.collection__books .highlight { max-width: 450px; margin-left: auto; margin-right: auto; }
