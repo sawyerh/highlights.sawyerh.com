@@ -15,7 +15,7 @@ var flkty = new Flickity(container, {
   cellAlign: 'left',
   contain: true,
   pageDots: false,
-  draggable: (window.innerWidth < 570),
+  draggable: false,
   prevNextButtons: false
 });
 
