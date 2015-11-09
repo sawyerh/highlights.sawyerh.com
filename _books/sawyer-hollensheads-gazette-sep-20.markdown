@@ -1,8 +1,0 @@
----
-title: Sawyer Hollenshead's Gazette - Sep 20
-date: '2015-11-08T18:00:09-05:00'
-author: Gazette
-uuid: fe7e95ac-2c7c-46eb-9c92-7c03774542f9
-original_title: Sawyer Hollenshead's Gazette - Sep 20
----
-
