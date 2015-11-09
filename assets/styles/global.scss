@@ -50,6 +50,24 @@ button{
 
 // NAV
 // ========================================================
+.home-button{
+  color: $text_faded;
+  font-size: 32px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  padding: 15px;
+  text-decoration: none;
+
+  @include max-width($max_highlight_width + ($gutter * 4)){
+    position: absolute;
+  }
+
+  &:hover{
+    color: $text_default;
+  }
+}
+
 .nav{
   position: fixed;
   left: 0;
@@ -155,7 +173,7 @@ button{
     padding: $gutter ($gutter / 2);
   }
 
-  @include max-width(600px){
+  @include max-width($bp_small_screen){
     font-size: 32px;
   }
 }
@@ -183,7 +201,7 @@ button{
 }
 
 .book{
-  max-width: 450px;
+  max-width: $max_highlight_width;
   width: 100%;
   padding: $gutter;
   overflow: auto;
@@ -213,7 +231,7 @@ button{
   }
 }
 
-.permalink{
+.collection__highlights .book{
   margin: 90px auto;
   border-right: 0 none;
   max-width: 600px;
@@ -225,6 +243,18 @@ button{
   font-size: 44px;
   margin: 0;
   line-height: 1;
+
+  @include max-width($bp_small_screen){
+    font-size: 30px;
+  }
+
+  a{
+    text-decoration: none;
+
+    &:hover{
+      color: $text_faded;
+    }
+  }
 }
 
 .book__credit{
@@ -251,9 +281,11 @@ button{
   background-color: unquote(nth($colors, 1));
   color: #000;
 
-  .permalink &{
-    padding: 25px 30px;
-    font-size: $font_size_default + 6;
+  @include min-width(500px){
+    .collection__highlights &, .collection__books &{
+      padding: 25px 30px;
+      font-size: $font_size_default + 6;
+    }
   }
 }
 
@@ -310,4 +342,42 @@ button{
   border-top: 1px solid $border_color;
   margin-top: 10px;
   padding-top: 10px;
+}
+
+// BOOK PERMALINKS
+// ========================================================
+.collection__books{
+  .container{
+    position: static !important;
+    max-width: 800px;
+    margin: auto;
+  }
+
+  .book__title{
+    text-align: center;
+
+    @include min-width(800px){
+      font-size: 60px;
+      margin-bottom: 15px;
+    }
+  }
+
+  .book__credit{
+    text-align: center;
+  }
+
+  .book{
+    border-right: 0 none;
+    max-width: none;
+  }
+
+  .book__header{
+    margin: ($gutter * 2) 0;
+  }
+
+  .highlight{
+    max-width: $max_highlight_width;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }

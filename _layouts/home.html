@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% assign all_highlights = site.highlights %}
-{% assign az_books = site.books | sort: 'title' %}
+
 <nav class="nav">
   <div class="nav__sticky">
     <button class="filter ss-plus books__nav__toggle">Books and articles</button>
@@ -16,6 +16,7 @@ layout: default
   </div>
 
   <ol class="books__nav">
+    {% assign az_books = site.books | sort: 'title' %}
     {% for book in az_books %}
       <li class="books__nav__item">
         <a class="books__nav__link" href="#{{ book.path }}">{{ book.title }}</a>
@@ -28,13 +29,7 @@ layout: default
   {% assign chrono_books = site.books | sort: 'date' %}
   {% for book in chrono_books reversed %}
     {% assign highlights = all_highlights | where:"book_uuid", book.uuid | sort: 'location' %}
-
-    <div class="book" data-path="{{ book.path }}">
-      {% include book_header.html %}
-      {% for highlight in highlights reversed %}
-        {% include highlight.html %}
-      {% endfor %}
-    </div>
+    {% include book_highlights.html %}
   {% endfor %}
 </section>
 

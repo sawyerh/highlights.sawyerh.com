@@ -1,0 +1,6 @@
+<div class="book" data-path="{{ book.path }}">
+  {% include book_header.html %}
+  {% for highlight in highlights reversed %}
+    {% include highlight.html %}
+  {% endfor %}
+</div>
