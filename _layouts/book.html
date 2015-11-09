@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 {% assign book = page %}
 {% assign highlights = site.highlights | where:"book_uuid", book.uuid | sort: 'location' %}
 
