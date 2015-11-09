@@ -58,6 +58,8 @@ button{
   right: 0;
   padding: 15px;
   text-decoration: none;
+  z-index: 30;
+  display: inline-block;
 
   @include max-width($max_highlight_width + ($gutter * 4)){
     position: absolute;
