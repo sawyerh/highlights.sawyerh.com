@@ -6,4 +6,4 @@ uuid: 4c5af46f-6980-4aa9-b254-e5a22150cfaf
 original_title: It Will Be Exhilarating - 1
 ---
 
-(Remap highlights to this book after recording video demo)
+(Remap highlights to this book after recording video demo).
