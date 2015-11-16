@@ -33,6 +33,6 @@ exclude:
 - bower_components
 - siteleaf-gem
 - ".gitignore"
-- "package.json"
-- "webpack.config.js"
-- "bower.json"
+- package.json
+- webpack.config.js
+- bower.json
