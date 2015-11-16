@@ -5,5 +5,6 @@ asin: B007ZHC95K
 author: Carol J. Loomis
 uuid: b5c4d748-6148-4148-b53b-9144d2e037d9
 original_title: 'Tap Dancing to Work: Warren Buffett on Practically Everything, 1966-2013'
+amazon: true
 ---
 
