@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% assign book = page %}
-{% assign highlights = site.highlights | where:"book_uuid", book.uuid | sort: 'location' %}
+{% assign highlights = site.highlights | where:"book_uuid", book.uuid %}
 
 <a href="/" class="ss-icon home-button">close</a>
 

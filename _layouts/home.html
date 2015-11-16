@@ -28,7 +28,7 @@ layout: default
 <section class="container">
   {% assign chrono_books = site.books | sort: 'date' %}
   {% for book in chrono_books reversed %}
-    {% assign highlights = all_highlights | where:"book_uuid", book.uuid | sort: 'location' %}
+    {% assign highlights = all_highlights | where:"book_uuid", book.uuid %}
     {% include book_highlights.html %}
   {% endfor %}
 </section>
