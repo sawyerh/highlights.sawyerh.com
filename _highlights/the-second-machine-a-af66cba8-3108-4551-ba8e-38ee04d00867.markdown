@@ -2,7 +2,7 @@
 title: 'The Second Machine A: The Industrial Revolution was accompanied by soot-filled
   Lon…'
 book_uuid: be5b3b2c-154c-4858-849e-2163a9bc72f0
-location: 
+location: 139
 ---
 
 The Industrial Revolution was accompanied by soot-filled London skies and

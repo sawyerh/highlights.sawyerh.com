@@ -2,7 +2,7 @@
 title: 'The Second Machine A: Nine years later another computer hit 1.8 teraflops.
   But ins…'
 book_uuid: be5b3b2c-154c-4858-849e-2163a9bc72f0
-location: 
+location: 687
 ---
 
 Nine years later another computer hit 1.8 teraflops. But instead of
