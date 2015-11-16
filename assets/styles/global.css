@@ -146,6 +146,10 @@ button { background: none; border: 0 none; padding: 0; margin: 0; cursor: pointe
 
 .book__credit { font-family: "acumin-pro-extra-condensed"; font-weight: 400; font-size: 24px; margin: 0; color: #919BA0; }
 
+.book__buy { font-family: "acumin-pro"; font-size: 14px; line-height: 1; color: #919BA0; text-decoration: none; display: inline-block; background-color: rgba(255, 255, 255, 0.15); border-radius: 3px; padding: 5px 8px; margin-top: 5px; }
+.book__buy:hover { background-color: #fff; color: #1a1a1f; }
+.book__buy:after { margin-left: 3px; vertical-align: middle; }
+
 .highlight { line-height: 1.3; margin-bottom: 15px; }
 .highlight:first-of-type { margin-top: 30px; }
 
