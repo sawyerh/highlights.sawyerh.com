@@ -31,4 +31,4 @@ exclude:
 - node_modules
 - bower_components
 - siteleaf-gem
-- .gitignore
+- ".gitignore"
