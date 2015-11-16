@@ -1,0 +1,8 @@
+node_modules
+.siteleaf.yml
+.DS_store
+_site
+.sass-cache
+bower_components
+siteleaf-gem
+.jekyll-metadata
