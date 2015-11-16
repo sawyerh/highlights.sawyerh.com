@@ -267,6 +267,29 @@ button{
   color: $text_faded;
 }
 
+.book__buy{
+  font-family: $sans;
+  font-size: 14px;
+  line-height: 1;
+  color: $text_faded;
+  text-decoration: none;
+  display: inline-block;
+  background-color: rgba(#fff, 0.15);
+  border-radius: 3px;
+  padding: 5px 8px;
+  margin-top: 5px;
+
+  &:hover{
+    background-color: #fff;
+    color: $bg_default;
+  }
+
+  &:after{
+    margin-left: 3px;
+    vertical-align: middle;
+  }
+}
+
 .highlight{
   line-height: 1.3;
   margin-bottom: 15px;
