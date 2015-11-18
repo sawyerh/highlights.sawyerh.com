@@ -26,6 +26,8 @@ defaults:
     path: books
   values:
     layout: book
+sass:
+  style: :compressed
 permalinks: pretty
 google_analytics: 59986301-2
 exclude:
