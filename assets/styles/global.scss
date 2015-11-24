@@ -378,10 +378,10 @@ button{
     margin: auto;
   }
 
-  .book__title{
-    @include min-width(800px){
+  @include min-width(800px){
+    .book__title{
       font-size: 60px;
-      margin-bottom: 15px;
+      margin-bottom: 5px;
     }
   }
 
