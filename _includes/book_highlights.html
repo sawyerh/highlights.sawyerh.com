@@ -1,6 +1,7 @@
+{% assign sorted_highlights = highlights | sort: 'highlighted_on' %}
 <div class="book" data-path="{{ book.path }}">
   {% include book_header.html %}
-  {% for highlight in highlights reversed %}
+  {% for highlight in sorted_highlights %}
     {% include highlight.html %}
   {% endfor %}
 </div>
