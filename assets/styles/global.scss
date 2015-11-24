@@ -379,16 +379,10 @@ button{
   }
 
   .book__title{
-    text-align: center;
-
     @include min-width(800px){
       font-size: 60px;
       margin-bottom: 15px;
     }
-  }
-
-  .book__credit{
-    text-align: center;
   }
 
   .book{
@@ -398,6 +392,7 @@ button{
 
   .book__header{
     margin: ($gutter * 2) 0;
+    text-align: center;
   }
 
   .highlight{
