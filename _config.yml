@@ -38,3 +38,10 @@ exclude:
 - package.json
 - webpack.config.js
 - bower.json
+defaults:
+  -
+    scope:
+      path: ""
+      type: "books"
+    values:
+      uuid: ""
