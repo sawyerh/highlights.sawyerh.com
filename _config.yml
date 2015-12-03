@@ -15,17 +15,9 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: posts
+    type: books
   values:
-    permalink: "/posts/:title/"
-- scope:
-    path: highlights
-  values:
-    layout: highlight
-- scope:
-    path: books
-  values:
-    layout: book
+    uuid: ''
 sass:
   style: :compressed
 permalinks: pretty
@@ -38,10 +30,3 @@ exclude:
 - package.json
 - webpack.config.js
 - bower.json
-defaults:
-  -
-    scope:
-      path: ""
-      type: "books"
-    values:
-      uuid: ""
