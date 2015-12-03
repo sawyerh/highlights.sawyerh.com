@@ -12,12 +12,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-defaults:
-- scope:
-    path: ''
-    type: books
-  values:
-    uuid: ''
 sass:
   style: :compressed
 permalinks: pretty
