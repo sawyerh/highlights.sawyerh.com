@@ -12,6 +12,20 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/posts/:title/"
+- scope:
+    path: highlights
+  values:
+    layout: highlight
+- scope:
+    path: books
+  values:
+    layout: book
 sass:
   style: :compressed
 permalinks: pretty
