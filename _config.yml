@@ -1,6 +1,6 @@
 ---
 title: Highlights
-url: http://highlights.sawyerhollenshead.com
+url: http://highlights.sawyerh.com
 timezone: America/New_York
 collections:
   books:
@@ -27,7 +27,7 @@ defaults:
   values:
     layout: book
 sass:
-  style: :compressed
+  style: compressed
 permalinks: pretty
 google_analytics: 59986301-2
 exclude:
