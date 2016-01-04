@@ -7,7 +7,7 @@
     {% if page.collection != 'highlights' %}
       <a href="{{ highlight.url }}" class="ss-icon highlight__link">link</a>
     {% endif %}
-    {% if highlight.location %}
+    {% if highlight.location and highlight.location != 'No title' %}
       <span class="highlight__location">{{ highlight.location }}</span>
     {% endif %}
     {% if highlight.highlight_by %}
