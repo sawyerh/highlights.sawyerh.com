@@ -1,0 +1,9 @@
+---
+title: 'Einstein: beam. As he once declared, “Imagination is more important th…'
+book_uuid: 75ba9f24-9b09-4d3d-94b8-0dc8cfb6da2d
+location: '0.0336429'
+source: readmill
+highlighted_on: '2013-01-08T18:45:11.000Z'
+---
+
+beam. As he once declared, “Imagination is more important than knowledge.”

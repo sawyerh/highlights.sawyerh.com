@@ -1,0 +1,8 @@
+{% assign book = page %}
+{% assign highlights = site.highlights | where:"book_uuid", book.uuid %}
+
+<a href="/" class="ss-icon home-button">close</a>
+
+<section class="container">
+  {% include book_highlights.html %}
+</section>

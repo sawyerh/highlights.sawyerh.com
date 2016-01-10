@@ -1,0 +1,43 @@
+---
+title: Highlights
+url: http://highlights.sawyerh.com
+timezone: America/New_York
+collections:
+  books:
+    title: Books
+    output: true
+  highlights:
+    title: Highlights
+    output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/posts/:title/"
+- scope:
+    path: highlights
+  values:
+    layout: highlight
+- scope:
+    path: books
+  values:
+    layout: book
+sass:
+  style: compressed
+permalinks: pretty
+google_analytics: 59986301-2
+exclude:
+- node_modules
+- bower_components
+- siteleaf-gem
+- ".gitignore"
+- package.json
+- webpack.config.js
+- bower.json

@@ -1,0 +1,9 @@
+---
+title: 'The Second Machine A: digital information is not “used up” when it gets used,
+  and …'
+book_uuid: be5b3b2c-154c-4858-849e-2163a9bc72f0
+location: 856
+---
+
+digital information is not “used up” when it gets used, and it is extremely
+cheap to make another copy of a digitized resource.
