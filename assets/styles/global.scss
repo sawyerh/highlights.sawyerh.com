@@ -239,6 +239,12 @@ button{
   max-width: 600px;
 }
 
+.book__cover{
+  display: block;
+  max-width: 150px;
+  margin: 0 auto $gutter;
+}
+
 .book__title{
   font-family: $sans_condensed;
   font-weight: 400;
@@ -309,7 +315,7 @@ button{
   @include min-width(500px){
     .collection__highlights &, .collection__books &{
       padding: 25px 30px;
-      font-size: $font_size_default + 6;
+      font-size: $font_size_default + 4;
     }
   }
 }

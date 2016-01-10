@@ -1,4 +1,8 @@
 <div class="book__header">
+  {% if page.collection == 'books' and page.cover %}
+    <img src="{{ page.cover }}" alt="{{ page.title }}" class="book__cover" />
+  {% endif %}
+
   <h1 class="book__title">
     {% if page.collection != 'books' %}<a href="{{ book.url }}">{% endif %}
       {{ book.title }}
