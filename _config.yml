@@ -17,16 +17,11 @@ collections:
     output: true
 defaults:
 - scope:
-    path: ''
-    type: posts
-  values:
-    permalink: "/posts/:title/"
-- scope:
-    path: highlights
+    type: highlights
   values:
     layout: highlight
 - scope:
-    path: books
+    type: books
   values:
     layout: book
 sass:
