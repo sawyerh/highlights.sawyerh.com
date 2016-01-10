@@ -1,9 +1,0 @@
----
-title: 'Creativity Inc: “If you’re sailing across the ocean and your goal is to avoi…'
-book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
-location: 'Chapter 11: The Unmade Future'
-source: ibooks
-highlighted_on: '2015-10-18T00:00:00.000Z'
----
-
-“If you’re sailing across the ocean and your goal is to avoid weather and waves, then why the hell are you sailing?” he says. “You have to embrace that sailing means that you can’t control the elements and that there will be good days and bad days and that, whatever comes, you will deal with it because your goal is to eventually get to the other side. You will not be able to control exactly how you get across. That’s the game you’ve decided to be in. If your goal is to make it easier and simpler, then don’t get in the boat.”
