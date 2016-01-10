@@ -9,6 +9,9 @@ collections:
   highlights:
     title: Highlights
     output: true
+  posts:
+    title: Posts
+    output: true
   uploads:
     title: Uploads
     output: true
