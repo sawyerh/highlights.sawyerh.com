@@ -17,12 +17,12 @@ collections:
     output: true
 defaults:
 - scope:
-    path: ""
+    path: ''
     type: highlights
   values:
     layout: highlight
 - scope:
-    path: ""
+    path: ''
     type: books
   values:
     layout: book
