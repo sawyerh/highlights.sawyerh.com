@@ -133,13 +133,14 @@ button{
   }
 }
 
-.books__nav__toggle{
+.books__nav__toggle, .nav__about-link{
   line-height: $h_nav;
   font-family: $sans_condensed;
   font-size: 24px;
   color: $text_faded;
   margin-left: 20px;
   outline: none;
+  text-decoration: none;
 
   &:hover{
     color: $text_default;
@@ -151,6 +152,12 @@ button{
     top: 2px;
     font-size: 85%;
     color: $text_default;
+  }
+}
+
+@include max-width(440px){
+  .nav__about-link{
+    display: none;
   }
 }
 
