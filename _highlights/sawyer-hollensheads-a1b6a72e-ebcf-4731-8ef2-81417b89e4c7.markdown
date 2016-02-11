@@ -1,6 +1,7 @@
 ---
 title: 'Sawyer Hollenshead''s: I think people will want structure and endings again,
   eventu…'
+position: 327
 book_uuid: a6f185d8-5868-4f55-b3ed-84129a680280
 comments:
 - body: 'Ahem, Gazette. '

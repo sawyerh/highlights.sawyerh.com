@@ -1,5 +1,6 @@
 ---
 title: 'Creativity Inc: The very concept of a limit implies that you can’t do everyt…'
+position: 100
 book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
 location: 'Chapter 10: Broadening Our View'
 source: ibooks

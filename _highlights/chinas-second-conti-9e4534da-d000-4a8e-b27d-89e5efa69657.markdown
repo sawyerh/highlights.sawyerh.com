@@ -1,6 +1,7 @@
 ---
 title: 'China''s Second Conti: When I came here, Namibia was richer than China,” he
   said, l…'
+position: 52
 book_uuid: 307e8c35-0ddd-4738-ad74-cf9d2e4f8605
 location: 'Chapter Ten: Fat of the Land'
 source: ibooks

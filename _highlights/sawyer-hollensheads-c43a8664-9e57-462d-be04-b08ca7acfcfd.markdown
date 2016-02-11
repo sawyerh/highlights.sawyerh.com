@@ -1,6 +1,7 @@
 ---
 title: 'Sawyer Hollenshead''s: I think if people know too much about their own industries,
   …'
+position: 340
 book_uuid: fe7e95ac-2c7c-46eb-9c92-7c03774542f9
 location: '0.340299'
 source: readmill

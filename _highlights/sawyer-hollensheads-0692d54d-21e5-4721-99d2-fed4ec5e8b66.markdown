@@ -1,6 +1,7 @@
 ---
 title: 'Sawyer Hollenshead''s: library.D3.js, a library for powering data-driven documents
   …'
+position: 268
 book_uuid: c50a38b0-9316-4073-b260-c6118bd85772
 comments:
 - body: Todo

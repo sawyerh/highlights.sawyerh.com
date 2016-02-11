@@ -1,5 +1,6 @@
 ---
 title: 'Pocket 2012 - A Read: Live in the future, then build what''s missing.'
+position: 229
 book_uuid: 0ad0d9b9-7259-4e7a-8e99-10d91fc62e48
 comments:
 - body: Paul Graham - Coming up with startup ideas

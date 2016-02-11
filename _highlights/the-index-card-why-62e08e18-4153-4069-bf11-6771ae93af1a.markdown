@@ -1,6 +1,7 @@
 ---
 title: 'The Index Card: Why : The fastest way of ending your debt drama and getting
   off th…'
+position: 437
 book_uuid: 3b3c636e-878a-459a-adc5-8da017f35bc6
 location: '468'
 source: kindle

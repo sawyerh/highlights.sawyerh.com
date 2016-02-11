@@ -1,6 +1,7 @@
 ---
 title: 'Sawyer Hollenshead''s: I thought a computer would eliminate all that randomness,
   lo…'
+position: 308
 book_uuid: c50a38b0-9316-4073-b260-c6118bd85772
 comments:
 - body: 'The Believer - Renata Adler '

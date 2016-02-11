@@ -1,6 +1,7 @@
 ---
 title: 'Dumbing Us Down: The: Almost the only way you can get attention in a pseudo
   commun…'
+position: 135
 book_uuid: e76ce034-c041-48a9-973d-f9d29687e74c
 comments:
 - body: promoted posts. litherland's protocol for un/following.

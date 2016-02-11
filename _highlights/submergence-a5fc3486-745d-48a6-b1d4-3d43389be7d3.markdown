@@ -1,5 +1,6 @@
 ---
 title: 'Submergence: His phone rang before dawn. His first waking word was a prof…'
+position: 388
 book_uuid: dd797cf3-437d-4237-b1ae-728102f6b82d
 comments:
 - body: Same

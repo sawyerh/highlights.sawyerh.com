@@ -1,6 +1,7 @@
 ---
 title: 'Sawyer Hollenshead''s: Compressed air tubes will carry goods and materials
   over loc…'
+position: 349
 book_uuid: 9197a3dc-7559-4fdc-ba86-80b37e29aa54
 comments:
 - body: 'NYC used to have a pneumatic tube system for mail but abandoned it. '

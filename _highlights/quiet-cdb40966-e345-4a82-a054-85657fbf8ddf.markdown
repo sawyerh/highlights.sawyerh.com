@@ -1,5 +1,6 @@
 ---
 title: 'Quiet: Work alone. You’re going to be best able to design revolutio…'
+position: 255
 book_uuid: d11719a1-9e95-44c4-b170-38762a51ae1d
 comments:
 - body: 'Solitary focused work is an invaluable part of my process. The careful messaging

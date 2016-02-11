@@ -1,5 +1,6 @@
 ---
 title: 'Instapaper: Friday, : What does elicit a visceral reaction—hard, heavy laughter—is…'
+position: 181
 book_uuid: e4064218-149d-4f6c-9727-0c0ebdd41b48
 location: 1309-1312
 source: kindle

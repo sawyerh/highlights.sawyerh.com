@@ -1,5 +1,6 @@
 ---
 title: 'Close to the machine: Anarchocapitalist'
+position: 69
 book_uuid: d4bf4d23-0f84-446e-8c0a-bfd227fa2a69
 location: '0.264132'
 source: readmill

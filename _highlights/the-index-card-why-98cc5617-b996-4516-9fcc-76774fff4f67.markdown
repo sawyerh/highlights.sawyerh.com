@@ -1,6 +1,7 @@
 ---
 title: 'The Index Card: Why : One academic analysis found the best way to make money
   off h…'
+position: 451
 book_uuid: 3b3c636e-878a-459a-adc5-8da017f35bc6
 location: '896'
 source: kindle

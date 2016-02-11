@@ -1,6 +1,7 @@
 ---
 title: 'Sawyer Hollenshead''s: All of the data we''re collecting, all of the data
   points and…'
+position: 346
 book_uuid: 2c6fb5ce-34a8-44cb-a084-63807c016204
 location: '0.197911'
 source: readmill

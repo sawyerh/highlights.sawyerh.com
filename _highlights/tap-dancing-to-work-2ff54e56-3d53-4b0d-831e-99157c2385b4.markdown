@@ -1,5 +1,6 @@
 ---
 title: 'Tap Dancing to Work:: “Whenever I read about some company undertaking a cost-cutti…'
+position: 391
 book_uuid: b5c4d748-6148-4148-b53b-9144d2e037d9
 location: '1755'
 source: kindle

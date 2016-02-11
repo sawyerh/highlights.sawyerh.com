@@ -1,5 +1,6 @@
 ---
 title: 'ReWork: Workaholics aren’t heroes. They don’t save the day, they jus…'
+position: 260
 book_uuid: b317b3f6-b19e-4f20-a710-fa2efc258295
 comments:
 - body: Yes.

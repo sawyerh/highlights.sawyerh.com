@@ -1,6 +1,7 @@
 ---
 title: 'Sawyer Hollenshead''s: You can tell a fair negative critic, a fair polemicist,
   by w…'
+position: 296
 book_uuid: c50a38b0-9316-4073-b260-c6118bd85772
 comments:
 - body: 'The Believer - Renata Adler '

@@ -1,6 +1,7 @@
 ---
 title: 'Fresh Off the Boat: : When you washed your hands, they had hand towels so
   you didn…'
+position: 150
 book_uuid: 2f50f3c0-5652-4576-9214-e53aae7074c1
 location: '660'
 source: kindle

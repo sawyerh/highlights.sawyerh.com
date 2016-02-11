@@ -1,6 +1,7 @@
 ---
 title: 'Bye Bye Banks?: How : diversity brings different views to problems as empathetic
   t…'
+position: 27
 book_uuid: f5de12dd-6d51-40a8-9ae7-ab25015ce46b
 location: '5. INTRODUCING A BETA BANK:'
 source: ibooks

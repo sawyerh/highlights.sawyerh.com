@@ -1,6 +1,7 @@
 ---
 title: 'The Great Gatsby: Every one suspects himself of at least one of the cardinal
   v…'
+position: 415
 book_uuid: 363285bc-c668-47b6-986a-fb3a45a456b0
 comments:
 - body: 'Personal analysis '

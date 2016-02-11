@@ -1,5 +1,6 @@
 ---
 title: '1984: But we make the brain perfect before we blow it out.'
+position: 7
 book_uuid: 9139ec85-ba74-4611-b129-15774149e1c7
 location: '0.826172'
 source: readmill

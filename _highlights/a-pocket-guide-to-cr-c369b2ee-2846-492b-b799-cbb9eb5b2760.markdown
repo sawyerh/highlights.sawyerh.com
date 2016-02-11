@@ -1,6 +1,7 @@
 ---
 title: 'A Pocket Guide to Cr: You can go a step even further. SymbolSets are semantic
   symb…'
+position: 15
 book_uuid: 93faa52a-a9a0-4f44-ade6-b55f701237fd
 comments:
 - body: http://symbolset.com

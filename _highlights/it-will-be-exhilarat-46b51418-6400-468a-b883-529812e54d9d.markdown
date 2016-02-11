@@ -1,6 +1,7 @@
 ---
 title: 'It Will Be Exhilarat: Thirty days seems to be the sweet spot for campaign
   funding …'
+position: 188
 book_uuid: 4c5af46f-6980-4aa9-b254-e5a22150cfaf
 location: '0.283811'
 source: readmill

@@ -1,6 +1,7 @@
 ---
 title: 'Bye Bye Banks?: How : Relational Loss39 is a concept that explains the importance
   …'
+position: 30
 book_uuid: f5de12dd-6d51-40a8-9ae7-ab25015ce46b
 location: '5. INTRODUCING A BETA BANK:'
 source: ibooks

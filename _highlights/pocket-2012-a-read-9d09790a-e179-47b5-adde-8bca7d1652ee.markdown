@@ -1,6 +1,7 @@
 ---
 title: 'Pocket 2012 - A Read: Timeliness. Rhythm. Moderation. These things dovetail
   into w…'
+position: 241
 book_uuid: 0ad0d9b9-7259-4e7a-8e99-10d91fc62e48
 comments:
 - body: The Slow Web

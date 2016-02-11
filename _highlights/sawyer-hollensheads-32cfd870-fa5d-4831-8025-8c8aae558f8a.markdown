@@ -1,6 +1,7 @@
 ---
 title: 'Sawyer Hollenshead''s: If we are hiring you because you are awesome, then
   you have …'
+position: 290
 book_uuid: b2499438-a7be-4d48-aac8-8c21fb3963a5
 comments:
 - body: "The Rule of Awesome\n        \n      \n      \n        by Micah Baldwin\n

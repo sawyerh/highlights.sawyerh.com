@@ -1,6 +1,7 @@
 ---
 title: 'A Pocket Guide to Cr: If you are going to make a living creating fonts, there
   are …'
+position: 14
 book_uuid: 93faa52a-a9a0-4f44-ade6-b55f701237fd
 location: '0.60978'
 source: readmill

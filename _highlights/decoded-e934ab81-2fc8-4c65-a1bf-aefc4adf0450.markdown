@@ -1,5 +1,6 @@
 ---
 title: 'Decoded: There’s no way to quantify all that on a spreadsheet, but it…'
+position: 129
 book_uuid: 4459e9c5-f0a9-4e41-95b1-328503183e31
 location: '0.20601'
 source: readmill

@@ -1,6 +1,7 @@
 ---
 title: 'Sawyer Hollenshead''s: We''re using mapbox.js as our core open source mapping
   librar…'
+position: 286
 book_uuid: c50a38b0-9316-4073-b260-c6118bd85772
 comments:
 - body: Todo

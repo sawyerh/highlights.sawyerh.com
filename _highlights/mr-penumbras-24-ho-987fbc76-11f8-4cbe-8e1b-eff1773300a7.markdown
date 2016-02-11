@@ -1,6 +1,7 @@
 ---
 title: 'Mr. Penumbra''s 24-Ho: Books: boring. Codes: awesome. These are the people
   who are …'
+position: 204
 book_uuid: 260d9635-c033-49ae-8ce2-3bc1ae0d8c93
 location: 
 source: readmill

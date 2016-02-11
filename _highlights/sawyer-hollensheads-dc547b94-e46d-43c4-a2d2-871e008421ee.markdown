@@ -1,5 +1,6 @@
 ---
 title: 'Sawyer Hollenshead''s: the best way to predict the future is to invent it.'
+position: 351
 book_uuid: 05faaa68-3ab3-4200-8bb9-5a9a70079a44
 comments:
 - body: Alan Kay

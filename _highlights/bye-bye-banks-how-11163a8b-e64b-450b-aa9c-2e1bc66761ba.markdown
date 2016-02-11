@@ -1,5 +1,6 @@
 ---
 title: 'Bye Bye Banks?: How : MaxMyInterest, a US startup that calls itself the ‘intellige…'
+position: 25
 book_uuid: f5de12dd-6d51-40a8-9ae7-ab25015ce46b
 location: A three-stage scenario that is underway
 source: ibooks

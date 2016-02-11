@@ -1,6 +1,7 @@
 ---
 title: 'Design Is a Job: There is always someone cheaper. Negotiate price, but don’t
   …'
+position: 132
 book_uuid: 0a8ccbc8-7a1d-41de-9acb-a33fe8e7c691
 location: '0.266501'
 source: readmill

@@ -1,5 +1,6 @@
 ---
 title: 'Creativity Inc: I’ve noticed what might be called a “law of subverting succe…'
+position: 88
 book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
 location: 'Chapter 10: Broadening Our View'
 source: ibooks

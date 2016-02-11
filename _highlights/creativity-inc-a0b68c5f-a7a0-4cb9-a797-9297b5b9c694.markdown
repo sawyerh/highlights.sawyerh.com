@@ -1,6 +1,7 @@
 ---
 title: 'Creativity Inc: The uncreated is a vast, empty space. This emptiness is so
   s…'
+position: 98
 book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
 location: 'Chapter 11: The Unmade Future'
 source: ibooks

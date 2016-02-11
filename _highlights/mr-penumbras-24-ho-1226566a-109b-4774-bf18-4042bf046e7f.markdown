@@ -1,6 +1,7 @@
 ---
 title: 'Mr. Penumbra''s 24-Ho: now it’s programmers who get to upgrade the human operating
   …'
+position: 200
 book_uuid: 260d9635-c033-49ae-8ce2-3bc1ae0d8c93
 location: 
 source: readmill

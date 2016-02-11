@@ -1,6 +1,7 @@
 ---
 title: 'Terra Firma Triptych: The Internet will spread and magnify their sense of
   injustic…'
+position: 402
 book_uuid: 5fabbe27-8a7d-43e3-8cc9-57eb5c54b98e
 location: '319'
 source: kindle

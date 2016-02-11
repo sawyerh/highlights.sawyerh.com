@@ -1,5 +1,6 @@
 ---
 title: 'Sci-fi short stories: Tsuyoshi was a video format upgrader by trade. He transferre…'
+position: 364
 book_uuid: 53833fe9-dcd0-43ed-8d1d-2f4791f44d5d
 location: '0.395341'
 source: readmill

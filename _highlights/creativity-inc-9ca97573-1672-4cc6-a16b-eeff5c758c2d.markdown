@@ -1,5 +1,6 @@
 ---
 title: 'Creativity Inc: Here’s what turns a successful hierarchy into one that imped…'
+position: 97
 book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
 location: 'Chapter 9: The Hidden'
 source: ibooks

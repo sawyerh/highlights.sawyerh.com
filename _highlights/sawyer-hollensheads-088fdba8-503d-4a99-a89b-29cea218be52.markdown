@@ -1,6 +1,7 @@
 ---
 title: 'Sawyer Hollenshead''s: Let me let you in on a little secret: if you are hearing
   abo…'
+position: 271
 book_uuid: 877e6a33-be12-42f9-80c6-64484c407db0
 comments:
 - body: Frank Chimero × Blog × Let’s Talk About Timeless Design

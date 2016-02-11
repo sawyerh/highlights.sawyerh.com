@@ -1,6 +1,7 @@
 ---
 title: 'Future thinking: If life is a cosmic fluke, then we’ve already beaten the
   odd…'
+position: 171
 book_uuid: b64d17a2-72cd-499a-89c4-753a35c081a8
 location: '0.325167'
 source: readmill

@@ -1,6 +1,7 @@
 ---
 title: 'Creativity Inc: Once you master any system, you typically become blind to
   it…'
+position: 78
 book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
 location: 'Chapter 8: Change and Randomness'
 source: ibooks

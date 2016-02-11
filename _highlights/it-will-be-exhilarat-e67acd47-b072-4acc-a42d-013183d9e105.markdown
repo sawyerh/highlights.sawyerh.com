@@ -2,6 +2,7 @@
 title: 'It Will Be Exhilarat: Make something great because you care deeply about it.
   Make …'
 date: 2015-11-13 19:02:00 -05:00
+position: 2
 book_uuid: 4c5af46f-6980-4aa9-b254-e5a22150cfaf
 location: Philosophy
 source: ibooks

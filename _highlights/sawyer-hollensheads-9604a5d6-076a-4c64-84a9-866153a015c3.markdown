@@ -1,6 +1,7 @@
 ---
 title: 'Sawyer Hollenshead''s: Have Backbone; Disagree and Commit Leaders are obligated
   to …'
+position: 321
 book_uuid: ec9d01cd-b4bd-4f12-a940-f27cf0209f3f
 location: 2458-2461
 source: kindle

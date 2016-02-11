@@ -1,6 +1,7 @@
 ---
 title: 'China''s Second Conti: If you have your equipment and your people in place
   and ther…'
+position: 46
 book_uuid: 307e8c35-0ddd-4738-ad74-cf9d2e4f8605
 location: 'Chapter Eight: Ghana: Habits of Democracy'
 source: ibooks

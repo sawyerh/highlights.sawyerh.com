@@ -1,6 +1,7 @@
 ---
 title: 'Observing the User E: The key questions each person (or department) should
   answer …'
+position: 214
 book_uuid: d943805e-45a7-42d6-b6ed-4c1f622bbf00
 location: '1156'
 source: kindle

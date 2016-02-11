@@ -1,6 +1,7 @@
 ---
 title: 'China''s Second Conti: “I’d never dealt with African people before,” Hao said.
   “At …'
+position: 56
 book_uuid: 307e8c35-0ddd-4738-ad74-cf9d2e4f8605
 location: 261-263
 source: kindle

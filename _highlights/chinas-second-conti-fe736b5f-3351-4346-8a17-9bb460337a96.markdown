@@ -2,6 +2,7 @@
 title: 'China''s Second Conti: "You can’t compare it with Western countries. But at
   the sam…'
 date: 2015-11-11 23:25:00 -05:00
+position: 3
 book_uuid: 307e8c35-0ddd-4738-ad74-cf9d2e4f8605
 location: 
 ---

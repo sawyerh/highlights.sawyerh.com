@@ -1,6 +1,7 @@
 ---
 title: 'Sawyer Hollenshead''s: It seems hard at this point to envision search and
   related f…'
+position: 324
 book_uuid: aa923242-9a94-4f1e-ad57-d9669c3d9633
 comments:
 - body: The Economics of Evil Google - NYTimes.com

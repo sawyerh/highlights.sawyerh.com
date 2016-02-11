@@ -1,6 +1,7 @@
 ---
 title: 'Sawyer Hollenshead''s: fine-grained controls had led people to "share more
   sensitiv…'
+position: 305
 book_uuid: b2499438-a7be-4d48-aac8-8c21fb3963a5
 comments:
 - body: "Web Privacy, and How Consumers Let Down Their Guard\n        \n      \n      \n

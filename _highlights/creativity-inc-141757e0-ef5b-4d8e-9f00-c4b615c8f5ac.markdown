@@ -1,5 +1,6 @@
 ---
 title: 'Creativity Inc: Everything is changing. All the time. And you can’t stop it.…'
+position: 77
 book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
 location: 'Chapter 11: The Unmade Future'
 source: ibooks

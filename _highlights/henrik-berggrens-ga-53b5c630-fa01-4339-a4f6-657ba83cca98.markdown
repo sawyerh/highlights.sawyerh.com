@@ -1,6 +1,7 @@
 ---
 title: 'Henrik Berggren''s Ga: I love reading what smart people write. I hate trying
   to fin…'
+position: 179
 book_uuid: ccf88fb8-4332-4ba7-ad9a-aaea2761609c
 comments:
 - body: Could not agree more

@@ -1,5 +1,6 @@
 ---
 title: 'Creativity Inc: Cheaper films are made with smaller crews, and everyone agre…'
+position: 106
 book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
 location: 'Chapter 13: Notes Day'
 source: ibooks

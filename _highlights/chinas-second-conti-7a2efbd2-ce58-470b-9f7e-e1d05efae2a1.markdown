@@ -1,6 +1,7 @@
 ---
 title: 'China''s Second Conti: I asked him whether the Chinese government was helping
   busin…'
+position: 45
 book_uuid: 307e8c35-0ddd-4738-ad74-cf9d2e4f8605
 location: 'Chapter Ten: Fat of the Land'
 source: ibooks

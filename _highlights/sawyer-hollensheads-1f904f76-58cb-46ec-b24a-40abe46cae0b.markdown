@@ -1,6 +1,7 @@
 ---
 title: 'Sawyer Hollenshead''s: Prestige is especially dangerous to the ambitious.
   If you wa…'
+position: 285
 book_uuid: 877e6a33-be12-42f9-80c6-64484c407db0
 comments:
 - body: How to Do What You Love paulgraham.com

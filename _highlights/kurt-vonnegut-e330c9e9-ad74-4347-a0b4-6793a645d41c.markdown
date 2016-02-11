@@ -1,5 +1,6 @@
 ---
 title: 'Kurt Vonnegut: One of Kurt’s ill-fated efforts to earn money in this period…'
+position: 194
 book_uuid: 4f55c987-ba2a-473a-ad07-7060a4e0e637
 location: '0.138467'
 source: readmill

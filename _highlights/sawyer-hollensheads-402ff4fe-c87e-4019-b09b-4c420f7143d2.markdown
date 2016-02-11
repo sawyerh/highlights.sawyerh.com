@@ -1,6 +1,7 @@
 ---
 title: 'Sawyer Hollenshead''s: we should ask ourselves, is what I am about to say
   better th…'
+position: 297
 book_uuid: 3f2f18a4-0b65-493d-afe7-23a61417cb99
 comments:
 - body: 'Amen, Mike Monterio. '

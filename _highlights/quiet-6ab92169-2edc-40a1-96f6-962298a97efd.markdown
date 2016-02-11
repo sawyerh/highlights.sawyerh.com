@@ -1,5 +1,6 @@
 ---
 title: 'Quiet: I discovered early on that people don’t buy from me because …'
+position: 253
 book_uuid: d11719a1-9e95-44c4-b170-38762a51ae1d
 location: '0.716201'
 source: readmill

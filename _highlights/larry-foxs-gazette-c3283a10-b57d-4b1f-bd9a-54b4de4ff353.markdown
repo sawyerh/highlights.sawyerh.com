@@ -1,6 +1,7 @@
 ---
 title: 'Larry Fox''s Gazette : Gazette is different. There are no unread counts, no
   tagging…'
+position: 195
 book_uuid: 76bd9739-5556-41f1-b808-1748cb577680
 location: '0.0212072'
 source: readmill

@@ -1,5 +1,6 @@
 ---
 title: 'Decoded: What’s the basic motivation for a hustler? I hit the streets…'
+position: 123
 book_uuid: 4459e9c5-f0a9-4e41-95b1-328503183e31
 location: '0.202864'
 source: readmill

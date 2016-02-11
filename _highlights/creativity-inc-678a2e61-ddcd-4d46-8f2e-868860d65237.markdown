@@ -1,6 +1,7 @@
 ---
 title: 'Creativity Inc: When looking to hire people, give their potential to grow
   mo…'
+position: 87
 book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
 location: 'Starting Points: Thoughts for Managing a Creative Culture'
 source: ibooks

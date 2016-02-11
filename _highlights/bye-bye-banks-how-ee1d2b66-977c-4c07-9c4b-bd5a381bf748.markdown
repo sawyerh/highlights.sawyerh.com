@@ -1,6 +1,7 @@
 ---
 title: 'Bye Bye Banks?: How : This is a very big risk. As the offerings of the banks
   are n…'
+position: 37
 book_uuid: f5de12dd-6d51-40a8-9ae7-ab25015ce46b
 location: A three-stage scenario that is underway
 source: ibooks

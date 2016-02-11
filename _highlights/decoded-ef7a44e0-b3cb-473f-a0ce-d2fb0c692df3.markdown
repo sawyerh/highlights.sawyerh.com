@@ -1,5 +1,6 @@
 ---
 title: 'Decoded: He’d discovered a way to work in the legit world but to live…'
+position: 130
 book_uuid: 4459e9c5-f0a9-4e41-95b1-328503183e31
 location: '0.218799'
 source: readmill

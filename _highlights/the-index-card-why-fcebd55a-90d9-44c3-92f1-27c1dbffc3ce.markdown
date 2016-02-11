@@ -1,6 +1,7 @@
 ---
 title: 'The Index Card: Why : There is a whole industry of financial services advisors
   out…'
+position: 474
 book_uuid: 3b3c636e-878a-459a-adc5-8da017f35bc6
 location: '155'
 source: kindle

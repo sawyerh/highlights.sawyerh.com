@@ -1,6 +1,7 @@
 ---
 title: 'Creativity Inc: Steve had a remarkable knack for letting go of things that
   d…'
+position: 116
 book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
 location: 'Afterword: The Steve We Knew'
 source: ibooks

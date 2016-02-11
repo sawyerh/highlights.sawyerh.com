@@ -1,6 +1,7 @@
 ---
 title: 'China''s Second Conti: Rising powers throughout history have forever faced
   a simple…'
+position: 63
 book_uuid: 307e8c35-0ddd-4738-ad74-cf9d2e4f8605
 location: 
 ---

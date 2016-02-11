@@ -1,6 +1,7 @@
 ---
 title: 'Sawyer Hollenshead''s: One recipe for Internet success seems to be this: Start
   at t…'
+position: 311
 book_uuid: aa923242-9a94-4f1e-ad57-d9669c3d9633
 comments:
 - body: '"The Bitcoin of the Realm" - by Paul Ford'

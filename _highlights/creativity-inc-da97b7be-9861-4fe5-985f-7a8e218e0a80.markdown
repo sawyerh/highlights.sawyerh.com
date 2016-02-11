@@ -1,5 +1,6 @@
 ---
 title: 'Creativity Inc: If the other car had veered another two inches into our lane…'
+position: 107
 book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
 location: 'Chapter 9: The Hidden'
 source: ibooks

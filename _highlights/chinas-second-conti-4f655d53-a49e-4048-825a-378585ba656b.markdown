@@ -1,6 +1,7 @@
 ---
 title: 'China''s Second Conti: "There is a risk that they should consider, though,
   that one…'
+position: 41
 book_uuid: 307e8c35-0ddd-4738-ad74-cf9d2e4f8605
 location: 
 ---

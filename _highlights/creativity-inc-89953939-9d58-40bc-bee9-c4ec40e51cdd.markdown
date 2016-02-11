@@ -1,5 +1,6 @@
 ---
 title: 'Creativity Inc: I feel like the only reason we’re able to find some of these…'
+position: 93
 book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
 location: 'Chapter 8: Change and Randomness'
 source: ibooks

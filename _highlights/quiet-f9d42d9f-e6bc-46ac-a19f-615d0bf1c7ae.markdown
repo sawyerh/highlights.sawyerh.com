@@ -1,5 +1,6 @@
 ---
 title: 'Quiet: Lie detectors (polygraphs) are partially skin conductance te…'
+position: 257
 book_uuid: d11719a1-9e95-44c4-b170-38762a51ae1d
 location: '0.489292'
 source: readmill

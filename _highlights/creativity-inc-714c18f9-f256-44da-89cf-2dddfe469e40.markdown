@@ -1,6 +1,7 @@
 ---
 title: 'Creativity Inc: he thinks to make a great film, its makers must pivot, at
   so…'
+position: 90
 book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
 location: 'Chapter 5: Honesty and Candor'
 source: ibooks

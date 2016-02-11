@@ -1,5 +1,6 @@
 ---
 title: 'Decoded: In the corner of the painting are the words, MOST YOUNG KING…'
+position: 131
 book_uuid: 4459e9c5-f0a9-4e41-95b1-328503183e31
 comments:
 - body: Jean-Michel Basquiat

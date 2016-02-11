@@ -1,6 +1,7 @@
 ---
 title: 'Creativity Inc: I tend to flood and freeze up if I’m feeling overwhelmed.
   Wh…'
+position: 79
 book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
 location: 'Chapter 8: Change and Randomness'
 source: ibooks

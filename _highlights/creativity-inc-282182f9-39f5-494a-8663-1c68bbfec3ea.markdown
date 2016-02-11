@@ -1,5 +1,6 @@
 ---
 title: 'Creativity Inc: A manager’s default mode should not be secrecy. What is need…'
+position: 80
 book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
 location: 'Chapter 6: Fear and Failure'
 source: ibooks

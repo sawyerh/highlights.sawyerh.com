@@ -1,6 +1,7 @@
 ---
 title: 'Makers: The New Indu: the spinning jenny’s magical multiplication of productivity
   …'
+position: 197
 book_uuid: 5d13d754-6642-4b40-89cb-a294c8eebf35
 location: '0.144824'
 source: readmill

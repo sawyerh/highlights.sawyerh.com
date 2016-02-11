@@ -1,6 +1,7 @@
 ---
 title: 'Creativity Inc: If we start with the attitude that different viewpoints are
   …'
+position: 75
 book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
 location: 'Chapter 9: The Hidden'
 source: ibooks

@@ -1,5 +1,6 @@
 ---
 title: '1984: Take "good", for instance. If you have a word like "good", w…'
+position: 8
 book_uuid: 9139ec85-ba74-4611-b129-15774149e1c7
 comments:
 - body: 'Taking simplicity too far. '

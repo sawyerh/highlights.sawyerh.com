@@ -1,6 +1,7 @@
 ---
 title: 'Creativity Inc: Don’t wait for things to be perfect before you share them
   wi…'
+position: 117
 book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
 location: 'Starting Points: Thoughts for Managing a Creative Culture'
 source: ibooks

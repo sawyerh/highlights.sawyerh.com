@@ -1,5 +1,6 @@
 ---
 title: 'ReWork: Anyone who takes a “we’ll figure out how to profit in the fu…'
+position: 261
 book_uuid: b317b3f6-b19e-4f20-a710-fa2efc258295
 location: '0.22291'
 source: readmill

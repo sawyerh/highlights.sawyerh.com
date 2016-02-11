@@ -1,6 +1,7 @@
 ---
 title: 'Sawyer Hollenshead''s: To see things as they are includes seeing them as they
   will …'
+position: 326
 book_uuid: 4fc0df01-67c8-4d6f-baab-af49aafe1d64
 location: 696-698
 source: kindle

@@ -1,6 +1,7 @@
 ---
 title: 'Observing the User E: Open-ended questions like this serve two purposes. They
   give…'
+position: 220
 book_uuid: d943805e-45a7-42d6-b6ed-4c1f622bbf00
 location: '1751'
 source: kindle

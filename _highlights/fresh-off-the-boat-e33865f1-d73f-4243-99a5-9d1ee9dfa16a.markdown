@@ -1,6 +1,7 @@
 ---
 title: 'Fresh Off the Boat: : You figure getting a professional degree can’t possibly
   put …'
+position: 163
 book_uuid: 2f50f3c0-5652-4576-9214-e53aae7074c1
 location: '3472'
 source: kindle

@@ -1,6 +1,7 @@
 ---
 title: 'China''s Second Conti: the boy warned that the Chinese guards manning the
   barrier w…'
+position: 43
 book_uuid: 307e8c35-0ddd-4738-ad74-cf9d2e4f8605
 location: 'Chapter Eight: Ghana: Habits of Democracy'
 source: ibooks

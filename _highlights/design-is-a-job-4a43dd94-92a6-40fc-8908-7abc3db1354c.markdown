@@ -1,6 +1,7 @@
 ---
 title: 'Design Is a Job: I urge each and every one of you to seek out projects that
   l…'
+position: 133
 book_uuid: 0a8ccbc8-7a1d-41de-9acb-a33fe8e7c691
 comments:
 - body: This is by far his best quote from the book.

@@ -1,6 +1,7 @@
 ---
 title: 'Tap Dancing to Work:: Buffett is at heart a disciple of Benjamin Graham, under
   who…'
+position: 392
 book_uuid: b5c4d748-6148-4148-b53b-9144d2e037d9
 location: '762'
 source: kindle

@@ -1,6 +1,7 @@
 ---
 title: 'Observing the User E: Screeners vary from project to project and from recruiter
   to…'
+position: 207
 book_uuid: d943805e-45a7-42d6-b6ed-4c1f622bbf00
 location: '1661'
 source: kindle

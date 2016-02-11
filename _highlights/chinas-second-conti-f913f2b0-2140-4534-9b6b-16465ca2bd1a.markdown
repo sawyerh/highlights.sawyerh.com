@@ -1,6 +1,7 @@
 ---
 title: 'China''s Second Conti: “In order to have a good outcome here, people need
   to know t…'
+position: 62
 book_uuid: 307e8c35-0ddd-4738-ad74-cf9d2e4f8605
 location: 'Chapter Nine: Saints of the Household'
 source: ibooks

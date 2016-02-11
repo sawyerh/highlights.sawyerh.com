@@ -1,6 +1,7 @@
 ---
 title: 'Creativity Inc: Here are the qualifications required: The people you choose
   …'
+position: 72
 book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
 location: 'Chapter 5: Honesty and Candor'
 source: ibooks

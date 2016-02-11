@@ -1,5 +1,6 @@
 ---
 title: 'Execute: “Do projects when you don’t know how to code. Then you’ll kn…'
+position: 143
 book_uuid: f0a67f80-3511-4517-ba60-ffa2bc90309f
 location: '0.148197'
 source: readmill

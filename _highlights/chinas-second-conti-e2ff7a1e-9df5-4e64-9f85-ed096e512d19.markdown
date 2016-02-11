@@ -1,6 +1,7 @@
 ---
 title: 'China''s Second Conti: I didn’t point out that in China, the very week before,
   its …'
+position: 57
 book_uuid: 307e8c35-0ddd-4738-ad74-cf9d2e4f8605
 location: 'Chapter Nine: Saints of the Household'
 source: ibooks

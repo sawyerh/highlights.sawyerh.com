@@ -1,6 +1,7 @@
 ---
 title: 'Sawyer Hollenshead''s: When the core value isn''t technical, it doesn''t matter
   how m…'
+position: 322
 book_uuid: 612424e1-a34c-41ad-a992-9112a04930fa
 location: '0.400439'
 source: readmill

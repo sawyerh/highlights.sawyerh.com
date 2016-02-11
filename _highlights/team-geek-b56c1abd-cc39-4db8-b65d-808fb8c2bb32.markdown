@@ -1,5 +1,6 @@
 ---
 title: 'Team Geek: Traditional managers worry about how to get things done, whi…'
+position: 399
 book_uuid: b21d152a-66bd-434a-8a74-7693a8e55a5b
 location: '0.385302'
 source: readmill

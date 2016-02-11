@@ -1,5 +1,6 @@
 ---
 title: 'ReWork: When there’s something new to announce every two weeks, you …'
+position: 258
 book_uuid: b317b3f6-b19e-4f20-a710-fa2efc258295
 location: '0.423012'
 source: readmill

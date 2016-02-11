@@ -1,6 +1,7 @@
 ---
 title: 'The Index Card: Why : the more the wealthier people at the top of the income
   ladde…'
+position: 449
 book_uuid: 3b3c636e-878a-459a-adc5-8da017f35bc6
 location: '204'
 source: kindle

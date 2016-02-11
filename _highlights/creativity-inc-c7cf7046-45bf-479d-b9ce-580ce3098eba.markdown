@@ -1,6 +1,7 @@
 ---
 title: 'Creativity Inc: But if every day is sunny and it doesn’t rain, things don’t
   …'
+position: 103
 book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
 location: 'Chapter 7: The Hungry Beast and the Ugly Baby'
 source: ibooks
