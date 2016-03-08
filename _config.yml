@@ -14,7 +14,7 @@ collections:
     output: true
   tests:
     title: Tests
-    output: true
+    output: false
   uploads:
     title: Uploads
     output: true
