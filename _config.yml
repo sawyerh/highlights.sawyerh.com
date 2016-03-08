@@ -12,9 +12,6 @@ collections:
   posts:
     title: Posts
     output: true
-  tests:
-    title: Tests
-    output: false
   uploads:
     title: Uploads
     output: true
