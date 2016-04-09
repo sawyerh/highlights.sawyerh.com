@@ -1,5 +1,6 @@
 ---
 title: 'ReWork: Workaholics aren’t heroes. They don’t save the day, they jus…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 260
 book_uuid: b317b3f6-b19e-4f20-a710-fa2efc258295
 comments:
@@ -14,7 +15,7 @@ comments:
     website: ''
     description: Web Developer & Designer | Software Engineer | Avid reader
     avatar: assets/avatars/lamar.jpg
-location:
+location: 
 source: readmill
 touch: true
 highlighted_on: '2011-12-07T12:35:07.000Z'

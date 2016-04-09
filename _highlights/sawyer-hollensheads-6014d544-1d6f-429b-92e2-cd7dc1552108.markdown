@@ -1,6 +1,7 @@
 ---
 title: 'Sawyer Hollenshead''s: Eventually, he said, "we''ll have a small box like
   a printer …'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 310
 book_uuid: 32d7ba5c-f743-4fbd-b9c9-6b93305f12e1
 location: '0.0531376'

@@ -1,6 +1,7 @@
 ---
 title: 'Creativity Inc: Many of the rules that people find onerous and bureaucratic
   …'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 82
 book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
 location: 'Chapter 8: Change and Randomness'

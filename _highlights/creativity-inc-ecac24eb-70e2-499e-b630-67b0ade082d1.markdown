@@ -1,5 +1,6 @@
 ---
 title: 'Creativity Inc: Which left us with a chronological problem: While the emotio…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 113
 book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
 location: 'Chapter 8: Change and Randomness'

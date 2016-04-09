@@ -1,5 +1,6 @@
 ---
 title: 'ReWork: The real world isn’t a place, it’s an excuse. It’s a justifi…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 262
 book_uuid: b317b3f6-b19e-4f20-a710-fa2efc258295
 location: '0.0813099'

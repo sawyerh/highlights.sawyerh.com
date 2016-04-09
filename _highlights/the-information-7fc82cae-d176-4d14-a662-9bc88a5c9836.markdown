@@ -1,6 +1,7 @@
 ---
 title: 'The Information: emphasizing the potential near-immortality of a gene, in
   the…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 486
 book_uuid: 484271b9-e2c0-47ed-83de-63c23de48d95
 location: '0.526044'

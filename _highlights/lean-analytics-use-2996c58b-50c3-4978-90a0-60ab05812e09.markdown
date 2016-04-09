@@ -1,6 +1,7 @@
 ---
 title: 'Lean Analytics: Use : One of the biggest misconceptions around pricing is
   that wha…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 196
 book_uuid: 469d793e-6506-4521-afcc-84257a4dfcf7
 comments:

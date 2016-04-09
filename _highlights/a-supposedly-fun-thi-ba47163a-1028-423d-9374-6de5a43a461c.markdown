@@ -1,6 +1,7 @@
 ---
 title: 'A Supposedly Fun Thi: Products are now most often pitched as helping the viewer
   “e…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 16
 book_uuid: de0fb255-f042-46d4-801a-5f6ffce09815
 location: '0.141579'

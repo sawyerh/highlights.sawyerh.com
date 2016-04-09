@@ -1,6 +1,7 @@
 ---
 title: 'Design Is a Job: Never lower the price without taking something away. And
   nev…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 134
 book_uuid: 0a8ccbc8-7a1d-41de-9acb-a33fe8e7c691
 location: '0.313943'

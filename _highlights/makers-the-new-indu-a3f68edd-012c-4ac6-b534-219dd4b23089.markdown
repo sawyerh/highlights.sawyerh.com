@@ -1,6 +1,7 @@
 ---
 title: 'Makers: The New Indu: The past ten years have been about discovering new ways
   to c…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 198
 book_uuid: 5d13d754-6642-4b40-89cb-a294c8eebf35
 location: '0.0742884'

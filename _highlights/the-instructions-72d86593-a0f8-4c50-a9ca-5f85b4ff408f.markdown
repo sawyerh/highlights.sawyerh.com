@@ -1,6 +1,7 @@
 ---
 title: 'The Instructions: At the same time, though, when I think about her, I get
   all …'
+date: 2016-04-09 18:16:00.600000000 -04:00
 book_uuid: d20d1ba2-d6c2-4fe1-94ce-5430fdb14055
 comments:
 - body: A+++

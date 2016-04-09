@@ -1,6 +1,7 @@
 ---
 title: 'The Great Gatsby: Every one suspects himself of at least one of the cardinal
   v…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 415
 book_uuid: 363285bc-c668-47b6-986a-fb3a45a456b0
 comments:
@@ -10,9 +11,9 @@ comments:
     username: Jotweet
     firstname: Josiah
     lastname: Forgath
-    country:
-    city:
-    website:
+    country: 
+    city: 
+    website: 
     description: Follower of all things Cinematic. Transformed daily by sight & sound.
       Onwards...
     avatar: assets/avatars/Jotweet.jpg
@@ -24,9 +25,9 @@ highlight_by:
   username: Jotweet
   firstname: Josiah
   lastname: Forgath
-  country:
-  city:
-  website:
+  country: 
+  city: 
+  website: 
   description: Follower of all things Cinematic. Transformed daily by sight & sound.
     Onwards...
   avatar: assets/avatars/Jotweet.jpg

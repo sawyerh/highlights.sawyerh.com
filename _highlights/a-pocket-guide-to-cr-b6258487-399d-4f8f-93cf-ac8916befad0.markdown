@@ -1,6 +1,7 @@
 ---
 title: 'A Pocket Guide to Cr: Symbol fonts are niche part of a web developer’s toolbox
   and…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 13
 book_uuid: 93faa52a-a9a0-4f44-ade6-b55f701237fd
 comments:

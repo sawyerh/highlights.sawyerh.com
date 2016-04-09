@@ -1,5 +1,6 @@
 ---
 title: '1984: Take "good", for instance. If you have a word like "good", w…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 8
 book_uuid: 9139ec85-ba74-4611-b129-15774149e1c7
 comments:

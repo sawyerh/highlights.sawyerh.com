@@ -1,6 +1,7 @@
 ---
 title: 'Keenan Cummings'' Gaz: you can only make money by being right about something
   that …'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 192
 book_uuid: b3d07e73-bd2a-4d95-ab1a-ea34f0286bdb
 location: '0.880055'

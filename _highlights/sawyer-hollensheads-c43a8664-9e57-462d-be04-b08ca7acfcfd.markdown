@@ -1,6 +1,7 @@
 ---
 title: 'Sawyer Hollenshead''s: I think if people know too much about their own industries,
   …'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 340
 book_uuid: fe7e95ac-2c7c-46eb-9c92-7c03774542f9
 location: '0.340299'

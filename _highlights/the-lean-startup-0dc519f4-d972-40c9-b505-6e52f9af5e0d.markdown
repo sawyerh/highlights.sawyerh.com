@@ -1,6 +1,7 @@
 ---
 title: 'The Lean Startup: It goes against the grain of what people have been taught
   in…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 book_uuid: 0de4982d-59d1-47dd-9cc0-63af93d42a6c
 location: '0.138236'
 source: readmill

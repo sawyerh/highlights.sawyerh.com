@@ -1,5 +1,6 @@
 ---
 title: 'American Gods: He had played chess, too, but he was not temperamentally sui…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 21
 book_uuid: b0dccede-49e9-4126-bc98-5d9b7e4f0a8e
 location: '0.155205'

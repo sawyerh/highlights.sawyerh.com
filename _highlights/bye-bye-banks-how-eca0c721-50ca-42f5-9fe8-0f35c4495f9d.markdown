@@ -1,6 +1,7 @@
 ---
 title: 'Bye Bye Banks?: How : Mark Zuckerberg, Facebook founder and Chief Executive
   once s…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 36
 book_uuid: f5de12dd-6d51-40a8-9ae7-ab25015ce46b
 location: 6. SUMMARY

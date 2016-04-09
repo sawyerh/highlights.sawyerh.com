@@ -1,5 +1,6 @@
 ---
 title: 'Creativity Inc: The healthiest organizations are made up of departments whos…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 89
 book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
 location: 'Starting Points: Thoughts for Managing a Creative Culture'

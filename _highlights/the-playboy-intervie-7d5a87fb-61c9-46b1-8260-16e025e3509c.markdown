@@ -1,6 +1,7 @@
 ---
 title: 'The Playboy Intervie: I take it as a comment on my skill as a comedian. It
   seems l…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 book_uuid: 3644764c-0621-4460-871a-4e46e27eec32
 location: '0.691231'
 source: readmill

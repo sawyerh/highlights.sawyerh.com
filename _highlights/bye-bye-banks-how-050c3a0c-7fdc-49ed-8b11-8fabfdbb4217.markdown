@@ -1,5 +1,6 @@
 ---
 title: 'Bye Bye Banks?: How : The objective of Google is not to create a payment solution.…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 24
 book_uuid: f5de12dd-6d51-40a8-9ae7-ab25015ce46b
 location: Startups and the bit of the banking model they’re after

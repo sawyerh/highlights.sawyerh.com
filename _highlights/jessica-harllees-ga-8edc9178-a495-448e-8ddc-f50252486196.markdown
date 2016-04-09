@@ -1,6 +1,7 @@
 ---
 title: 'Jessica Harllee''s Ga: Yeah, it isn’t that we shouldn’t be proud of what we
   do, but…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 191
 book_uuid: 3ee3b725-ab8e-432f-9ce8-87aa9cadea69
 location: '0.484704'

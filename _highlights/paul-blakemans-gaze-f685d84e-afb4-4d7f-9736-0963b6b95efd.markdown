@@ -1,6 +1,7 @@
 ---
 title: 'Paul Blakeman''s Gaze: I’m going to lay down the law here, based on many many
   exper…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 223
 book_uuid: 153dd553-7884-42c0-a932-b4829c9956fd
 comments:

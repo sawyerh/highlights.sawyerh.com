@@ -1,6 +1,7 @@
 ---
 title: 'China''s Second Conti: As we walked forward into the crowd, a man flashing
   an exagg…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 39
 book_uuid: 307e8c35-0ddd-4738-ad74-cf9d2e4f8605
 location: 'Chapter Ten: Fat of the Land'

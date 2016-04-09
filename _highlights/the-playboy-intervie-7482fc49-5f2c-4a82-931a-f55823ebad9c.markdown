@@ -1,6 +1,7 @@
 ---
 title: 'The Playboy Intervie: In your 20s, you figure out what it is you’re going
   to be. Y…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 book_uuid: 3644764c-0621-4460-871a-4e46e27eec32
 comments:
 - body: George Clooney

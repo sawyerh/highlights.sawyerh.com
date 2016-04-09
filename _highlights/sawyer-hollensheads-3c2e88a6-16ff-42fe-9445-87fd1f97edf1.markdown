@@ -1,6 +1,7 @@
 ---
 title: 'Sawyer Hollenshead''s: You can tell a fair negative critic, a fair polemicist,
   by w…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 296
 book_uuid: c50a38b0-9316-4073-b260-c6118bd85772
 comments:

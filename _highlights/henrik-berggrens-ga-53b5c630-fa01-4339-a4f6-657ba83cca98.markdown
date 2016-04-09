@@ -1,6 +1,7 @@
 ---
 title: 'Henrik Berggren''s Ga: I love reading what smart people write. I hate trying
   to fin…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 179
 book_uuid: ccf88fb8-4332-4ba7-ad9a-aaea2761609c
 comments:
@@ -26,7 +27,7 @@ comments:
     city: Berlin
     website: http://johannes.wagener.cc
     description: I like boooks and such
-    avatar:
+    avatar: 
 - body: It was in the intro blurb to a new service built on Readmill called Gazette.
     http://gazette.io/
   date: '2013-03-24T13:36:38Z'

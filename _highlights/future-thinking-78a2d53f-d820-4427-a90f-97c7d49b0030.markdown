@@ -1,5 +1,6 @@
 ---
 title: 'Future thinking: The difference in intelligence between humans and chimpanzee…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 170
 book_uuid: b64d17a2-72cd-499a-89c4-753a35c081a8
 location: '0.162208'

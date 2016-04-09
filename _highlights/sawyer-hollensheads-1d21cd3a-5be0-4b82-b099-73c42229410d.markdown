@@ -1,6 +1,7 @@
 ---
 title: 'Sawyer Hollenshead''s: I look at this mobile trend in light of the law of
   sharing, …'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 281
 book_uuid: b2499438-a7be-4d48-aac8-8c21fb3963a5
 comments:

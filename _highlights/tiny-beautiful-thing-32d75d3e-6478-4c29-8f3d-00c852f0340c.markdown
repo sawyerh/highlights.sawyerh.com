@@ -1,6 +1,7 @@
 ---
 title: 'Tiny Beautiful Thing: The best thing you can possibly do with your life is
   to tack…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 book_uuid: b8c5964a-931c-4ba8-9ac1-96cb5c25efd6
 comments:
 - body: This goes on my next business card, just so you know.
@@ -37,7 +38,7 @@ comments:
     city: ''
     website: ''
     description: mostly I read. When I am not impersonating a lighthouse.
-    avatar:
+    avatar: 
 - body: "@charlotte_e_hastings it's our business cards but I think someone created
     a way to print them also. @kissane do you remember who it was?"
   date: '2013-08-29T12:01:03Z'
@@ -64,7 +65,7 @@ comments:
     description: Passionate reader of internet lit and crime novels. Chief Happiness
       Officer at this little company.
     avatar: assets/avatars/henrik.jpg
-location:
+location: 
 source: readmill
 touch: true
 highlighted_on: '2012-07-14T00:00:00.000Z'

@@ -1,6 +1,7 @@
 ---
 title: 'September Girls: A bunch of people standing around not talking to each other
   …'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 365
 book_uuid: 2e1f0113-a773-46f1-83a5-07a8a90e5c0e
 comments:

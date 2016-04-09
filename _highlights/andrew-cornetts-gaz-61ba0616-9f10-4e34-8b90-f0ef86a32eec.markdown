@@ -1,6 +1,7 @@
 ---
 title: 'Andrew Cornett''s Gaz: “The first rule in business is to never run out of
   money.”“W…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 23
 book_uuid: 48bfc181-6576-4cf0-8cc4-779b36c0a993
 location: '0.474592'

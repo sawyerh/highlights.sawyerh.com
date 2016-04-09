@@ -1,6 +1,7 @@
 ---
 title: 'Future thinking: If life is a cosmic fluke, then we’ve already beaten the
   odd…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 171
 book_uuid: b64d17a2-72cd-499a-89c4-753a35c081a8
 location: '0.325167'

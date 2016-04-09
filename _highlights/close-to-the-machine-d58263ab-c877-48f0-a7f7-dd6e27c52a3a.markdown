@@ -1,6 +1,7 @@
 ---
 title: 'Close to the machine: One VC proposed a toast. “Work hard!” he exclaimed.
   Another …'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 68
 book_uuid: d4bf4d23-0f84-446e-8c0a-bfd227fa2a69
 location: '0.760378'

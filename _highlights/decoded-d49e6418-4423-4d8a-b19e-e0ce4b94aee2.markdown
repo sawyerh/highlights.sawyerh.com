@@ -1,5 +1,6 @@
 ---
 title: 'Decoded: In the game there’s always a younger guy who has an old soul…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 128
 book_uuid: 4459e9c5-f0a9-4e41-95b1-328503183e31
 location: '0.107994'

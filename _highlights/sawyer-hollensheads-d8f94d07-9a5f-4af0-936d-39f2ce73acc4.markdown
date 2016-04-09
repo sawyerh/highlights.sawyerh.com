@@ -1,6 +1,7 @@
 ---
 title: 'Sawyer Hollenshead''s: Good design is meant to help other people live well,
   and if …'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 350
 book_uuid: 877e6a33-be12-42f9-80c6-64484c407db0
 comments:

@@ -1,6 +1,7 @@
 ---
 title: 'Sawyer Hollenshead''s: if you''re reading and you glance over at some side
   notes, it…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 314
 book_uuid: abc3e276-efc5-4608-a3ce-80def0f2d0db
 location: '0.543462'

@@ -1,5 +1,6 @@
 ---
 title: 'A Pocket Guide to Cr: It is the best all-round secret that no one knows about'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 12
 book_uuid: 93faa52a-a9a0-4f44-ade6-b55f701237fd
 comments:

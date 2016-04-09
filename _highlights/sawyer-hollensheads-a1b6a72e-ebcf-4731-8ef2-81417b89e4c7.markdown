@@ -1,6 +1,7 @@
 ---
 title: 'Sawyer Hollenshead''s: I think people will want structure and endings again,
   eventu…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 327
 book_uuid: a6f185d8-5868-4f55-b3ed-84129a680280
 comments:

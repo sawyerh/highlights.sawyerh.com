@@ -1,6 +1,7 @@
 ---
 title: 'Paul Blakeman''s Gaze: If a site posts many items each day and you barely
   read any …'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 222
 book_uuid: 1c2f9036-f12b-4d64-b27a-533fee077b0e
 comments:

@@ -1,5 +1,6 @@
 ---
 title: 'Quiet: Work alone. You’re going to be best able to design revolutio…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 255
 book_uuid: d11719a1-9e95-44c4-b170-38762a51ae1d
 comments:

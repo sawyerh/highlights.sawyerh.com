@@ -1,8 +1,9 @@
 ---
 title: 'The Flinch: Ralph Waldo Emerson said, “Do not go where the path may lead…'
+date: 2016-04-09 18:16:00.600000000 -04:00
 position: 414
 book_uuid: 8849ff61-8ede-4fec-8e98-49382d5f0e92
-location:
+location: 
 source: readmill
 touch: true
 highlighted_on: '2012-01-01T00:00:00.000Z'
