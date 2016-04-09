@@ -5,6 +5,7 @@ position: 467
 book_uuid: 3b3c636e-878a-459a-adc5-8da017f35bc6
 location: '1087'
 source: kindle
+touch: false
 ---
 
 The sooner you think you need the money, the less risk you should assume.

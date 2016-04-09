@@ -5,8 +5,8 @@ date: 2016-04-09 18:16:00.600000000 -04:00
 book_uuid: 0de4982d-59d1-47dd-9cc0-63af93d42a6c
 location: '0.138236'
 source: readmill
-touch: true
-highlighted_on: '2013-01-13T09:07:19.000Z'
+touch: false
+highlighted_on: 2013-01-13 09:07:19.000000000 Z
 highlight_by:
   username: fabian
   firstname: Fabian

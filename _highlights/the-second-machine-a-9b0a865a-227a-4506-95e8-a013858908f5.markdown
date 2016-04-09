@@ -4,7 +4,8 @@ title: 'The Second Machine A: Lengthening the school year may be especially bene
 book_uuid: be5b3b2c-154c-4858-849e-2163a9bc72f0
 location: Chapter 13 Policy Recommendations
 source: ibooks
-highlighted_on: 2016-04-09 00:00:00.000000000 Z
+highlighted_on: 2016-04-09 00:00:00 UTC
+touch: false
 ---
 
 Lengthening the school year may be especially beneficial for poor kids, since research suggests that rich and poor children learn at a similar rate when school is in session, but that poor children fall behind over the summer when they are not in school

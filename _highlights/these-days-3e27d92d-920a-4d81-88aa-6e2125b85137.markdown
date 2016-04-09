@@ -4,8 +4,8 @@ date: 2016-04-09 18:16:00.600000000 -04:00
 book_uuid: d78ab67b-ed71-46fa-860f-28f73ad7d9e1
 location: '0.272444'
 source: readmill
-touch: true
-highlighted_on: '2013-04-19T04:16:08.000Z'
+touch: false
+highlighted_on: 2013-04-19 04:16:08.000000000 Z
 ---
 
 Did our ancestors stand around in caves arguing over whether the antlers on the drawing of the deer should have twelve or fourteen points? No, of course not. They were too busy throwing spears at stuff and running from lions and trying not to die. They were out doing real things, expressing their humanity as if their lives depended on it, because their lives did depend on it.

@@ -5,8 +5,8 @@ date: 2016-04-09 18:16:00.600000000 -04:00
 book_uuid: 5b6f3f7f-7630-43fd-8086-727ad92124d5
 location: '0.292226'
 source: readmill
-touch: true
-highlighted_on: '2013-12-20T16:37:45.000Z'
+touch: false
+highlighted_on: 2013-12-20 16:37:45.000000000 Z
 ---
 
 about half of the rye brands on liquor shelves today are made in a single, industrial facility,

@@ -4,8 +4,8 @@ date: 2016-04-09 18:16:00.600000000 -04:00
 book_uuid: d78ab67b-ed71-46fa-860f-28f73ad7d9e1
 location: '0.668938'
 source: readmill
-touch: true
-highlighted_on: '2013-04-28T04:58:22.000Z'
+touch: false
+highlighted_on: 2013-04-28 04:58:22.000000000 Z
 ---
 
 “You should blog about this or something.” “I know, man. I gotta redesign my blog first though.”

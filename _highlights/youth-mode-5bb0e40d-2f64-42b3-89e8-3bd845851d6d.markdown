@@ -4,8 +4,8 @@ date: 2016-04-09 18:16:00.600000000 -04:00
 book_uuid: 9794c1e3-4063-497d-b753-0f94305c2539
 location: '0.589744'
 source: readmill
-touch: true
-highlighted_on: '2013-11-29T02:37:12.000Z'
+touch: false
+highlighted_on: 2013-11-29 02:37:12.000000000 Z
 ---
 
 There’s a theory that a man’s style is just a reiteration of what he wore the last time he was “really getting laid” — thus the cargo shorts

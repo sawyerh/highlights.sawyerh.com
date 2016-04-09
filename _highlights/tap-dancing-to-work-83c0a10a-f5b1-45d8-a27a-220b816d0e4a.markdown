@@ -5,6 +5,7 @@ position: 394
 book_uuid: b5c4d748-6148-4148-b53b-9144d2e037d9
 location: '1021'
 source: kindle
+touch: false
 ---
 
 “the Yanomamö Indians employ only three numbers: one, two, and more than two.

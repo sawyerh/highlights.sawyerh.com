@@ -3,6 +3,7 @@ title: 'The Second Machine A: Watson’s database, which consisted of approximat
   two hund…'
 book_uuid: be5b3b2c-154c-4858-849e-2163a9bc72f0
 location: 906
+touch: false
 ---
 
 Watson’s database, which consisted of approximately two hundred million

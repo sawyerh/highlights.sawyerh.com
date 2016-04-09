@@ -5,6 +5,7 @@ date: 2015-11-11 23:25:00 -05:00
 position: 3
 book_uuid: 307e8c35-0ddd-4738-ad74-cf9d2e4f8605
 location: 
+touch: false
 ---
 
 “You can’t compare it with Western countries. But at the same time, most Western people probably have the wrong idea about life in China. They think that whatever you do, the CCP [Chinese Communist Party] is following you around, ready to arrest you. It’s like our ideas about America. We think everybody has a gun in their pocket, and there’s danger everywhere. 

@@ -7,8 +7,8 @@ comments:
 - body: Syria
 location: No title
 source: ibooks
-touch: true
-highlighted_on: '2015-12-05T00:00:00.000Z'
+touch: false
+highlighted_on: 2015-12-05 00:00:00.000000000 Z
 ---
 
 Climate change is, and always has been, “a driver of wars,” he believed. Drought, pestilence, flood, and famine push people to the limits of human survival, often resulting in war for control over what few resources remain.

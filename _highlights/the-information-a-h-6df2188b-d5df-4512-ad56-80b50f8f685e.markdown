@@ -5,7 +5,7 @@ date: 2015-11-07 23:55:00 -05:00
 book_uuid: 484271b9-e2c0-47ed-83de-63c23de48d95
 comments:
 - body: Cryogenics / suspense.
-  date: '2012-07-07T00:00:00Z'
+  date: 2012-07-07 00:00:00.000000000 Z
   user:
     username: dianakimball
     firstname: Diana
@@ -18,8 +18,8 @@ comments:
     avatar: assets/avatars/dianakimball.jpg
 location: 
 source: readmill
-touch: true
-highlighted_on: '2012-07-07T00:00:00.000Z'
+touch: false
+highlighted_on: 2012-07-07 00:00:00.000000000 Z
 highlight_by:
   username: dianakimball
   firstname: Diana
