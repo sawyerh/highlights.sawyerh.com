@@ -4,7 +4,7 @@ date: 2016-04-09 18:16:00.600000000 -04:00
 book_uuid: 9794c1e3-4063-497d-b753-0f94305c2539
 comments:
 - body: You read this on Readmill?
-  date: 2013-11-30 01:20:48.000000000 Z
+  date: 2013-11-30 01:20:48 UTC
   user:
     username: milesalex
     firstname: Alex
@@ -16,7 +16,7 @@ comments:
       a fictional life.
     avatar: assets/avatars/milesalex.jpg
 - body: "@milesalex yup, it's a PDF (http://khole.net/issues/youth-mode)"
-  date: 2013-11-30 03:33:21.000000000 Z
+  date: 2013-11-30 03:33:21 UTC
   user:
     username: sawyer
     firstname: Sawyer

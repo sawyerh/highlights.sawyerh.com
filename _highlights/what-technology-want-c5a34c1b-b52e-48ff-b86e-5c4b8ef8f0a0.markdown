@@ -6,7 +6,7 @@ book_uuid: b6905063-83c8-4d6f-8c92-e4bcfc8d65c6
 comments:
 - body: This sounds much like technological determinism (not surprising given the
     title of the book). Rather, tech rises in the confines of social context.
-  date: 2013-03-27 16:32:26.000000000 Z
+  date: 2013-03-27 16:32:26 UTC
   user:
     username: david
     firstname: David

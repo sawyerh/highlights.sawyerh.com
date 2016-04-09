@@ -18,7 +18,7 @@ comments:
     avatar: assets/avatars/sawyer.jpg
 location: 0.508743
 source: readmill
-highlighted_on: 2013-02-20 03:56:30 UTC
+highlighted_on: 2013-02-20 03:56:30.000000000 Z
 touch: false
 ---
 

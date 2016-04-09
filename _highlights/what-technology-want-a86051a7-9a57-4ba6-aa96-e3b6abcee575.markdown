@@ -6,7 +6,7 @@ book_uuid: b6905063-83c8-4d6f-8c92-e4bcfc8d65c6
 comments:
 - body: 'The size of the space shuttle''s engines were affected by the size of the
     railway which was influenced by the Roman war chariots. '
-  date: 2013-01-31 05:10:19.000000000 Z
+  date: 2013-01-31 05:10:19 UTC
   user:
     username: sawyer
     firstname: Sawyer
