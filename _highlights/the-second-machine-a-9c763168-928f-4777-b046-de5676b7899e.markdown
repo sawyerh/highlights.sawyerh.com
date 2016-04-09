@@ -1,0 +1,10 @@
+---
+title: 'The Second Machine A: a software programmer who writes a slightly better mapping
+  a…'
+book_uuid: be5b3b2c-154c-4858-849e-2163a9bc72f0
+location: 'Chapter 10 The Biggest Winners: Stars and Superstars'
+source: ibooks
+highlighted_on: 2016-02-07 00:00:00.000000000 Z
+---
+
+a software programmer who writes a slightly better mapping application—one that loads a little faster, has slightly more complete data, or prettier icons—might completely dominate a market. There would likely be little, if any, demand for the tenth-best mapping application, even it got the job done almost as well. This is relative performance. People will not spend time or effort on the tenth-best product when they have access to the best. And this is not a case where quantity can make up for quality: ten mediocre mapping tools are no substitute for one good one. When consumers care mostly about relative performance, even a small difference in skill or effort or luck can lead to a thousand-fold or million-fold difference in earnings. There were a lot of traffic apps in the marketplace in 2013, but Google only judged one, Waze, worth buying for over one billion dollars
