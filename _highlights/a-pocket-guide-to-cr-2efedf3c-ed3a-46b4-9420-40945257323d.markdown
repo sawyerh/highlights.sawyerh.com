@@ -5,7 +5,7 @@ position: 12
 book_uuid: 93faa52a-a9a0-4f44-ade6-b55f701237fd
 comments:
 - body: Symbolset
-  date: 2013-02-20 03:57:16.000000000 Z
+  date: 2013-02-20 03:57:16 UTC
   user:
     username: sawyer
     firstname: Sawyer

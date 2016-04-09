@@ -6,7 +6,7 @@ position: 13
 book_uuid: 93faa52a-a9a0-4f44-ade6-b55f701237fd
 comments:
 - body: Amen
-  date: 2013-02-20 04:06:53.000000000 Z
+  date: 2013-02-20 04:06:53 UTC
   user:
     username: sawyer
     firstname: Sawyer
