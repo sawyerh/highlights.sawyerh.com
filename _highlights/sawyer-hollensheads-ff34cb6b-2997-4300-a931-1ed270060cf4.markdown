@@ -5,6 +5,7 @@ position: 362
 book_uuid: b19c4575-fb37-4e95-a5a1-eac44cbf6b77
 location: '0.895075'
 source: readmill
+touch: true
 highlighted_on: '2014-03-09T04:55:51.000Z'
 ---
 

@@ -4,6 +4,7 @@ title: 'The Lean Startup: It goes against the grain of what people have been tau
 book_uuid: 0de4982d-59d1-47dd-9cc0-63af93d42a6c
 location: '0.138236'
 source: readmill
+touch: true
 highlighted_on: '2013-01-13T09:07:19.000Z'
 highlight_by:
   username: fabian

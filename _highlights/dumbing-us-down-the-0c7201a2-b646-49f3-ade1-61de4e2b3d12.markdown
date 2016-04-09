@@ -15,8 +15,9 @@ comments:
     website: http://caseyagollan.com
     description: ''
     avatar: assets/avatars/CaseyG.jpg
-location: 
+location:
 source: readmill
+touch: true
 highlighted_on: '2012-12-29T00:00:00.000Z'
 highlight_by:
   username: CaseyG

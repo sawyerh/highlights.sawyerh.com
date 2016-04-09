@@ -4,6 +4,7 @@ title: 'What Technology Want: This is how all technology works. A gadget begins 
 book_uuid: b6905063-83c8-4d6f-8c92-e4bcfc8d65c6
 location: '0.179786'
 source: readmill
+touch: true
 highlighted_on: '2012-12-06T03:02:21.000Z'
 ---
 

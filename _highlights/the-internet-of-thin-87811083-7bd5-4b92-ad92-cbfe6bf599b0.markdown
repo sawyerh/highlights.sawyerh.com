@@ -4,6 +4,7 @@ title: 'The Internet of Thin: the GeoCities of Things'' - the moment when it''s 
 book_uuid: bc112843-7131-4ac7-a0ea-8600820b74e9
 location: '0.94033'
 source: readmill
+touch: true
 highlighted_on: '2013-05-20T03:53:09.000Z'
 ---
 

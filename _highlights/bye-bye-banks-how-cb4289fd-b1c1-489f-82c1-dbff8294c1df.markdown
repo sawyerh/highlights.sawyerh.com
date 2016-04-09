@@ -5,6 +5,7 @@ position: 34
 book_uuid: f5de12dd-6d51-40a8-9ae7-ab25015ce46b
 location: '5. INTRODUCING A BETA BANK:'
 source: ibooks
+touch: true
 highlighted_on: '2015-11-23T00:00:00.000Z'
 ---
 

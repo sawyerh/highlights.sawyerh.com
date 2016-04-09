@@ -4,6 +4,7 @@ title: 'The Internet of Thin: Memory Diamond — a hypothetical crystalline form
 book_uuid: bc112843-7131-4ac7-a0ea-8600820b74e9
 location: '0.49399'
 source: readmill
+touch: true
 highlighted_on: '2013-05-15T04:15:43.000Z'
 ---
 

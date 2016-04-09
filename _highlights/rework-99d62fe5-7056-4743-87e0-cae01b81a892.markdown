@@ -14,8 +14,9 @@ comments:
     website: ''
     description: Web Developer & Designer | Software Engineer | Avid reader
     avatar: assets/avatars/lamar.jpg
-location: 
+location:
 source: readmill
+touch: true
 highlighted_on: '2011-12-07T12:35:07.000Z'
 highlight_by:
   username: hectcastro

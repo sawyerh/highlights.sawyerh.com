@@ -4,6 +4,7 @@ title: 'The Kings County Dis: You may have found you can get away with knowing n
 book_uuid: 5b6f3f7f-7630-43fd-8086-727ad92124d5
 location: '0.064675'
 source: readmill
+touch: true
 highlighted_on: '2013-12-12T05:12:07.000Z'
 ---
 

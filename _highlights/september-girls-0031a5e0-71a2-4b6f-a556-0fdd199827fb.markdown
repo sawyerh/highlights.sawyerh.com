@@ -29,6 +29,7 @@ comments:
     avatar: assets/avatars/henrik.jpg
 location: '0.170757'
 source: readmill
+touch: true
 highlighted_on: '2013-12-17T15:14:21.000Z'
 highlight_by:
   username: jwisser

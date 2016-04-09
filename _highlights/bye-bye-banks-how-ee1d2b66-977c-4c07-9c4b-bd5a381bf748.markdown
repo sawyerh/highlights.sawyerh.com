@@ -5,6 +5,7 @@ position: 37
 book_uuid: f5de12dd-6d51-40a8-9ae7-ab25015ce46b
 location: A three-stage scenario that is underway
 source: ibooks
+touch: true
 highlighted_on: '2015-11-22T00:00:00.000Z'
 ---
 

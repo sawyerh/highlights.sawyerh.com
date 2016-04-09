@@ -4,6 +4,7 @@ position: 77
 book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
 location: 'Chapter 11: The Unmade Future'
 source: ibooks
+touch: true
 highlighted_on: '2015-10-20T00:00:00.000Z'
 ---
 

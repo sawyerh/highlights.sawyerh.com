@@ -18,6 +18,7 @@ comments:
     avatar: assets/avatars/jakobfricke.jpg
 location: '0.653418'
 source: readmill
+touch: true
 highlighted_on: '2013-04-28T12:04:58.000Z'
 highlight_by:
   username: jakobfricke

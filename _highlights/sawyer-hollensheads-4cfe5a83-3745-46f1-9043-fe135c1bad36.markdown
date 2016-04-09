@@ -18,6 +18,7 @@ comments:
     avatar: assets/avatars/sawyer.jpg
 location: '0.0812381'
 source: readmill
+touch: true
 highlighted_on: '2013-04-07T11:05:18.000Z'
 ---
 

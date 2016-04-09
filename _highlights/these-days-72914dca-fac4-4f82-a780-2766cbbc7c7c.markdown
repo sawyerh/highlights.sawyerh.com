@@ -3,6 +3,7 @@ title: 'These Days: Sometimes it’s about what you choose not to read,” she s
 book_uuid: d78ab67b-ed71-46fa-860f-28f73ad7d9e1
 location: '0.131518'
 source: readmill
+touch: true
 highlighted_on: '2013-04-13T22:50:45.000Z'
 ---
 

@@ -4,6 +4,7 @@ title: 'The Second Machine A: The shift from analog to digital has delivered a b
 book_uuid: be5b3b2c-154c-4858-849e-2163a9bc72f0
 location: Chapter 9 The Spread
 source: ibooks
+touch: true
 highlighted_on: '2015-11-12T00:00:00.000Z'
 ---
 

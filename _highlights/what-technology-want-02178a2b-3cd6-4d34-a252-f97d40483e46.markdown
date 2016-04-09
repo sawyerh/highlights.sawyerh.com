@@ -4,6 +4,7 @@ title: 'What Technology Want: Our teeth continue to shrink (because of cooking, 
 book_uuid: b6905063-83c8-4d6f-8c92-e4bcfc8d65c6
 location: '0.0920498'
 source: readmill
+touch: true
 highlighted_on: '2012-11-30T03:00:23.000Z'
 ---
 

@@ -3,6 +3,7 @@ title: 'The Information: Dr. Wiener sees no reason why they can’t learn from e
 book_uuid: 484271b9-e2c0-47ed-83de-63c23de48d95
 location: '0.410773'
 source: readmill
+touch: true
 highlighted_on: '2012-10-23T04:14:58.000Z'
 ---
 

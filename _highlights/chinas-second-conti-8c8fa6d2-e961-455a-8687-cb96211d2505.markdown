@@ -7,6 +7,7 @@ comments:
 - body: Or drone routes.
 location: 'Chapter Eight: Ghana: Habits of Democracy'
 source: ibooks
+touch: true
 highlighted_on: '2015-11-14T00:00:00.000Z'
 ---
 

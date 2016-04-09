@@ -37,7 +37,7 @@ comments:
     city: ''
     website: ''
     description: mostly I read. When I am not impersonating a lighthouse.
-    avatar: 
+    avatar:
 - body: "@charlotte_e_hastings it's our business cards but I think someone created
     a way to print them also. @kissane do you remember who it was?"
   date: '2013-08-29T12:01:03Z'
@@ -64,8 +64,9 @@ comments:
     description: Passionate reader of internet lit and crime novels. Chief Happiness
       Officer at this little company.
     avatar: assets/avatars/henrik.jpg
-location: 
+location:
 source: readmill
+touch: true
 highlighted_on: '2012-07-14T00:00:00.000Z'
 highlight_by:
   username: nicoleslaw

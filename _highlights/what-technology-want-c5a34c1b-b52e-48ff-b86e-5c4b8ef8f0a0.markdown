@@ -17,6 +17,7 @@ comments:
     avatar: assets/avatars/david.jpg
 location: '0.570985'
 source: readmill
+touch: true
 highlighted_on: '2013-03-26T03:22:20.000Z'
 ---
 

@@ -4,6 +4,7 @@ title: 'The Kings County Dis: Jefferson knew the economic potential of whiskey. 
 book_uuid: 5b6f3f7f-7630-43fd-8086-727ad92124d5
 location: '0.151614'
 source: readmill
+touch: true
 highlighted_on: '2013-12-15T22:11:36.000Z'
 ---
 

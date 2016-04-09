@@ -3,6 +3,7 @@ title: 'The Kings County Dis: every vodka order is a missed opportunity.'
 book_uuid: 5b6f3f7f-7630-43fd-8086-727ad92124d5
 location: '0.0944581'
 source: readmill
+touch: true
 highlighted_on: '2013-12-12T05:35:29.000Z'
 ---
 

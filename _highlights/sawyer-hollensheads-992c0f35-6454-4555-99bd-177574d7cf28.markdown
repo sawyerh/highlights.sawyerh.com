@@ -18,6 +18,7 @@ comments:
     avatar: assets/avatars/milesalex.jpg
 location: '0.367186'
 source: readmill
+touch: true
 highlighted_on: '2013-10-28T03:23:20.000Z'
 ---
 

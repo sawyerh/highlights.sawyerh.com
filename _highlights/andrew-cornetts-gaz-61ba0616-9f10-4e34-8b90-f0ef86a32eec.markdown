@@ -5,6 +5,7 @@ position: 23
 book_uuid: 48bfc181-6576-4cf0-8cc4-779b36c0a993
 location: '0.474592'
 source: readmill
+touch: true
 highlighted_on: '2013-03-30T16:36:47.000Z'
 highlight_by:
   username: amotion

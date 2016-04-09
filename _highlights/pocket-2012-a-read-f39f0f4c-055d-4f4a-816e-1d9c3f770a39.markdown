@@ -19,6 +19,7 @@ comments:
     avatar: assets/avatars/jgl.jpg
 location: '0.100536'
 source: readmill
+touch: true
 highlighted_on: '2013-03-16T21:53:10.000Z'
 highlight_by:
   username: jgl

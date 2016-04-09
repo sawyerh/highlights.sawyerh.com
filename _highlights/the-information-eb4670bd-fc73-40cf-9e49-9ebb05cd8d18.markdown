@@ -3,6 +3,7 @@ title: 'The Information: To say, as the public press says, that therefore these 
 book_uuid: 484271b9-e2c0-47ed-83de-63c23de48d95
 location: '0.417186'
 source: readmill
+touch: true
 highlighted_on: '2012-10-31T01:13:07.000Z'
 ---
 

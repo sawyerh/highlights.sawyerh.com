@@ -5,6 +5,7 @@ position: 110
 book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
 location: 'Chapter 12: A New Challenge'
 source: ibooks
+touch: true
 highlighted_on: '2015-11-07T00:00:00.000Z'
 ---
 

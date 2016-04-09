@@ -4,6 +4,7 @@ position: 227
 book_uuid: 0ad0d9b9-7259-4e7a-8e99-10d91fc62e48
 location: '0.085565'
 source: readmill
+touch: true
 highlighted_on: '2012-12-13T08:05:49.000Z'
 highlight_by:
   username: trina_dikitanan

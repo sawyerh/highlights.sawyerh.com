@@ -4,6 +4,7 @@ title: 'What Technology Want: The ever-thickening mix of existing technologies i
 book_uuid: b6905063-83c8-4d6f-8c92-e4bcfc8d65c6
 location: '0.328796'
 source: readmill
+touch: true
 highlighted_on: '2013-01-07T04:57:31.000Z'
 ---
 

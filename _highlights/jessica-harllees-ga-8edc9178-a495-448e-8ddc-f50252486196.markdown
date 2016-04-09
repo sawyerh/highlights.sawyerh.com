@@ -5,6 +5,7 @@ position: 191
 book_uuid: 3ee3b725-ab8e-432f-9ce8-87aa9cadea69
 location: '0.484704'
 source: readmill
+touch: true
 highlighted_on: '2013-03-23T14:23:35.000Z'
 highlight_by:
   username: harllee

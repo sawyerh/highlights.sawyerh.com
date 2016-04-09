@@ -6,6 +6,7 @@ comments:
 - body: 50 minute drive from my hometown
 location: No title
 source: ibooks
+touch: true
 highlighted_on: '2015-11-18T00:00:00.000Z'
 ---
 

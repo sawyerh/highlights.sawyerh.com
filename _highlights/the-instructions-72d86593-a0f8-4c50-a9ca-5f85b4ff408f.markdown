@@ -17,6 +17,7 @@ comments:
     avatar: assets/avatars/tealtan.jpg
 location: '0.687454'
 source: readmill
+touch: true
 highlighted_on: '2013-02-22T04:53:12.000Z'
 highlight_by:
   username: tealtan

@@ -10,21 +10,22 @@ comments:
     username: dianakimball
     firstname: Diana
     lastname: Kimball
-    country: 
-    city: 
+    country:
+    city:
     website: http://blog.dianakimball.com
     description: 'A student at Harvard Business School & everywhere. Once a month
       or so, I write a longer letter that I’d love to send to you: http://expertnovice.com'
     avatar: assets/avatars/dianakimball.jpg
-location: 
+location:
 source: readmill
+touch: true
 highlighted_on: '2012-07-07T00:00:00.000Z'
 highlight_by:
   username: dianakimball
   firstname: Diana
   lastname: Kimball
-  country: 
-  city: 
+  country:
+  city:
   website: http://blog.dianakimball.com
   description: 'A student at Harvard Business School & everywhere. Once a month or
     so, I write a longer letter that I’d love to send to you: http://expertnovice.com'

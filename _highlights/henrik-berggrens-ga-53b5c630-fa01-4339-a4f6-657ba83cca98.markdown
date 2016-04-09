@@ -26,7 +26,7 @@ comments:
     city: Berlin
     website: http://johannes.wagener.cc
     description: I like boooks and such
-    avatar: 
+    avatar:
 - body: It was in the intro blurb to a new service built on Readmill called Gazette.
     http://gazette.io/
   date: '2013-03-24T13:36:38Z'
@@ -54,6 +54,7 @@ comments:
     avatar: assets/avatars/sawyer.jpg
 location: '0.0445486'
 source: readmill
+touch: true
 highlighted_on: '2013-03-23T01:47:14.000Z'
 highlight_by:
   username: henrik

@@ -17,6 +17,7 @@ comments:
     avatar: assets/avatars/paulblakeman.jpg
 location: '0.403342'
 source: readmill
+touch: true
 highlighted_on: '2013-03-23T22:44:51.000Z'
 highlight_by:
   username: paulblakeman

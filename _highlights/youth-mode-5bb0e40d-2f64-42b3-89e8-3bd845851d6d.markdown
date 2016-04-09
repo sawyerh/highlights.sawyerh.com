@@ -3,6 +3,7 @@ title: 'YOUTH MODE: There’s a theory that a man’s style is just a reiteratio
 book_uuid: 9794c1e3-4063-497d-b753-0f94305c2539
 location: '0.589744'
 source: readmill
+touch: true
 highlighted_on: '2013-11-29T02:37:12.000Z'
 ---
 

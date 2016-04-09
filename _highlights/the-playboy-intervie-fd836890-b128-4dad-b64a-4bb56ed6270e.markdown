@@ -4,6 +4,7 @@ title: 'The Playboy Intervie: Playboy: What irritates you? Seinfeld: Everything.
 book_uuid: 3644764c-0621-4460-871a-4e46e27eec32
 location: '0.691565'
 source: readmill
+touch: true
 highlighted_on: '2013-11-16T18:13:29.000Z'
 ---
 

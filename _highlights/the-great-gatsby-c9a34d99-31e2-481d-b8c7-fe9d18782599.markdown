@@ -10,22 +10,23 @@ comments:
     username: Jotweet
     firstname: Josiah
     lastname: Forgath
-    country: 
-    city: 
-    website: 
+    country:
+    city:
+    website:
     description: Follower of all things Cinematic. Transformed daily by sight & sound.
       Onwards...
     avatar: assets/avatars/Jotweet.jpg
 location: '0.331395'
 source: readmill
+touch: true
 highlighted_on: '2012-08-23T23:58:37.000Z'
 highlight_by:
   username: Jotweet
   firstname: Josiah
   lastname: Forgath
-  country: 
-  city: 
-  website: 
+  country:
+  city:
+  website:
   description: Follower of all things Cinematic. Transformed daily by sight & sound.
     Onwards...
   avatar: assets/avatars/Jotweet.jpg

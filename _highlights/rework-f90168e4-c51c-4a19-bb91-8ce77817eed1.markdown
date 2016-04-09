@@ -2,8 +2,9 @@
 title: 'ReWork: A business without a path to profit isn’t a business, it’s a…'
 position: 263
 book_uuid: b317b3f6-b19e-4f20-a710-fa2efc258295
-location: 
+location:
 source: readmill
+touch: true
 highlighted_on: '2010-09-06T00:00:00.000Z'
 highlight_by:
   username: danielkirsch

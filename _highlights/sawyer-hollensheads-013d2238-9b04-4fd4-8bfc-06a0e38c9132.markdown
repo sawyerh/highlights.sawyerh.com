@@ -30,6 +30,7 @@ comments:
     avatar: assets/avatars/henrik.jpg
 location: '0.675822'
 source: readmill
+touch: true
 highlighted_on: '2013-05-04T16:35:42.000Z'
 ---
 
