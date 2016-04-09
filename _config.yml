@@ -21,7 +21,6 @@ defaults:
     type: highlights
   values:
     layout: highlight
-    highlighted_on: ''
 - scope:
     path: ''
     type: books
