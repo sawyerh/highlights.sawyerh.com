@@ -1,0 +1,12 @@
+---
+title: '1984: But we make the brain perfect before we blow it out.'
+date: 2016-04-09 18:16:00.600000000 -04:00
+position: 7
+book_uuid: 9139ec85-ba74-4611-b129-15774149e1c7
+location: '0.826172'
+source: readmill
+touch: false
+highlighted_on: 2013-01-25 05:44:15.000000000 Z
+---
+
+But we make the brain perfect before we blow it out.

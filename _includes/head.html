@@ -1,0 +1,24 @@
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{% if page.collection == 'books' %}Browse Sawyer's highlights from {{ page.title }}{% elsif page.collection == 'highlights' %}{{ page.content | strip_html | strip_newlines | truncate: 160 }}{% else %}A collection of highlights and notes from books and articles read by Sawyer Hollenshead.{% endif %}" />
+
+  {% if page.cover %}
+    <meta content='{{ site.url }}{{ page.cover }}' property='og:image'>
+    <meta content='{{ site.url }}{{ page.cover }}' name='twitter:image:src'>
+  {% endif %}
+
+  <link href="//cdn.symbolset.com/79af87f745f946495400b6407830bb323c80c8bd/symbolset.css" rel="stylesheet" />
+  <link rel="stylesheet" href="/assets/styles/global.css" />
+  <link rel="SHORTCUT ICON" href="/assets/images/favicon.png" />
+
+  <script src="https://use.typekit.net/ssi3auv.js"></script>
+  <script>try{Typekit.load();}catch(e){}</script>
+
+  <style type="text/css">
+    .book__title{ widow-adjust: non-breaking-space; }
+  </style>
+</head>

@@ -1,0 +1,34 @@
+<article class="highlight{% if highlight.is_featured %} highlight--featured{% endif %}">
+  <blockquote class="highlight__content">
+    {{ highlight.content }}
+  </blockquote>
+
+  <div class="highlight__footer">
+    {% if page.collection != 'highlights' %}
+      <a href="{{ highlight.url }}" class="ss-icon highlight__link">link</a>
+    {% endif %}
+    {% if highlight.location and highlight.location != 'No title' %}
+      <span class="highlight__location">{{ highlight.location }}</span>
+    {% endif %}
+    {% if highlight.highlight_by %}
+      <span class="highlight__via">via {{ highlight.highlight_by.firstname }} {{ highlight.highlight_by.lastname }}</span>
+    {% endif %}
+
+    {% if page.collection == 'highlights' %}
+      <a href="/" class="ss-navigateleft highlight__link highlight__link--all">Browse all highlights</a>
+    {% endif %}
+  </div>
+
+  {% if highlight.comments %}
+    <div class="comments">
+      {% for comment in highlight.comments %}
+        <div class="comment">
+          {{ comment.body }}
+          {% if comment.user %}
+            <cite class="comment__author">&mdash; {{ comment.user.firstname }} {{ comment.user.lastname }}</cite>
+          {% endif %}
+        </div>
+      {% endfor %}
+    </div>
+  {% endif %}
+</article>

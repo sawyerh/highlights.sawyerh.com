@@ -1,0 +1,12 @@
+---
+title: '1984: If you want a picture of the future, imagine a boot stamping…'
+date: 2016-04-09 18:16:00.600000000 -04:00
+position: 10
+book_uuid: 9139ec85-ba74-4611-b129-15774149e1c7
+location: '0.861379'
+source: readmill
+touch: false
+highlighted_on: 2013-02-09 05:39:25.000000000 Z
+---
+
+If you want a picture of the future, imagine a boot stamping on a human face—for ever.'

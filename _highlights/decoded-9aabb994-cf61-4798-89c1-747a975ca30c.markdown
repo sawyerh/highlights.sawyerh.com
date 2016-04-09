@@ -1,0 +1,12 @@
+---
+title: 'Decoded: The flow isn’t like time, it’s like life. It’s like a heartb…'
+date: 2016-04-09 18:16:00.600000000 -04:00
+position: 124
+book_uuid: 4459e9c5-f0a9-4e41-95b1-328503183e31
+location: '0.0476858'
+source: readmill
+touch: false
+highlighted_on: 2012-09-02 03:24:20.000000000 Z
+---
+
+The flow isn’t like time, it’s like life. It’s like a heartbeat or the way you breathe, it can jump, speed up, slow down, stop, or pound right through like a machine. If the beat is time, flow is what we do with that time, how we live through it. The beat is everywhere, but every life has to find its own flow.

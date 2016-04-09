@@ -1,0 +1,9 @@
+---
+title: '1984'
+date: 2015-11-08 18:00:11 -05:00
+author: Orwell, George
+uuid: 9139ec85-ba74-4611-b129-15774149e1c7
+original_title: '1984'
+amazon: true
+---
+
