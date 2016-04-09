@@ -6,7 +6,7 @@ position: 223
 book_uuid: 153dd553-7884-42c0-a932-b4829c9956fd
 comments:
 - body: Do it daily or don't do it at all!
-  date: 2013-03-23 22:44:53.000000000 Z
+  date: 2013-03-23 22:44:53 UTC
   user:
     username: paulblakeman
     firstname: Paul

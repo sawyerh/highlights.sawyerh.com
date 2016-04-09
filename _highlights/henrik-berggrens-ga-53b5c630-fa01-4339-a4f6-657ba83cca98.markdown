@@ -6,7 +6,7 @@ position: 179
 book_uuid: ccf88fb8-4332-4ba7-ad9a-aaea2761609c
 comments:
 - body: Could not agree more
-  date: 2013-03-23 01:49:07.000000000 Z
+  date: 2013-03-23 01:49:07 UTC
   user:
     username: henrik
     firstname: Henrik
@@ -18,7 +18,7 @@ comments:
       Officer at this little company.
     avatar: assets/avatars/henrik.jpg
 - body: so where was this written? :)
-  date: 2013-03-23 22:22:55.000000000 Z
+  date: 2013-03-23 22:22:55 UTC
   user:
     username: johannes
     firstname: Johannes
@@ -30,7 +30,7 @@ comments:
     avatar: 
 - body: It was in the intro blurb to a new service built on Readmill called Gazette.
     http://gazette.io/
-  date: 2013-03-24 13:36:38.000000000 Z
+  date: 2013-03-24 13:36:38 UTC
   user:
     username: henrik
     firstname: Henrik
@@ -43,7 +43,7 @@ comments:
     avatar: assets/avatars/henrik.jpg
 - body: Would love to hear what you thought of the first issue when you're done with
     it.
-  date: 2013-03-25 19:02:45.000000000 Z
+  date: 2013-03-25 19:02:45 UTC
   user:
     username: sawyer
     firstname: Sawyer

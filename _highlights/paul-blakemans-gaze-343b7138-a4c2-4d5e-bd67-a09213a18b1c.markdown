@@ -6,7 +6,7 @@ position: 222
 book_uuid: 1c2f9036-f12b-4d64-b27a-533fee077b0e
 comments:
 - body: Agreed!
-  date: 2013-03-30 21:23:28.000000000 Z
+  date: 2013-03-30 21:23:28 UTC
   user:
     username: paulblakeman
     firstname: Paul
