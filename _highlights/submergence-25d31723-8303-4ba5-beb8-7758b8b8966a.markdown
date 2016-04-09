@@ -5,8 +5,8 @@ position: 385
 book_uuid: dd797cf3-437d-4237-b1ae-728102f6b82d
 location: '0.111864'
 source: readmill
-touch: true
-highlighted_on: '2014-01-25T05:36:47.000Z'
+touch: false
+highlighted_on: 2014-01-25 05:36:47.000000000 Z
 ---
 
 She had come to see the sea, not the ocean.

@@ -6,7 +6,7 @@ position: 135
 book_uuid: e76ce034-c041-48a9-973d-f9d29687e74c
 comments:
 - body: promoted posts. litherland's protocol for un/following.
-  date: '2012-12-29T00:00:00Z'
+  date: 2012-12-29 00:00:00.000000000 Z
   user:
     username: CaseyG
     firstname: Casey
@@ -18,8 +18,8 @@ comments:
     avatar: assets/avatars/CaseyG.jpg
 location: 
 source: readmill
-touch: true
-highlighted_on: '2012-12-29T00:00:00.000Z'
+touch: false
+highlighted_on: 2012-12-29 00:00:00.000000000 Z
 highlight_by:
   username: CaseyG
   firstname: Casey

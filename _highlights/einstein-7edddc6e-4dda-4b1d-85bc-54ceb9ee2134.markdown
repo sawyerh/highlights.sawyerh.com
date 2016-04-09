@@ -5,8 +5,8 @@ position: 140
 book_uuid: 75ba9f24-9b09-4d3d-94b8-0dc8cfb6da2d
 location: '0.0829097'
 source: readmill
-touch: true
-highlighted_on: '2013-01-29T04:52:15.000Z'
+touch: false
+highlighted_on: 2013-01-29 04:52:15.000000000 Z
 ---
 
 “Best wishes etc., especially the latter.”

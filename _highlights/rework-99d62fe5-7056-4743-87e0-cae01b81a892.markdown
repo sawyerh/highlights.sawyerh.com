@@ -5,7 +5,7 @@ position: 260
 book_uuid: b317b3f6-b19e-4f20-a710-fa2efc258295
 comments:
 - body: Yes.
-  date: '2014-02-07T02:14:29Z'
+  date: 2014-02-07 02:14:29.000000000 Z
   user:
     username: lamar
     firstname: Lamar
@@ -17,8 +17,8 @@ comments:
     avatar: assets/avatars/lamar.jpg
 location: 
 source: readmill
-touch: true
-highlighted_on: '2011-12-07T12:35:07.000Z'
+touch: false
+highlighted_on: 2011-12-07 12:35:07.000000000 Z
 highlight_by:
   username: hectcastro
   firstname: Hector

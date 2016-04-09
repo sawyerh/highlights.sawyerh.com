@@ -6,8 +6,8 @@ position: 329
 book_uuid: a6f185d8-5868-4f55-b3ed-84129a680280
 location: '0.264594'
 source: readmill
-touch: true
-highlighted_on: '2013-12-14T19:51:41.000Z'
+touch: false
+highlighted_on: 2013-12-14 19:51:41.000000000 Z
 ---
 
 You make things. You make things in order to sell them. The difference between you and an artist is you can't wait years to be discovered.

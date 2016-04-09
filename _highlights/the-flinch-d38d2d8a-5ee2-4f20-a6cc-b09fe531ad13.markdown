@@ -5,8 +5,8 @@ position: 414
 book_uuid: 8849ff61-8ede-4fec-8e98-49382d5f0e92
 location: 
 source: readmill
-touch: true
-highlighted_on: '2012-01-01T00:00:00.000Z'
+touch: false
+highlighted_on: 2012-01-01 00:00:00.000000000 Z
 highlight_by:
   username: bennesvig
   firstname: Ben

@@ -5,8 +5,8 @@ position: 387
 book_uuid: dd797cf3-437d-4237-b1ae-728102f6b82d
 location: '0.144585'
 source: readmill
-touch: true
-highlighted_on: '2014-01-28T05:12:13.000Z'
+touch: false
+highlighted_on: 2014-01-28 05:12:13.000000000 Z
 ---
 
 What you did not like distinguished it.

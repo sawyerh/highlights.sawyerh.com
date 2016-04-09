@@ -5,8 +5,8 @@ position: 263
 book_uuid: b317b3f6-b19e-4f20-a710-fa2efc258295
 location: 
 source: readmill
-touch: true
-highlighted_on: '2010-09-06T00:00:00.000Z'
+touch: false
+highlighted_on: 2010-09-06 00:00:00.000000000 Z
 highlight_by:
   username: danielkirsch
   firstname: Daniel

@@ -6,7 +6,7 @@ position: 365
 book_uuid: 2e1f0113-a773-46f1-83a5-07a8a90e5c0e
 comments:
 - body: 'This is exactly how I feel about most parties. '
-  date: '2013-12-17T15:14:21Z'
+  date: 2013-12-17 15:14:21.000000000 Z
   user:
     username: jwisser
     firstname: Jonas
@@ -17,7 +17,7 @@ comments:
     description: He's just this guy, you know?
     avatar: assets/avatars/jwisser.jpg
 - body: Haha, we've all been to parties like that
-  date: '2013-12-17T16:11:50Z'
+  date: 2013-12-17 16:11:50.000000000 Z
   user:
     username: henrik
     firstname: Henrik
@@ -30,8 +30,8 @@ comments:
     avatar: assets/avatars/henrik.jpg
 location: '0.170757'
 source: readmill
-touch: true
-highlighted_on: '2013-12-17T15:14:21.000Z'
+touch: false
+highlighted_on: 2013-12-17 15:14:21.000000000 Z
 highlight_by:
   username: jwisser
   firstname: Jonas

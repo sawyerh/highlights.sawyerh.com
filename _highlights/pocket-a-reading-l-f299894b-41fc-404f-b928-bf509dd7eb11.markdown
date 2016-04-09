@@ -6,7 +6,7 @@ position: 252
 book_uuid: f8c7e4d5-1bd1-4bd2-83d5-62b712ec2ecf
 comments:
 - body: Louis C.K.
-  date: '2013-12-05T01:59:26Z'
+  date: 2013-12-05 01:59:26.000000000 Z
   user:
     username: sawyer
     firstname: Sawyer
@@ -18,8 +18,8 @@ comments:
     avatar: assets/avatars/sawyer.jpg
 location: '0.558961'
 source: readmill
-touch: true
-highlighted_on: '2013-12-05T01:59:25.000Z'
+touch: false
+highlighted_on: 2013-12-05 01:59:25.000000000 Z
 ---
 
 What I learned is that the level I'm at now I get polite nos. It used to just be nothing but silence.

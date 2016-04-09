@@ -7,7 +7,7 @@ book_uuid: b2499438-a7be-4d48-aac8-8c21fb3963a5
 comments:
 - body: "Web Privacy, and How Consumers Let Down Their Guard\n        \n      \n      \n
     \       by SOMINI SENGUPTA\n      \n      \n        \n        \n          nytimes.com"
-  date: '2013-04-07T11:05:44Z'
+  date: 2013-04-07 11:05:44.000000000 Z
   user:
     username: sawyer
     firstname: Sawyer
@@ -19,8 +19,8 @@ comments:
     avatar: assets/avatars/sawyer.jpg
 location: '0.0812381'
 source: readmill
-touch: true
-highlighted_on: '2013-04-07T11:05:18.000Z'
+touch: false
+highlighted_on: 2013-04-07 11:05:18.000000000 Z
 ---
 
 fine-grained controls had led people to "share more sensitive information with larger, and possibly riskier, audiences."

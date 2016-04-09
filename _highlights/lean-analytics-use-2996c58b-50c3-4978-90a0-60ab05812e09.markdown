@@ -6,7 +6,7 @@ position: 196
 book_uuid: 469d793e-6506-4521-afcc-84257a4dfcf7
 comments:
 - body: Neil Davidson
-  date: '2013-04-28T12:04:58Z'
+  date: 2013-04-28 12:04:58.000000000 Z
   user:
     username: jakobfricke
     firstname: Jakob
@@ -19,8 +19,8 @@ comments:
     avatar: assets/avatars/jakobfricke.jpg
 location: '0.653418'
 source: readmill
-touch: true
-highlighted_on: '2013-04-28T12:04:58.000Z'
+touch: false
+highlighted_on: 2013-04-28 12:04:58.000000000 Z
 highlight_by:
   username: jakobfricke
   firstname: Jakob

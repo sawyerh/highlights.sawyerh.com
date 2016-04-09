@@ -6,7 +6,7 @@ position: 133
 book_uuid: 0a8ccbc8-7a1d-41de-9acb-a33fe8e7c691
 comments:
 - body: This is by far his best quote from the book.
-  date: '2012-09-02T03:00:52Z'
+  date: 2012-09-02 03:00:52.000000000 Z
   user:
     username: sawyer
     firstname: Sawyer
@@ -18,8 +18,8 @@ comments:
     avatar: assets/avatars/sawyer.jpg
 location: '0.206799'
 source: readmill
-touch: true
-highlighted_on: '2012-09-01T20:38:46.000Z'
+touch: false
+highlighted_on: 2012-09-01 20:38:46.000000000 Z
 highlight_by:
   username: KeenanCummings
   firstname: Keenan

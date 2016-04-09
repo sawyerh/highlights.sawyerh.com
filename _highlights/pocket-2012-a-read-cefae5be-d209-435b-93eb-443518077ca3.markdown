@@ -6,7 +6,7 @@ position: 245
 book_uuid: 0ad0d9b9-7259-4e7a-8e99-10d91fc62e48
 comments:
 - body: The Slow Web
-  date: '2012-12-09T04:55:03Z'
+  date: 2012-12-09 04:55:03.000000000 Z
   user:
     username: sawyer
     firstname: Sawyer
@@ -18,8 +18,8 @@ comments:
     avatar: assets/avatars/sawyer.jpg
 location: '0.0108466'
 source: readmill
-touch: true
-highlighted_on: '2012-12-09T04:54:07.000Z'
+touch: false
+highlighted_on: 2012-12-09 04:54:07.000000000 Z
 ---
 
 great names are like knots—they’re woven from the same stringy material as other words, but in their particular arrangement, they catch, become junctions to which new threads arrive, from which other threads depart.

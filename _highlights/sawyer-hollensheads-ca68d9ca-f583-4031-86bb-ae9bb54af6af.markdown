@@ -5,8 +5,8 @@ position: 342
 book_uuid: 2331c965-e2d5-492c-9052-e6f9e5764e35
 location: '0.542101'
 source: readmill
-touch: true
-highlighted_on: '2013-05-19T04:02:41.000Z'
+touch: false
+highlighted_on: 2013-05-19 04:02:41.000000000 Z
 ---
 
 Zen and the Art of Motorcycle Maintenance.

@@ -6,8 +6,8 @@ position: 243
 book_uuid: 0ad0d9b9-7259-4e7a-8e99-10d91fc62e48
 location: '0.0986284'
 source: readmill
-touch: true
-highlighted_on: '2013-01-23T12:18:28.000Z'
+touch: false
+highlighted_on: 2013-01-23 12:18:28.000000000 Z
 highlight_by:
   username: KeenanCummings
   firstname: Keenan

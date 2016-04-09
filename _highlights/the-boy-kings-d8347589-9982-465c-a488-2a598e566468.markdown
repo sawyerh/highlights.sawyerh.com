@@ -5,8 +5,8 @@ position: 409
 book_uuid: 78add78f-a842-43ea-b718-75d4a1acf504
 location: '0.887318'
 source: readmill
-touch: true
-highlighted_on: '2014-02-04T04:51:58.000Z'
+touch: false
+highlighted_on: 2014-02-04 04:51:58.000000000 Z
 ---
 
 I didn’t know anyone in the Bay Area—Facebook employee or not—who didn’t obsessively read their social media feeds and construct real and online conversations almost entirely out of these threads.

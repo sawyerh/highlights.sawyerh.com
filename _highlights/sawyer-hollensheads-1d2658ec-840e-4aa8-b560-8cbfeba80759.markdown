@@ -6,8 +6,8 @@ position: 282
 book_uuid: 9197a3dc-7559-4fdc-ba86-80b37e29aa54
 location: '0.778759'
 source: readmill
-touch: true
-highlighted_on: '2014-01-04T00:03:13.000Z'
+touch: false
+highlighted_on: 2014-01-04 00:03:13.000000000 Z
 ---
 
 The screen can be used not only to see the people you call but also for studying documents and photographs and reading passages from books.

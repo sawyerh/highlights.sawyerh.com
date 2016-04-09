@@ -6,7 +6,7 @@ position: 240
 book_uuid: 0ad0d9b9-7259-4e7a-8e99-10d91fc62e48
 comments:
 - body: 10 Timeframes
-  date: '2012-12-10T04:26:11Z'
+  date: 2012-12-10 04:26:11.000000000 Z
   user:
     username: sawyer
     firstname: Sawyer
@@ -18,8 +18,8 @@ comments:
     avatar: assets/avatars/sawyer.jpg
 location: '0.0802915'
 source: readmill
-touch: true
-highlighted_on: '2012-12-10T04:26:11.000Z'
+touch: false
+highlighted_on: 2012-12-10 04:26:11.000000000 Z
 ---
 
 Many of our interfaces are really just ways to try to repackage time so that it’s meaningful, so that we can do stuff with it. It’s not that there isn’t enough time but rather that there’s too much of it.

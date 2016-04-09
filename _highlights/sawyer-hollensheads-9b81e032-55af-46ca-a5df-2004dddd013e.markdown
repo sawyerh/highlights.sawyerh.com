@@ -6,7 +6,7 @@ position: 324
 book_uuid: aa923242-9a94-4f1e-ad57-d9669c3d9633
 comments:
 - body: The Economics of Evil Google - NYTimes.com
-  date: '2013-03-30T02:56:15Z'
+  date: 2013-03-30 02:56:15.000000000 Z
   user:
     username: sawyer
     firstname: Sawyer
@@ -18,8 +18,8 @@ comments:
     avatar: assets/avatars/sawyer.jpg
 location: '0.880115'
 source: readmill
-touch: true
-highlighted_on: '2013-03-30T02:56:15.000Z'
+touch: false
+highlighted_on: 2013-03-30 02:56:15.000000000 Z
 ---
 
 It seems hard at this point to envision search and related functions as public utilities, but that's arguably where the logic will eventually lead us.

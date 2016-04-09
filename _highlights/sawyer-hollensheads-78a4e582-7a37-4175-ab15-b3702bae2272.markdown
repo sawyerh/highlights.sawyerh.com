@@ -5,8 +5,8 @@ position: 316
 book_uuid: 3f2f18a4-0b65-493d-afe7-23a61417cb99
 location: '0.509088'
 source: readmill
-touch: true
-highlighted_on: '2013-04-27T03:29:06.000Z'
+touch: false
+highlighted_on: 2013-04-27 03:29:06.000000000 Z
 ---
 
 The Sun Also Rises by Hemingway.

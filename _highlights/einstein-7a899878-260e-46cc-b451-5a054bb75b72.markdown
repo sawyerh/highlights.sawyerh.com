@@ -5,8 +5,8 @@ position: 139
 book_uuid: 75ba9f24-9b09-4d3d-94b8-0dc8cfb6da2d
 location: '0.027054'
 source: readmill
-touch: true
-highlighted_on: '2013-01-08T18:34:46.000Z'
+touch: false
+highlighted_on: 2013-01-08 18:34:46.000000000 Z
 ---
 
 Einstein offered her a deal. He would win the Nobel Prize someday, he said; if she gave him a divorce, he would give her the prize money.

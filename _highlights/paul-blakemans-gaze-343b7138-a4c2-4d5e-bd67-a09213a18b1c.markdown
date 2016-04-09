@@ -6,7 +6,7 @@ position: 222
 book_uuid: 1c2f9036-f12b-4d64-b27a-533fee077b0e
 comments:
 - body: Agreed!
-  date: '2013-03-30T21:23:28Z'
+  date: 2013-03-30 21:23:28.000000000 Z
   user:
     username: paulblakeman
     firstname: Paul
@@ -18,8 +18,8 @@ comments:
     avatar: assets/avatars/paulblakeman.jpg
 location: '0.423386'
 source: readmill
-touch: true
-highlighted_on: '2013-03-30T21:23:28.000Z'
+touch: false
+highlighted_on: 2013-03-30 21:23:28.000000000 Z
 highlight_by:
   username: paulblakeman
   firstname: Paul

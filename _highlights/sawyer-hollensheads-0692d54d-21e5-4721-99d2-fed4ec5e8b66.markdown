@@ -6,7 +6,7 @@ position: 268
 book_uuid: c50a38b0-9316-4073-b260-c6118bd85772
 comments:
 - body: Todo
-  date: '2013-04-16T03:07:25Z'
+  date: 2013-04-16 03:07:25.000000000 Z
   user:
     username: sawyer
     firstname: Sawyer
@@ -18,8 +18,8 @@ comments:
     avatar: assets/avatars/sawyer.jpg
 location: '0.465094'
 source: readmill
-touch: true
-highlighted_on: '2013-04-16T03:07:25.000Z'
+touch: false
+highlighted_on: 2013-04-16 03:07:25.000000000 Z
 ---
 
 library.D3.js, a library for powering data-driven documents that has a broad range of applications, including mapping

@@ -6,8 +6,8 @@ position: 178
 book_uuid: 0b022670-1330-4530-a8f0-a0a2b603f21a
 location: '0.704793'
 source: readmill
-touch: true
-highlighted_on: '2014-01-10T18:37:56.000Z'
+touch: false
+highlighted_on: 2014-01-10 18:37:56.000000000 Z
 highlight_by:
   username: amotion
   firstname: Andrew

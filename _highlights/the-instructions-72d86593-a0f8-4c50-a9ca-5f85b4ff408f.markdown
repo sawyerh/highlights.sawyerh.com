@@ -5,7 +5,7 @@ date: 2016-04-09 18:16:00.600000000 -04:00
 book_uuid: d20d1ba2-d6c2-4fe1-94ce-5430fdb14055
 comments:
 - body: A+++
-  date: '2013-02-22T04:53:12Z'
+  date: 2013-02-22 04:53:12.000000000 Z
   user:
     username: tealtan
     firstname: Allen
@@ -18,8 +18,8 @@ comments:
     avatar: assets/avatars/tealtan.jpg
 location: '0.687454'
 source: readmill
-touch: true
-highlighted_on: '2013-02-22T04:53:12.000Z'
+touch: false
+highlighted_on: 2013-02-22 04:53:12.000000000 Z
 highlight_by:
   username: tealtan
   firstname: Allen

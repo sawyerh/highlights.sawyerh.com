@@ -6,7 +6,7 @@ position: 250
 book_uuid: f8c7e4d5-1bd1-4bd2-83d5-62b712ec2ecf
 comments:
 - body: Louis C.K.
-  date: '2013-12-05T02:03:33Z'
+  date: 2013-12-05 02:03:33.000000000 Z
   user:
     username: sawyer
     firstname: Sawyer
@@ -18,8 +18,8 @@ comments:
     avatar: assets/avatars/sawyer.jpg
 location: '0.563082'
 source: readmill
-touch: true
-highlighted_on: '2013-12-05T02:03:32.000Z'
+touch: false
+highlighted_on: 2013-12-05 02:03:32.000000000 Z
 highlight_by:
   username: sawyer
   firstname: Sawyer

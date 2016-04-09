@@ -5,7 +5,7 @@ position: 131
 book_uuid: 4459e9c5-f0a9-4e41-95b1-328503183e31
 comments:
 - body: Jean-Michel Basquiat
-  date: '2013-01-27T05:16:21Z'
+  date: 2013-01-27 05:16:21.000000000 Z
   user:
     username: sawyer
     firstname: Sawyer
@@ -17,8 +17,8 @@ comments:
     avatar: assets/avatars/sawyer.jpg
 location: '0.25104'
 source: readmill
-touch: true
-highlighted_on: '2013-01-27T05:16:21.000Z'
+touch: false
+highlighted_on: 2013-01-27 05:16:21.000000000 Z
 ---
 
 In the corner of the painting are the words, MOST YOUNG KINGS GET THIER HEAD CUT OFF.

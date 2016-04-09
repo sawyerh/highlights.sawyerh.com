@@ -5,8 +5,8 @@ position: 262
 book_uuid: b317b3f6-b19e-4f20-a710-fa2efc258295
 location: '0.0813099'
 source: readmill
-touch: true
-highlighted_on: '2013-02-17T05:28:36.000Z'
+touch: false
+highlighted_on: 2013-02-17 05:28:36.000000000 Z
 ---
 
 The real world isn’t a place, it’s an excuse. It’s a justification for not trying. It has nothing to do with you.

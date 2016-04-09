@@ -5,7 +5,7 @@ position: 234
 book_uuid: 0ad0d9b9-7259-4e7a-8e99-10d91fc62e48
 comments:
 - body: Paul Graham - Coming up with startup ideas
-  date: '2012-12-31T23:21:56Z'
+  date: 2012-12-31 23:21:56.000000000 Z
   user:
     username: sawyer
     firstname: Sawyer
@@ -17,8 +17,8 @@ comments:
     avatar: assets/avatars/sawyer.jpg
 location: '0.832845'
 source: readmill
-touch: true
-highlighted_on: '2012-12-31T23:21:56.000Z'
+touch: false
+highlighted_on: 2012-12-31 23:21:56.000000000 Z
 ---
 
 Live in the future and build what seems interesting.

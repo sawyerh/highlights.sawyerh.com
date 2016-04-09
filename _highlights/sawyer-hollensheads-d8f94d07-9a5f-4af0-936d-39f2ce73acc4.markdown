@@ -6,7 +6,7 @@ position: 350
 book_uuid: 877e6a33-be12-42f9-80c6-64484c407db0
 comments:
 - body: The Particle frankchimero.com
-  date: '2013-03-24T17:44:46Z'
+  date: 2013-03-24 17:44:46.000000000 Z
   user:
     username: sawyer
     firstname: Sawyer
@@ -18,8 +18,8 @@ comments:
     avatar: assets/avatars/sawyer.jpg
 location: '0.1941'
 source: readmill
-touch: true
-highlighted_on: '2013-03-24T17:44:46.000Z'
+touch: false
+highlighted_on: 2013-03-24 17:44:46.000000000 Z
 ---
 
 Good design is meant to help other people live well, and if it doesn’t do that for the audience, there’s no point in it existing.

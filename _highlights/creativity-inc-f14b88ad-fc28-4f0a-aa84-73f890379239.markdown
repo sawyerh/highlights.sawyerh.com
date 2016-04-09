@@ -5,8 +5,8 @@ position: 115
 book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
 location: 'Chapter 10: Broadening Our View'
 source: ibooks
-touch: true
-highlighted_on: '2015-10-09T04:00:00.000Z'
+touch: false
+highlighted_on: 2015-10-09 04:00:00.000000000 Z
 ---
 
 By resisting the beginner’s mind, you make yourself more prone to repeat yourself than to create something new. The attempt to avoid failure, in other words, makes failure more likely.

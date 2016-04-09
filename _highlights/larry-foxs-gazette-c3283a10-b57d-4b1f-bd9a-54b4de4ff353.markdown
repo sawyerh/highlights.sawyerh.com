@@ -6,8 +6,8 @@ position: 195
 book_uuid: 76bd9739-5556-41f1-b808-1748cb577680
 location: '0.0212072'
 source: readmill
-touch: true
-highlighted_on: '2013-03-23T00:41:44.000Z'
+touch: false
+highlighted_on: 2013-03-23 00:41:44.000000000 Z
 highlight_by:
   username: fox
   firstname: Larry

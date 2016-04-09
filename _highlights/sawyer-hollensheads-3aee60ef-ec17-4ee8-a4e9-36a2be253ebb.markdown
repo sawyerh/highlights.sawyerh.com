@@ -6,8 +6,8 @@ position: 295
 book_uuid: 1cdcbb53-141e-4002-be8b-3c755a14e1bb
 location: '0.275106'
 source: readmill
-touch: true
-highlighted_on: '2013-06-23T02:57:14.000Z'
+touch: false
+highlighted_on: 2013-06-23 02:57:14.000000000 Z
 ---
 
 If those services don't trust me enough to give me an RSS feed, why should I trust them with my data?

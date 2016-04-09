@@ -6,8 +6,8 @@ position: 134
 book_uuid: 0a8ccbc8-7a1d-41de-9acb-a33fe8e7c691
 location: '0.313943'
 source: readmill
-touch: true
-highlighted_on: '2012-12-31T17:21:02.000Z'
+touch: false
+highlighted_on: 2012-12-31 17:21:02.000000000 Z
 highlight_by:
   username: nicoleslaw
   firstname: Nicole

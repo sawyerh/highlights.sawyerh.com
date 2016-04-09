@@ -6,8 +6,8 @@ position: 361
 book_uuid: fe7e95ac-2c7c-46eb-9c92-7c03774542f9
 location: '0.746732'
 source: readmill
-touch: true
-highlighted_on: '2013-09-25T04:11:04.000Z'
+touch: false
+highlighted_on: 2013-09-25 04:11:04.000000000 Z
 ---
 
 Every manager - in fact, every employee - needs to understand the financial side of the business. One of my big mistakes was to let people build products, or do marketing, without forcing them to understand the financial impact of their decisions.
