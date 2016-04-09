@@ -6,7 +6,7 @@ position: 280
 book_uuid: c50a38b0-9316-4073-b260-c6118bd85772
 comments:
 - body: Caesy Oney, Draught Dry Goods
-  date: 2013-04-16 03:45:03.000000000 Z
+  date: 2013-04-16 03:45:03 UTC
   user:
     username: sawyer
     firstname: Sawyer

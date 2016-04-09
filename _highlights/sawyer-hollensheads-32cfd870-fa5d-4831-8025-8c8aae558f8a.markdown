@@ -7,7 +7,7 @@ book_uuid: b2499438-a7be-4d48-aac8-8c21fb3963a5
 comments:
 - body: "The Rule of Awesome\n        \n      \n      \n        by Micah Baldwin\n
     \     \n      \n        \n        \n        learntoduck.net"
-  date: 2013-04-09 23:38:07.000000000 Z
+  date: 2013-04-09 23:38:07 UTC
   user:
     username: sawyer
     firstname: Sawyer

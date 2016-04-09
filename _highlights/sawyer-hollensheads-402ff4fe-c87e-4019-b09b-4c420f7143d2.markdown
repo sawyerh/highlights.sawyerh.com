@@ -6,7 +6,7 @@ position: 297
 book_uuid: 3f2f18a4-0b65-493d-afe7-23a61417cb99
 comments:
 - body: 'Amen, Mike Monterio. '
-  date: 2013-04-27 23:47:39.000000000 Z
+  date: 2013-04-27 23:47:39 UTC
   user:
     username: sawyer
     firstname: Sawyer

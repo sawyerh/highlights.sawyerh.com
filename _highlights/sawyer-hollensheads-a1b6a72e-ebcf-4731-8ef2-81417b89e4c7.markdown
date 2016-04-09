@@ -6,7 +6,7 @@ position: 327
 book_uuid: a6f185d8-5868-4f55-b3ed-84129a680280
 comments:
 - body: 'Ahem, Gazette. '
-  date: 2013-12-15 20:46:02.000000000 Z
+  date: 2013-12-15 20:46:02 UTC
   user:
     username: sawyer
     firstname: Sawyer
@@ -17,7 +17,7 @@ comments:
     description: ''
     avatar: assets/avatars/sawyer.jpg
 - body: 'Ahem, Gazette. '
-  date: 2013-12-15 20:46:02.000000000 Z
+  date: 2013-12-15 20:46:02 UTC
   user:
     username: sawyer
     firstname: Sawyer

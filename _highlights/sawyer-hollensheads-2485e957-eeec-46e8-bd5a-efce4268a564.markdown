@@ -6,7 +6,7 @@ position: 286
 book_uuid: c50a38b0-9316-4073-b260-c6118bd85772
 comments:
 - body: Todo
-  date: 2013-04-16 03:03:57.000000000 Z
+  date: 2013-04-16 03:03:57 UTC
   user:
     username: sawyer
     firstname: Sawyer

@@ -6,7 +6,7 @@ position: 308
 book_uuid: c50a38b0-9316-4073-b260-c6118bd85772
 comments:
 - body: 'The Believer - Renata Adler '
-  date: 2013-04-16 03:22:49.000000000 Z
+  date: 2013-04-16 03:22:49 UTC
   user:
     username: sawyer
     firstname: Sawyer

@@ -6,7 +6,7 @@ position: 277
 book_uuid: 9197a3dc-7559-4fdc-ba86-80b37e29aa54
 comments:
 - body: 'Not quite there yet. '
-  date: 2014-01-03 23:55:00.000000000 Z
+  date: 2014-01-03 23:55:00 UTC
   user:
     username: sawyer
     firstname: Sawyer

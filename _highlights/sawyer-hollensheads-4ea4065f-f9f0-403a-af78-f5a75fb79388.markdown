@@ -6,7 +6,7 @@ position: 306
 book_uuid: c50a38b0-9316-4073-b260-c6118bd85772
 comments:
 - body: 'The Great Discontent: Sara Blake'
-  date: 2013-04-16 02:57:41.000000000 Z
+  date: 2013-04-16 02:57:41 UTC
   user:
     username: sawyer
     firstname: Sawyer

@@ -6,7 +6,7 @@ position: 325
 book_uuid: a12b5e92-f8b9-49ab-a220-17b553104de3
 comments:
 - body: James Victore
-  date: 2013-06-16 15:00:38.000000000 Z
+  date: 2013-06-16 15:00:38 UTC
   user:
     username: sawyer
     firstname: Sawyer

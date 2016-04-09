@@ -7,7 +7,7 @@ book_uuid: b2499438-a7be-4d48-aac8-8c21fb3963a5
 comments:
 - body: "Web Privacy, and How Consumers Let Down Their Guard\n        \n      \n      \n
     \       by SOMINI SENGUPTA\n      \n      \n        \n        \n          nytimes.com"
-  date: 2013-04-07 11:05:44.000000000 Z
+  date: 2013-04-07 11:05:44 UTC
   user:
     username: sawyer
     firstname: Sawyer

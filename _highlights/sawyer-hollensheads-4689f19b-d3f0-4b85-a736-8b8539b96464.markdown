@@ -6,7 +6,7 @@ position: 299
 book_uuid: aa923242-9a94-4f1e-ad57-d9669c3d9633
 comments:
 - body: '"The Bitcoin of the Realm" - by Paul Ford'
-  date: 2013-03-30 03:07:13.000000000 Z
+  date: 2013-03-30 03:07:13 UTC
   user:
     username: sawyer
     firstname: Sawyer

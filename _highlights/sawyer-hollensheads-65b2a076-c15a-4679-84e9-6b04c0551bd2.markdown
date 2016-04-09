@@ -6,7 +6,7 @@ position: 313
 book_uuid: a2a9f247-4e4e-4c7f-b3a8-8da7565e54f9
 comments:
 - body: 'Orson Welles '
-  date: 2013-05-04 21:17:24.000000000 Z
+  date: 2013-05-04 21:17:24 UTC
   user:
     username: sawyer
     firstname: Sawyer

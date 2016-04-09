@@ -6,7 +6,7 @@ position: 352
 book_uuid: b2499438-a7be-4d48-aac8-8c21fb3963a5
 comments:
 - body: Mark Zuckerberg
-  date: 2013-04-07 11:43:29.000000000 Z
+  date: 2013-04-07 11:43:29 UTC
   user:
     username: sawyer
     firstname: Sawyer

@@ -7,7 +7,7 @@ book_uuid: b2499438-a7be-4d48-aac8-8c21fb3963a5
 comments:
 - body: Mark Zuckerberg on Facebook Home, Money, and the Future of Communication |
     Wired Magazine
-  date: 2013-04-09 23:30:29.000000000 Z
+  date: 2013-04-09 23:30:29 UTC
   user:
     username: sawyer
     firstname: Sawyer

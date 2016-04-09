@@ -6,7 +6,7 @@ position: 330
 book_uuid: 1cdcbb53-141e-4002-be8b-3c755a14e1bb
 comments:
 - body: Mac Miller
-  date: 2013-06-22 02:30:36.000000000 Z
+  date: 2013-06-22 02:30:36 UTC
   user:
     username: sawyer
     firstname: Sawyer

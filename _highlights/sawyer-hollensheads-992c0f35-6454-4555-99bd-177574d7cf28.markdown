@@ -6,7 +6,7 @@ position: 323
 book_uuid: 0ef94472-57e9-4700-9040-320279544c19
 comments:
 - body: Can you provide some context for this? Not sure if I agree with it.
-  date: 2013-10-28 09:33:50.000000000 Z
+  date: 2013-10-28 09:33:50 UTC
   user:
     username: milesalex
     firstname: Alex

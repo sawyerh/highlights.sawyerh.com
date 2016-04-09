@@ -5,7 +5,7 @@ position: 351
 book_uuid: 05faaa68-3ab3-4200-8bb9-5a9a70079a44
 comments:
 - body: Alan Kay
-  date: 2013-06-01 13:47:42.000000000 Z
+  date: 2013-06-01 13:47:42 UTC
   user:
     username: sawyer
     firstname: Sawyer

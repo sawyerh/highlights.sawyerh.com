@@ -5,7 +5,7 @@ position: 388
 book_uuid: dd797cf3-437d-4237-b1ae-728102f6b82d
 comments:
 - body: Same
-  date: 2014-01-30 02:10:32.000000000 Z
+  date: 2014-01-30 02:10:32 UTC
   user:
     username: sawyer
     firstname: Sawyer

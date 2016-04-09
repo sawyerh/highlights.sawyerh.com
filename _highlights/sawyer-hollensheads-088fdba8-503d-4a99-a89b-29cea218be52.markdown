@@ -6,7 +6,7 @@ position: 271
 book_uuid: 877e6a33-be12-42f9-80c6-64484c407db0
 comments:
 - body: Frank Chimero × Blog × Let’s Talk About Timeless Design
-  date: 2013-03-23 14:57:30.000000000 Z
+  date: 2013-03-23 14:57:30 UTC
   user:
     username: sawyer
     firstname: Sawyer

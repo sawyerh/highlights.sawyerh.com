@@ -6,7 +6,7 @@ position: 349
 book_uuid: 9197a3dc-7559-4fdc-ba86-80b37e29aa54
 comments:
 - body: 'NYC used to have a pneumatic tube system for mail but abandoned it. '
-  date: 2014-01-04 00:02:40.000000000 Z
+  date: 2014-01-04 00:02:40 UTC
   user:
     username: sawyer
     firstname: Sawyer
