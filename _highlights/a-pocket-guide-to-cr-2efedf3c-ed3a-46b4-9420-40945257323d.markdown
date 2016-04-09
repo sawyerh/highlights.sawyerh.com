@@ -5,7 +5,7 @@ position: 12
 book_uuid: 93faa52a-a9a0-4f44-ade6-b55f701237fd
 comments:
 - body: Symbolset
-  date: '2013-02-20T03:57:16Z'
+  date: 2013-02-20 03:57:16.000000000 Z
   user:
     username: sawyer
     firstname: Sawyer
@@ -17,8 +17,8 @@ comments:
     avatar: assets/avatars/sawyer.jpg
 location: '0.523332'
 source: readmill
-touch: true
-highlighted_on: '2013-02-20T03:57:16.000Z'
+touch: false
+highlighted_on: 2013-02-20 03:57:16.000000000 Z
 ---
 
 It is the best all-round secret that no one knows about

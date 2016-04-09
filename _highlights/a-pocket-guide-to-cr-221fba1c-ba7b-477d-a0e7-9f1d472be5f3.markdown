@@ -6,8 +6,8 @@ position: 11
 book_uuid: 93faa52a-a9a0-4f44-ade6-b55f701237fd
 location: '0.509254'
 source: readmill
-touch: true
-highlighted_on: '2013-01-26T14:43:24.000Z'
+touch: false
+highlighted_on: 2013-01-26 14:43:24.000000000 Z
 highlight_by:
   username: gareth_redfern
   firstname: Gareth
