@@ -5,7 +5,7 @@ date: 2016-04-09 18:16:00.600000000 -04:00
 book_uuid: 3644764c-0621-4460-871a-4e46e27eec32
 comments:
 - body: George Clooney
-  date: 2013-12-11 05:08:33.000000000 Z
+  date: 2013-12-11 05:08:33 UTC
   user:
     username: sawyer
     firstname: Sawyer

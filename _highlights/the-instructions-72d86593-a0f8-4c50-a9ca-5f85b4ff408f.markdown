@@ -5,7 +5,7 @@ date: 2016-04-09 18:16:00.600000000 -04:00
 book_uuid: d20d1ba2-d6c2-4fe1-94ce-5430fdb14055
 comments:
 - body: A+++
-  date: 2013-02-22 04:53:12.000000000 Z
+  date: 2013-02-22 04:53:12 UTC
   user:
     username: tealtan
     firstname: Allen

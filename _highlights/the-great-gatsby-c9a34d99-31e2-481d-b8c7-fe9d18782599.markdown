@@ -6,7 +6,7 @@ position: 415
 book_uuid: 363285bc-c668-47b6-986a-fb3a45a456b0
 comments:
 - body: 'Personal analysis '
-  date: 2012-08-23 23:58:37.000000000 Z
+  date: 2012-08-23 23:58:37 UTC
   user:
     username: Jotweet
     firstname: Josiah
