@@ -6,7 +6,7 @@ position: 245
 book_uuid: 0ad0d9b9-7259-4e7a-8e99-10d91fc62e48
 comments:
 - body: The Slow Web
-  date: 2012-12-09 04:55:03.000000000 Z
+  date: 2012-12-09 04:55:03 UTC
   user:
     username: sawyer
     firstname: Sawyer

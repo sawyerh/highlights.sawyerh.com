@@ -8,7 +8,7 @@ comments:
 - body: 'Note to self: this feeling is familiar, and I have not felt this strength
     of following my true passions for a good while now. I must begin on the path once
     again.'
-  date: 2013-03-16 21:53:10.000000000 Z
+  date: 2013-03-16 21:53:10 UTC
   user:
     username: jgl
     firstname: John

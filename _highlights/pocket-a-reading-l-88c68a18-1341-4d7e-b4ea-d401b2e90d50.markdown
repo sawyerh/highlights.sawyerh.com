@@ -6,7 +6,7 @@ position: 250
 book_uuid: f8c7e4d5-1bd1-4bd2-83d5-62b712ec2ecf
 comments:
 - body: Louis C.K.
-  date: 2013-12-05 02:03:33.000000000 Z
+  date: 2013-12-05 02:03:33 UTC
   user:
     username: sawyer
     firstname: Sawyer

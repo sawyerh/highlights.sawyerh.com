@@ -5,7 +5,7 @@ position: 260
 book_uuid: b317b3f6-b19e-4f20-a710-fa2efc258295
 comments:
 - body: Yes.
-  date: 2014-02-07 02:14:29.000000000 Z
+  date: 2014-02-07 02:14:29 UTC
   user:
     username: lamar
     firstname: Lamar

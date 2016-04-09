@@ -6,7 +6,7 @@ position: 246
 book_uuid: 0ad0d9b9-7259-4e7a-8e99-10d91fc62e48
 comments:
 - body: Everything in its Right Pace
-  date: 2012-12-17 03:53:11.000000000 Z
+  date: 2012-12-17 03:53:11 UTC
   user:
     username: sawyer
     firstname: Sawyer

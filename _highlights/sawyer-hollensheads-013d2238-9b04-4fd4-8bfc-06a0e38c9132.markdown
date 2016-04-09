@@ -7,7 +7,7 @@ book_uuid: a2a9f247-4e4e-4c7f-b3a8-8da7565e54f9
 comments:
 - body: "I'm still here: back online after a year without the internet\n        \n
     \     \n      \n        by Paul Miller"
-  date: 2013-05-04 16:36:21.000000000 Z
+  date: 2013-05-04 16:36:21 UTC
   user:
     username: sawyer
     firstname: Sawyer
@@ -18,7 +18,7 @@ comments:
     description: ''
     avatar: assets/avatars/sawyer.jpg
 - body: Such a great article!!
-  date: 2013-05-04 19:10:19.000000000 Z
+  date: 2013-05-04 19:10:19 UTC
   user:
     username: henrik
     firstname: Henrik
