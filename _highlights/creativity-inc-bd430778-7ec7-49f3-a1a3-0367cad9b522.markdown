@@ -5,8 +5,8 @@ position: 101
 book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
 location: 'Chapter 6: Fear and Failure'
 source: ibooks
-touch: true
-highlighted_on: '2015-08-01T04:00:00.000Z'
+touch: false
+highlighted_on: 2015-08-01 04:00:00.000000000 Z
 ---
 
 Be patient. Be authentic. And be consistent.

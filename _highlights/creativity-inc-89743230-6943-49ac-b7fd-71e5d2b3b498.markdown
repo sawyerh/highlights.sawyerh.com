@@ -5,8 +5,8 @@ position: 92
 book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
 location: 'Chapter 8: Change and Randomness'
 source: ibooks
-touch: true
-highlighted_on: '2015-09-13T04:00:00.000Z'
+touch: false
+highlighted_on: 2015-09-13 04:00:00.000000000 Z
 ---
 
 Occam’s Razor, attributed to William of Ockham, a fourteenth-century English logician. On the most basic level, it says that if there are competing explanations for why something occurs the way it does, you should pick the one that relies on the fewest assumptions and is thus the simplest

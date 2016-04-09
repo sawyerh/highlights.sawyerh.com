@@ -6,8 +6,8 @@ position: 48
 book_uuid: 307e8c35-0ddd-4738-ad74-cf9d2e4f8605
 location: 'Chapter Ten: Fat of the Land'
 source: ibooks
-touch: true
-highlighted_on: '2015-12-29T00:00:00.000Z'
+touch: false
+highlighted_on: 2015-12-29 00:00:00.000000000 Z
 ---
 
 I told him I would be visiting Dragon City, the popular name of the Chinese border enclave in Oshikango.

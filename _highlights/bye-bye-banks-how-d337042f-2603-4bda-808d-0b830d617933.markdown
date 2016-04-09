@@ -6,8 +6,8 @@ position: 35
 book_uuid: f5de12dd-6d51-40a8-9ae7-ab25015ce46b
 location: '5. INTRODUCING A BETA BANK:'
 source: ibooks
-touch: true
-highlighted_on: '2015-11-23T00:00:00.000Z'
+touch: false
+highlighted_on: 2015-11-23 00:00:00.000000000 Z
 ---
 
 Patty McCord, who was chief talent officer at Netflix from 1998 to 2012, wrote in an article for HBR34: ‘The best thing you can do for employees is hire only “A” players to work alongside them. Excellent colleagues trump everything else.’ To support this belief the company also has a rich severance package that allows it to discharge people who don’t cut it as A players.

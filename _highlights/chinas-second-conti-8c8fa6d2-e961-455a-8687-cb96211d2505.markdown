@@ -8,8 +8,8 @@ comments:
 - body: Or drone routes.
 location: 'Chapter Eight: Ghana: Habits of Democracy'
 source: ibooks
-touch: true
-highlighted_on: '2015-11-14T00:00:00.000Z'
+touch: false
+highlighted_on: 2015-11-14 00:00:00.000000000 Z
 ---
 
 you go to some parts of Ghana and people have given up on farming because they have no roads. This is a big waste. If Ghana gets roads, they will be able to farm and earn money and this will allow them to develop

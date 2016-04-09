@@ -6,8 +6,8 @@ position: 31
 book_uuid: f5de12dd-6d51-40a8-9ae7-ab25015ce46b
 location: 6. SUMMARY
 source: ibooks
-touch: true
-highlighted_on: '2015-11-24T00:00:00.000Z'
+touch: false
+highlighted_on: 2015-11-24 00:00:00.000000000 Z
 ---
 
 This is how the scenario plays out: first, the banks are displaced by new entrants offering better customer experiences and price. Then their revenues are diminished, as they’re relegated to a position of an undifferentiated utility in an environment with higher rates of switching. Finally, the arrival of a new technology, like the blockchain, challenges the banks’ core competency, as the new players bypass their services, disintermediating them entirely.
