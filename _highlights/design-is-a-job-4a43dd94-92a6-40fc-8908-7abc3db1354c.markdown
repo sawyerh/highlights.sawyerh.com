@@ -6,7 +6,7 @@ position: 133
 book_uuid: 0a8ccbc8-7a1d-41de-9acb-a33fe8e7c691
 comments:
 - body: This is by far his best quote from the book.
-  date: 2012-09-02 03:00:52.000000000 Z
+  date: 2012-09-02 03:00:52 UTC
   user:
     username: sawyer
     firstname: Sawyer

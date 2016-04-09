@@ -5,7 +5,7 @@ position: 127
 book_uuid: 4459e9c5-f0a9-4e41-95b1-328503183e31
 comments:
 - body: Jean-Michel Basquiat
-  date: 2013-01-27 05:12:43.000000000 Z
+  date: 2013-01-27 05:12:43 UTC
   user:
     username: sawyer
     firstname: Sawyer
