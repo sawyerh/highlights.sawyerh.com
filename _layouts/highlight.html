@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+{% assign highlight = page %}
+{% assign books = site.books | where:"uuid", page.book_uuid %}
+{% assign book = books.first %}
+
+<a href="/" class="ss-icon home-button">close</a>
+
+<div class="book">
+  {% include book_header.html %}
+  {% include highlight.html %}
+</div>

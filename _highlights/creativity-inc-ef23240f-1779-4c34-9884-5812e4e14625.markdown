@@ -1,0 +1,13 @@
+---
+title: 'Creativity Inc: I often say that managers of creative enterprises must hold
+  …'
+date: 2016-04-09 18:16:00.600000000 -04:00
+position: 114
+book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
+location: 'Chapter 7: The Hungry Beast and the Ugly Baby'
+source: ibooks
+touch: false
+highlighted_on: 2015-09-13 04:00:00.000000000 Z
+---
+
+I often say that managers of creative enterprises must hold lightly to goals and firmly to intentions. What does that mean? It means that we must be open to having our goals change as we learn new information or are surprised by things we thought we knew but didn’t. As long as our intentions—our values—remain constant, our goals can shift as needed.

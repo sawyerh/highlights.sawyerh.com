@@ -1,0 +1,21 @@
+---
+title: 'ReWork: A business without a path to profit isn’t a business, it’s a…'
+date: 2016-04-09 18:16:00.600000000 -04:00
+position: 263
+book_uuid: b317b3f6-b19e-4f20-a710-fa2efc258295
+location: 
+source: readmill
+touch: false
+highlighted_on: 2010-09-06 00:00:00.000000000 Z
+highlight_by:
+  username: danielkirsch
+  firstname: Daniel
+  lastname: Kirsch
+  country: Germany
+  city: Münster
+  website: http://kirelabs.org
+  description: ''
+  avatar: assets/avatars/danielkirsch.jpg
+---
+
+A business without a path to profit isn’t a business, it’s a hobby.

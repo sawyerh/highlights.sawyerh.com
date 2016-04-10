@@ -1,0 +1,12 @@
+---
+title: '1984: One does not establish a dictatorship in order to safeguard …'
+date: 2016-04-09 18:16:00.600000000 -04:00
+position: 9
+book_uuid: 9139ec85-ba74-4611-b129-15774149e1c7
+location: '0.848623'
+source: readmill
+touch: false
+highlighted_on: 2013-02-09 05:27:22.000000000 Z
+---
+
+One does not establish a dictatorship in order to safeguard a revolution; one makes the revolution in order to establish the dictatorship

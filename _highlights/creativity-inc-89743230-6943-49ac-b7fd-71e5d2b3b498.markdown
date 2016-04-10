@@ -1,0 +1,12 @@
+---
+title: 'Creativity Inc: Occam’s Razor, attributed to William of Ockham, a fourteenth…'
+date: 2016-04-09 18:16:00.600000000 -04:00
+position: 92
+book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
+location: 'Chapter 8: Change and Randomness'
+source: ibooks
+touch: false
+highlighted_on: 2015-09-13 04:00:00.000000000 Z
+---
+
+Occam’s Razor, attributed to William of Ockham, a fourteenth-century English logician. On the most basic level, it says that if there are competing explanations for why something occurs the way it does, you should pick the one that relies on the fewest assumptions and is thus the simplest

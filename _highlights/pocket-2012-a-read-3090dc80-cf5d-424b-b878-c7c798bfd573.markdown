@@ -1,0 +1,25 @@
+---
+title: 'Pocket 2012 - A Read: The danger of an idea like this is that when you run
+  it by y…'
+date: 2016-04-09 18:16:00.600000000 -04:00
+position: 230
+book_uuid: 0ad0d9b9-7259-4e7a-8e99-10d91fc62e48
+comments:
+- body: Sitcom Startup. Paul Graham - Coming up with startup ideas
+  date: 2012-12-31 22:52:16 UTC
+  user:
+    username: sawyer
+    firstname: Sawyer
+    lastname: Hollenshead
+    country: USA
+    city: Brooklyn
+    website: ''
+    description: ''
+    avatar: assets/avatars/sawyer.jpg
+location: '0.817711'
+source: readmill
+touch: false
+highlighted_on: 2012-12-31 22:52:16.000000000 Z
+---
+
+The danger of an idea like this is that when you run it by your friends with pets, they don't say "I would never use this." They say "Yeah, maybe I could see using something like that." Even when the startup launches, it will sound plausible to a lot of people. They don't want to use it themselves, at least not right now, but they could imagine other people wanting it. Sum that reaction across the entire population, and you have zero users.

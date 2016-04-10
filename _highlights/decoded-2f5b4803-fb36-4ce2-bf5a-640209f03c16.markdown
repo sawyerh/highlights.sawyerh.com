@@ -1,0 +1,12 @@
+---
+title: 'Decoded: It was going to be raw and aggressive, but also witty and sl…'
+date: 2016-04-09 18:16:00.600000000 -04:00
+position: 119
+book_uuid: 4459e9c5-f0a9-4e41-95b1-328503183e31
+location: '0.0448808'
+source: readmill
+touch: false
+highlighted_on: 2012-09-02 03:21:18.000000000 Z
+---
+
+It was going to be raw and aggressive, but also witty and slick. It was going to boast and compete and exaggerate. But it was also going to care enough to get the details right about our aspirations and our crumb-snatching struggles, our specific, small realities (chicken and collard greens) and our living-color dreamscapes (big long Caddy). It was going to be real

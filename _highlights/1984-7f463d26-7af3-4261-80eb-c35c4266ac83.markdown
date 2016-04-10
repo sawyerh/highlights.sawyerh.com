@@ -1,0 +1,24 @@
+---
+title: '1984: Take "good", for instance. If you have a word like "good", w…'
+date: 2016-04-09 18:16:00.600000000 -04:00
+position: 8
+book_uuid: 9139ec85-ba74-4611-b129-15774149e1c7
+comments:
+- body: 'Taking simplicity too far. '
+  date: 2012-12-18 04:30:51 UTC
+  user:
+    username: sawyer
+    firstname: Sawyer
+    lastname: Hollenshead
+    country: USA
+    city: Brooklyn
+    website: ''
+    description: ''
+    avatar: assets/avatars/sawyer.jpg
+location: '0.198866'
+source: readmill
+touch: false
+highlighted_on: 2012-12-18 04:30:51.000000000 Z
+---
+
+Take "good", for instance. If you have a word like "good", what need is there for a word like "bad"? "Ungood" will do just as well—better, because it's an exact opposite, which the other is not. Or again, if you want a stronger version of "good", what sense is there in having a whole string of vague useless words like "excellent" and "splendid" and all the rest of them? "Plusgood" covers the meaning; or "doubleplusgood" if you want something stronger still. Of course we use those forms already, but in the final version of Newspeak there'll be nothing else. In the end the whole notion of goodness and badness will be covered by only six words—in reality, only one word. Don't you see the beauty of that, Winston?

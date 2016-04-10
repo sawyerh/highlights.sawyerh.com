@@ -1,0 +1,12 @@
+---
+title: '1984: Actually he was not used to writing by hand. Apart from very…'
+date: 2016-03-09 10:26:10.647000000 -05:00
+position: 6
+book_uuid: 9139ec85-ba74-4611-b129-15774149e1c7
+location: '0.0602508'
+source: readmill
+touch: false
+highlighted_on: 2012-12-17 02:23:13.000000000 Z
+---
+
+Actually he was not used to writing by hand. Apart from very short notes, it was usual to dictate everything into the speak-write, which was of course impossible for his present purpose.

@@ -1,0 +1,12 @@
+---
+title: 'Creativity Inc: There’s a quick way to determine if your company has embrace…'
+date: 2016-04-09 18:16:00.600000000 -04:00
+position: 94
+book_uuid: a1351c21-deba-45a0-9ec2-6322200c1753
+location: 'Chapter 6: Fear and Failure'
+source: ibooks
+touch: false
+highlighted_on: 2015-08-01 04:00:00.000000000 Z
+---
+
+There’s a quick way to determine if your company has embraced the negative definition of failure. Ask yourself what happens when an error is discovered. Do people shut down and turn inward, instead of coming together to untangle the causes of problems that might be avoided going forward? Is the question being asked: Whose fault was this? If so, your culture is one that vilifies failure. Failure is difficult enough without it being compounded by the search for a scapegoat.

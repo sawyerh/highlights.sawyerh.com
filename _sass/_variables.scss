@@ -1,0 +1,24 @@
+$bg_default: #1a1a1f;
+$bg_dark: #000;
+$border_color: lighten($bg_default, 5%);
+$colors: "#ff8a80", "#ff80ab", "#ea80fc", "#b388ff", "#8c9eff", "#82b1ff", "#80d8ff", "#84ffff", "#a7ffeb", "#b9f6ca", "#ccff90", "#f4ff81", "#ffff8d", "#ffe57f", "#ffd180", "#ff9e80";
+
+// TYPE
+// ========================================================
+$text_default: #fff;
+$text_faded: #919BA0;
+$serif: "freight-text-pro"; //"freight-sans-pro";
+$sans_condensed: "acumin-pro-extra-condensed"; //"freight-display-pro";
+$sans: "acumin-pro";
+$font_size_default: 18px;
+
+// Dimensions
+// ========================================================
+$h_nav: 60px;
+$gutter: 30px;
+$max_highlight_width: 450px;
+
+
+// Breakpoints
+// ========================================================
+$bp_small_screen: 600px;
