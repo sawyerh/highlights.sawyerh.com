@@ -322,7 +322,6 @@ button{
   @include min-width(500px){
     .collection__highlights &, .collection__books &{
       padding: 25px 30px;
-      font-size: $font_size_default + 4;
     }
   }
 }
