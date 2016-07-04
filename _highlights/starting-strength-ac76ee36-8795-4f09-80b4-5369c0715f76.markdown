@@ -1,0 +1,9 @@
+---
+title: 'Starting Strength: not only is a straight line the shortest distance between
+  tw…'
+book_uuid: 4aeeb7df-d85b-4a50-9dec-a948b1321f9e
+location: 328-330
+source: kindle
+---
+
+not only is a straight line the shortest distance between two points, but a straight vertical line is also the most efficient bar path for a barbell moving through space in a gravitational framework.
