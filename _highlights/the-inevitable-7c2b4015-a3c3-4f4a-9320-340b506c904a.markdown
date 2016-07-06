@@ -1,0 +1,8 @@
+---
+title: 'The Inevitable: While millions of writers contribute to Wikipedia, a smaller…'
+book_uuid: 56b3ef73-d980-4e42-8798-d34eec8ad688
+location: 2141-2144
+source: kindle
+---
+
+While millions of writers contribute to Wikipedia, a smaller number of editors (around 1,500) are responsible for the majority of the editing. Ditto for collectives that write code. A vast army of contributions is managed by a much smaller group of coordinators. As Mitch Kapor, founding chair of the Mozilla open source code factory, observed, “Inside every working anarchy, there’s an old-boy network.”
