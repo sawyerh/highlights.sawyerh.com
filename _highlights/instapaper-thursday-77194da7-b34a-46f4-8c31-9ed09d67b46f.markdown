@@ -1,7 +1,7 @@
 ---
 title: 'Instapaper: Thursday: Those who benefit from the death of privacy attempt
   to frame…'
-book_uuid: 2de71c1f-de4b-4d3b-a298-b46a182ff9bd
+book_uuid: 1de71c1f-de4b-4d3b-a298-b46a182ff9bc
 location: 620-625
 source: kindle
 ---
