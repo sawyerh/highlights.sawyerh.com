@@ -1,8 +1,0 @@
----
-title: 'The Inevitable: Way back in 1971 Herbert Simon, a Nobel Prize–winning social…'
-book_uuid: 56b3ef73-d980-4e42-8798-d34eec8ad688
-location: 2502-2505
-source: kindle
----
-
-Way back in 1971 Herbert Simon, a Nobel Prize–winning social scientist, observed, “In an information-rich world, the wealth of information means a dearth of something else: a scarcity of whatever it is that information consumes. What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention.” Simon’s insight is often reduced to “In a world of abundance, the only scarcity is human attention.”

@@ -1,9 +1,0 @@
----
-title: 'The Inevitable: Not coincidentally, humans excel at creating and consuming
-  e…'
-book_uuid: 56b3ef73-d980-4e42-8798-d34eec8ad688
-location: 2717-2720
-source: kindle
----
-
-Not coincidentally, humans excel at creating and consuming experiences. This is no place for robots. If you want a glimpse of what we humans do when the robots take our current jobs, look at experiences. That’s where we’ll spend our money (because they won’t be free) and that’s where we’ll make our money. We’ll use technology to produce commodities, and we’ll make experiences in order to avoid becoming a commodity ourselves.
