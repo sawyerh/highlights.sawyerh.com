@@ -6,7 +6,7 @@
   {% assign books = site.books | where: 'is_featured', true | sort: 'date' %}
 
   <channel>
-    <title>{{ site.name | xml_escape }} - Featured Highlights</title>
+    <title>Featured Highlights</title>
     <link>{{ site.url }}</link>
 
     <atom:link href="{{ site.url }}/{{ page.path }}" rel="self" type="application/rss+xml" />
@@ -18,8 +18,7 @@
             {{ book.title | xml_escape }}
             {% if highlight.location and highlight.location != 'No title' %}- {{ highlight.location }}{% endif %}
           </title>
-          <description>{{ highlight.content | xml_escape }}</description>
-          <pubDate>{{ highlight.date | date_to_rfc822 }}</pubDate>
+          <description>{{ highlight.content }}</description>
           <link>{{ site.url }}{{ highlight.url }}</link>
           <guid isPermaLink="true">{{ site.url }}{{ highlight.url }}</guid>
         </item>
