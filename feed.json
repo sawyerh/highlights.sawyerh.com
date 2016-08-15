@@ -1,5 +1,6 @@
 ---
 ---
+
 {% capture output %}
   {% assign books = site.books | where: 'is_featured', true | sort: 'date' %}
   [
