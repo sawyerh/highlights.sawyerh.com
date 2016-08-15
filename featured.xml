@@ -11,9 +11,8 @@
     <link>{{ site.url }}</link>
     <atom:link href="{{ site.url }}/{{ page.path }}" rel="self" type="application/rss+xml" />
     {% for book in books %}
-      {% assign highlights = site.highlights | where:"book_uuid", book.uuid %}
-      {% assign sorted_highlights = highlights | sort: 'highlighted_on' %}
-      {% for highlight in sorted_highlights %}
+      {% assign highlights = site.highlights | where:"book_uuid", book.uuid | sort: 'highlighted_on' %}
+      {% for highlight in highlights %}
         <item>
           <title>
             {{ book.title | xml_escape }}
