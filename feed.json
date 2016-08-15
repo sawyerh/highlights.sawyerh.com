@@ -1,0 +1,17 @@
+---
+---
+{% capture output %}
+  {% assign books = site.books | where: 'is_featured', true | sort: 'date' %}
+  [
+    {% for book in books %}
+      {% assign highlights = site.highlights | where:"book_uuid", book.uuid | sort: 'highlighted_on' %}
+      {% for highlight in highlights %}
+        {
+          book_title: {{ book.title | jsonify }},
+          content: {{ highlight.content | jsonify }},
+          location: {{ highlight.location | jsonify }}
+        },
+      {% endfor %}
+    {% endfor %}
+  ]
+{% endcapture %}{{ output | strip_newlines }}
