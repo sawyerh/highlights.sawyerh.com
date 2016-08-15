@@ -7,8 +7,8 @@
 
   <channel>
     <title>{{ site.name | xml_escape }} - Featured Highlights</title>
-    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
     <link>{{ site.url }}</link>
+
     <atom:link href="{{ site.url }}/{{ page.path }}" rel="self" type="application/rss+xml" />
     {% for book in books %}
       {% assign highlights = site.highlights | where:"book_uuid", book.uuid | sort: 'highlighted_on' %}
