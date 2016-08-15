@@ -5,13 +5,14 @@
   {% assign books = site.books | where: 'is_featured', true | sort: 'date' %}
   [
     {% for book in books %}
+      {% assign book_loop_last = forloop.last %}
       {% assign highlights = site.highlights | where:"book_uuid", book.uuid | sort: 'highlighted_on' %}
       {% for highlight in highlights %}
         {
-          book_title: {{ book.title | jsonify }},
-          content: {{ highlight.content | jsonify }},
-          location: {{ highlight.location | jsonify }}
-        },
+          "book_title": {{ book.title | jsonify }},
+          "content": {{ highlight.content | jsonify }},
+          "location": {{ highlight.location | jsonify }}
+        }{% unless forloop.last and book_loop_last %},{% endunless %}
       {% endfor %}
     {% endfor %}
   ]
