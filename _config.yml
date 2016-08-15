@@ -1,7 +1,6 @@
 ---
 title: Highlights
 timezone: America/New_York
-url: 'http://highlights.sawyerh.com'
 collections:
   books:
     title: Books
@@ -26,6 +25,7 @@ defaults:
     type: books
   values:
     layout: book
+url: http://highlights.sawyerh.com
 sass:
   style: compressed
 permalinks: pretty
