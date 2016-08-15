@@ -18,7 +18,7 @@
             {{ book.title | xml_escape }}
             {% if highlight.location and highlight.location != 'No title' %}- {{ highlight.location }}{% endif %}
           </title>
-          <description>{{ highlight.content | xml_escape }}</description>
+          <description>{{ highlight.content }}</description>
           <pubDate>{{ highlight.date | date_to_rfc822 }}</pubDate>
           <link>{{ site.url }}{{ highlight.url }}</link>
           <guid isPermaLink="true">{{ site.url }}{{ highlight.url }}</guid>
