@@ -10,7 +10,7 @@
       {% for highlight in highlights %}
         {
           "book_title": {{ book.title | jsonify }},
-          "content": {{ highlight.content | jsonify }},
+          "content": {{ highlight.content | strip_html | jsonify }},
           "location": {{ highlight.location | jsonify }}
         }{% unless forloop.last and book_loop_last %},{% endunless %}
       {% endfor %}
