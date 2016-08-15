@@ -6,7 +6,7 @@
   {% assign books = site.books | where: 'is_featured', true | sort: 'date' %}
 
   <channel>
-    <title>{{ site.name | xml_escape }} - Featured Highlights</title>
+    <title>Featured Highlights</title>
     <link>{{ site.url }}</link>
 
     <atom:link href="{{ site.url }}/{{ page.path }}" rel="self" type="application/rss+xml" />
