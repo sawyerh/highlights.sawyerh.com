@@ -25,6 +25,7 @@ defaults:
     type: books
   values:
     layout: book
+    amazon: false
 url: http://highlights.sawyerh.com
 sass:
   style: compressed
