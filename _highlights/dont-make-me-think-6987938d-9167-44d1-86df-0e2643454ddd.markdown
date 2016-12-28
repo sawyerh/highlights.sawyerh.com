@@ -1,0 +1,9 @@
+---
+title: 'Don''t Make Me Think,: Another needless source of question marks over people’s
+  head…'
+book_uuid: 4c05a002-1dc9-4c1a-b283-cc027b4d306e
+location: '309'
+source: kindle
+---
+
+Another needless source of question marks over people’s heads is links and buttons that aren’t obviously clickable. As a user, I should never have to devote a millisecond of thought to whether things are clickable—or not.

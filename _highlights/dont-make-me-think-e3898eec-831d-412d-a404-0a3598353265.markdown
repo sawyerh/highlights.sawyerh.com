@@ -1,0 +1,9 @@
+---
+title: 'Don''t Make Me Think,: Focus groups can be great for determining what your
+  audience…'
+book_uuid: 4c05a002-1dc9-4c1a-b283-cc027b4d306e
+location: '1467'
+source: kindle
+---
+
+Focus groups can be great for determining what your audience wants, needs, and likes—in the abstract. They’re good for testing whether the idea behind your site makes sense and your value proposition is attractive, to learn more about how people currently solve the problems your site will help them with, and to find out how they feel about you and your competitors. But they’re not good for learning about whether your site works and how to improve it. The kinds of things you learn from focus groups—like whether you’re building the right product—are things you should know before you begin designing or building anything, so focus groups are best used in the planning stages of a project. Usability tests, on the other hand, should be used through the entire process.
