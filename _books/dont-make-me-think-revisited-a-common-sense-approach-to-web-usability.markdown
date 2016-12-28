@@ -6,5 +6,6 @@ author: Steve Krug
 uuid: 4c05a002-1dc9-4c1a-b283-cc027b4d306e
 original_title: 'Don''t Make Me Think, Revisited: A Common Sense Approach to Web Usability'
 is_featured: true
+cover: "/uploads/dont-make-me-think.jpg"
 ---
 
