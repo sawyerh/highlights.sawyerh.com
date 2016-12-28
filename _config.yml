@@ -39,5 +39,3 @@ exclude:
 - package.json
 - webpack.config.js
 - bower.json
-- Gemfile
-- Gemfile.lock
