@@ -1,0 +1,9 @@
+---
+title: 'Atomic Design by Bra: Style guides establish a consistent, shared vocabulary
+  betwe…'
+book_uuid: a8365f29-dea7-458b-96ac-ee9914955a34
+location: '316'
+source: kindle
+---
+
+Style guides establish a consistent, shared vocabulary between everyone involved in a project, encouraging collaboration between disciplines and reducing communication breakdowns.
