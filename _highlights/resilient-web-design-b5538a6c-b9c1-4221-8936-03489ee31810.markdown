@@ -1,0 +1,9 @@
+---
+title: 'Resilient Web Design: XHTML 2.0 died on the vine. Its theoretical purity was
+  round…'
+book_uuid: 11a563c0-5e2c-4ed2-8ae4-df8f7831b5e8
+location: '623'
+source: kindle
+---
+
+XHTML 2.0 died on the vine. Its theoretical purity was roundly rejected by the people who actually made websites for a living. Web designers rightly refused to publish in a format that would fail completely instead of trying to recover from an error. Strange then, that years later, web designers would happily create entire websites using JavaScript, a language that shares XML’s unforgiving error-handling model. They didn’t call them websites. They called them web apps. That distinction was cold comfort to someone who couldn’t complete their task because a service relied on JavaScript for crucial functionality.
