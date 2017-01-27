@@ -1,4 +1,4 @@
-{% assign highlights = site.highlights | where:"book_uuid", book.uuid | sort: 'highlighted_on' %}
+{% assign highlights = site.highlights | where:"book_uuid", book.uuid | custom_sort: 'location' %}
 <div class="book" data-path="{{ book.path }}">
   {% include book_header.html %}
   {% for highlight in highlights %}
