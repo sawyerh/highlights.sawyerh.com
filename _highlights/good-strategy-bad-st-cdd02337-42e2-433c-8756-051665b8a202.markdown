@@ -1,9 +1,0 @@
----
-title: 'Good Strategy Bad St: A “threshold effect” exists when there is a critical
-  level o…'
-book_uuid: 9cfd6e6a-50bd-4c54-b976-fcf4fe3bbe9e
-location: '1845'
-source: kindle
----
-
-A “threshold effect” exists when there is a critical level of effort necessary to affect the system. Levels of effort below this threshold have little payoff. When there are threshold effects, it is prudent to limit objectives to those that can be affected by the resources at the strategist’s disposal. For example, there seems to be a threshold effect in advertising. That is, a very small amount of advertising will produce no result at all. One has to get over this hump, or threshold, to start getting a response to advertising efforts.5

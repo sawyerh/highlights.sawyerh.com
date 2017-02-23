@@ -1,9 +1,0 @@
----
-title: 'Remote: Office Not R: At 37signals, we’ve found that we need a good four hours
-  of …'
-book_uuid: 20af780a-6bf8-4758-8fed-ce4e72735b3d
-location: '611'
-source: kindle
----
-
-At 37signals, we’ve found that we need a good four hours of overlap to avoid collaboration delays and feel like a team.

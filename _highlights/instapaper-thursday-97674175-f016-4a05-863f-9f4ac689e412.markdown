@@ -1,9 +1,0 @@
----
-title: 'Instapaper: Thursday: Reduce regulatory barriers to the private provision
-  of broad…'
-book_uuid: 2de71c1f-de4b-4d3b-a298-b46a182ff9bd
-location: 116-119
-source: kindle
----
-
-Reduce regulatory barriers to the private provision of broadband services: Localities may seek to stimulate more investment by current or new service providers by streamlining permitting processes, allowing nondiscriminatory access to existing infrastructure such as conduits and poles, pursuing “climb once” policies to eliminate delays, or facilitating demand aggregation.

@@ -1,9 +1,0 @@
----
-title: 'Good Strategy Bad St: it is usually quite difficult to convince buyers to
-  pay an u…'
-book_uuid: 9cfd6e6a-50bd-4c54-b976-fcf4fe3bbe9e
-location: '2453'
-source: kindle
----
-
-it is usually quite difficult to convince buyers to pay an up-front premium for future savings, even if the numbers are clear. People tend to be more myopic than economic theory would suggest.

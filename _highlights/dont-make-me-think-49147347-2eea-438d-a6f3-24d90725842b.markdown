@@ -1,9 +1,0 @@
----
-title: 'Don''t Make Me Think,: I’ve always found it useful to imagine that every time
-  we en…'
-book_uuid: 4c05a002-1dc9-4c1a-b283-cc027b4d306e
-location: '2240'
-source: kindle
----
-
-I’ve always found it useful to imagine that every time we enter a Web site, we start out with a reservoir of goodwill. Each problem we encounter on the site lowers the level of that reservoir.

@@ -1,8 +1,0 @@
----
-title: 'The Inevitable: Longer texts require an alphabetic index, devised by the Gre…'
-book_uuid: 56b3ef73-d980-4e42-8798-d34eec8ad688
-location: '2847'
-source: kindle
----
-
-Longer texts require an alphabetic index, devised by the Greeks and later developed for libraries of books. Someday soon with AI we’ll have a way to index the full content of a film. Footnotes, invented in about the 12th century, allow tangential information to be displayed outside the linear argument of the main text. That would be useful in video as well. And bibliographic citations (invented in the 13th century) enable scholars and skeptics to systematically consult sources that influence or clarify the content. Imagine a video with citations.

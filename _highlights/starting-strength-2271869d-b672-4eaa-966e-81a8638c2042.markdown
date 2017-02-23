@@ -1,9 +1,0 @@
----
-title: 'Starting Strength: The back angle largely determines the hip angle, and the
-  bac…'
-book_uuid: 4aeeb7df-d85b-4a50-9dec-a948b1321f9e
-location: 448-449
-source: kindle
----
-
-The back angle largely determines the hip angle, and the back angle enables the hamstrings to contribute more force to the squat.

@@ -1,9 +1,0 @@
----
-title: 'Remote: Office Not R: be very available. Since you can’t meet face-to-face,
-  you be…'
-book_uuid: 20af780a-6bf8-4758-8fed-ce4e72735b3d
-location: '873'
-source: kindle
----
-
-be very available. Since you can’t meet face-to-face, you better return phone calls, emails, instant messages, etc. This is basic business stuff, but it’s tenfold more important when you’re working remotely. It may be irrational but, if you’re local, the client often feels that, if worse comes to worst, they can knock on your door. They “know where you live.” But when you’re remote, they’re going to be more suspicious when phone calls go unreturned or emails keep getting “lost.” Stay on top of communications and you’ll reap the benefits.

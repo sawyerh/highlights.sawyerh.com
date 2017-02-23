@@ -1,9 +1,0 @@
----
-title: 'Don''t Make Me Think,: the right thing to do. And not just the right thing;
-  it’s pr…'
-book_uuid: 4c05a002-1dc9-4c1a-b283-cc027b4d306e
-location: '2388'
-source: kindle
----
-
-the right thing to do. And not just the right thing; it’s profoundly the right thing to do, because the one argument for accessibility that doesn’t get made nearly often enough is how extraordinarily better it makes some people’s lives. Personally, I don’t think anyone should need more than this one example: Blind people with access to a computer can now read almost any newspaper or magazine on their own. Imagine that. How many opportunities do we have to dramatically improve people’s lives just by doing our job a little better?

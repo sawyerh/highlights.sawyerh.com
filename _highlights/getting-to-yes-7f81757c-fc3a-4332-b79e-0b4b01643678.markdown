@@ -1,8 +1,0 @@
----
-title: 'Getting to Yes: If you want the other side to accept a disagreeable conclusi…'
-book_uuid: 865ca763-be40-4d9f-b75c-e64bcfac2c58
-location: '488'
-source: kindle
----
-
-If you want the other side to accept a disagreeable conclusion, it is crucial that you involve them in the process of reaching that conclusion.

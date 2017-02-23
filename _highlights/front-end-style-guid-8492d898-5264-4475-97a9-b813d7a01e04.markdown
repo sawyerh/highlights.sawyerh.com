@@ -1,9 +1,0 @@
----
-title: 'Front-end Style Guid: The term pattern library is sometimes used when discussing
-  s…'
-book_uuid: d540b9f1-95a1-4637-b114-8842f3e06870
-location: '153'
-source: kindle
----
-
-The term pattern library is sometimes used when discussing style guides. A style guide explains how things are going to look, whereas a pattern library tends to focus on how they are assembled. Style guides are a fantastic tool for designers, and pattern libraries are generally more useful for developers, but there will be some overlap. The term design system is frequently used as an overarching term covering core principles, language, design, and tools used to implement these. Its application may be similar to a component library, but with more emphasis on behaviour and interaction.

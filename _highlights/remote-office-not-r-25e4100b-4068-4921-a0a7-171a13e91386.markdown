@@ -1,9 +1,0 @@
----
-title: 'Remote: Office Not R: You certainly don’t need everyone physically together
-  to cre…'
-book_uuid: 20af780a-6bf8-4758-8fed-ce4e72735b3d
-location: '500'
-source: kindle
----
-
-You certainly don’t need everyone physically together to create a strong culture. The best cultures derive from actions people actually take, not the ones they write about in a mission statement. Newcomers to an organization arrive with their eyes open. They see how decisions are made, the care that’s taken, the way problems are fixed, and so forth. If anything, having people work remotely forces you to forgo the illusion that building a company culture is just about in-person social activities. Now you can get on with the actual work of defining and practicing it instead.
