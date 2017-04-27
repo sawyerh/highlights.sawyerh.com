@@ -3,6 +3,7 @@ title: Amazon 2016 Shareholder Letter - Disagree and commit
 date: 2017-04-27 10:38:00 -04:00
 book_uuid: amazon-letter-2016
 highlighted_on: 2017-04-26 20:00:00 -04:00
+location: 2016
 ---
 
 Third, use the phrase “disagree and commit.” This phrase will save a lot of time. If you have conviction on a particular direction even though there’s no consensus, it’s helpful to say, “Look, I know we disagree on this but will you gamble with me on it? Disagree and commit?” By the time you’re at this point, no one can know the answer for sure, and you’ll probably get a quick yes.
