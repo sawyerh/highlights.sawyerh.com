@@ -1,0 +1,8 @@
+---
+title: 'Nudge: for all their virtues, markets often give companies a strong…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '1248'
+source: kindle
+---
+
+for all their virtues, markets often give companies a strong incentive to cater to (and profit from) human frailties, rather than to try to eradicate them or to minimize their effects.

@@ -1,0 +1,8 @@
+---
+title: 'Nudge: many insurance products have all of the fraught features tha…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '1311'
+source: kindle
+---
+
+many insurance products have all of the fraught features that we have sketched. The benefits from holding the insurance are delayed, the probability of having a claim is hard to analyze, consumers do not get useful feedback on whether they are getting a good return on their insurance purchases, and the mapping from what they are buying to what they are getting can be ambiguous.

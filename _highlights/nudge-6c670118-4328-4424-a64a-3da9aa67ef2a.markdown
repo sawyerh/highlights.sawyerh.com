@@ -1,0 +1,8 @@
+---
+title: 'Nudge: The nudge provided by asking people what they intend to do c…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '1206'
+source: kindle
+---
+
+The nudge provided by asking people what they intend to do can be accentuated by asking them when and how they plan to do it. This insight falls into the category of what the great psychologist Kurt Lewin called “channel factors,” a term he used for small influences that could either facilitate or inhibit certain behaviors. Think about the “channel” as similar to the path a river takes after the spring snow melt. The path can be determined by seemingly tiny changes in the landscape. For people, Lewin argued that similarly tiny factors can create surprisingly strong inhibitors to behavior that people “want” to take. Often we can do more to facilitate good behavior by removing some small obstacle than by trying to shove people in a certain direction.

@@ -1,0 +1,8 @@
+---
+title: 'Nudge: offer nudges that are most likely to help and least likely t…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '1242'
+source: kindle
+---
+
+offer nudges that are most likely to help and least likely to inflict harm.* A slightly longer answer is that people will need nudges for decisions that are difficult and rare, for which they do not get prompt feedback, and when they have trouble translating aspects of the situation into terms that they can easily understand.
