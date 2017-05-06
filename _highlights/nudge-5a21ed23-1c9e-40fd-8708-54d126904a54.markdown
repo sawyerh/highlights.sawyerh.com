@@ -1,0 +1,8 @@
+---
+title: 'Nudge: people sat down to a large bowl of Campbell’s tomato soup an…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '745'
+source: kindle
+---
+
+people sat down to a large bowl of Campbell’s tomato soup and were told to eat as much as they wanted. Unbeknownst to them, the soup bowls were designed to refill themselves (with empty bottoms connected to machinery beneath the table). No matter how much soup subjects ate, the bowl never emptied. Many people just kept eating, not paying attention to the fact that they were really eating a great deal of soup, until the experiment was (mercifully) ended. Large plates and large packages mean more eating; they are a form of choice architecture, and they work as major nudges. (Hint: if you would like to lose weight, get smaller plates, buy little packages of what you like, and don’t keep tempting food in the refrigerator.)

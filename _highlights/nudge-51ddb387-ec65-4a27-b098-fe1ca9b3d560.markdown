@@ -1,0 +1,8 @@
+---
+title: 'Nudge: The combination of loss aversion with mindless choosing impl…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '631'
+source: kindle
+---
+
+The combination of loss aversion with mindless choosing implies that if an option is designated as the “default,” it will attract a large market share. Default options thus act as powerful nudges. In many contexts defaults have some extra nudging power because consumers may feel, rightly or wrongly, that default options come with an implicit endorsement from the default setter, be it the employer, government, or TV scheduler.

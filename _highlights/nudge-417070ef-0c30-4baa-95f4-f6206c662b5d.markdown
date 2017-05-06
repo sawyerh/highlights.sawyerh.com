@@ -1,0 +1,8 @@
+---
+title: 'Nudge: It turns out that information campaign (b), framed in terms …'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '655'
+source: kindle
+---
+
+It turns out that information campaign (b), framed in terms of losses, is far more effective than information campaign (a). If the government wants to encourage energy conservation, option (b) is a stronger nudge.

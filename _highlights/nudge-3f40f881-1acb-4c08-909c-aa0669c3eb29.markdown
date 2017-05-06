@@ -1,0 +1,8 @@
+---
+title: 'Nudge: Once I have a mug, I don’t want to give it up. But if I don’…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '600'
+source: kindle
+---
+
+Once I have a mug, I don’t want to give it up. But if I don’t have one, I don’t feel an urgent need to buy one. What this means is that people do not assign specific values to objects. When they have to give something up, they are hurt more than they are pleased if they acquire the very same thing.
