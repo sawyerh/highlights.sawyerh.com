@@ -1,0 +1,8 @@
+---
+title: 'Nudge: The primary sources of organs are patients who have been dec…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '2941'
+source: kindle
+---
+
+The primary sources of organs are patients who have been declared “brain dead,” meaning that they have suffered an irreversible loss of all brain function but are being maintained temporarily on ventilators. In the United States, roughly twelve thousand to fifteen thousand potential donors are in this category each year, but fewer than half become donors. Because each donor can be used for as many as three organs, getting another thousand donors could save as many as three thousand lives. The major obstacle to increasing donations is the need to get the consent of surviving family members. It turns out that good default rules can increase available organs and thus save lives.

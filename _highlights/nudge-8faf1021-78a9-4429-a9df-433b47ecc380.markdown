@@ -1,0 +1,8 @@
+---
+title: 'Nudge: “The next of kin can be approached quite differently when th…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '3006'
+source: kindle
+---
+
+“The next of kin can be approached quite differently when the decedent’s silence is presumed to indicate a decision to donate rather than when it is presumed to indicate a decision not to donate. A system of presumed consent allows organ procurement organizations and hospital staff to approach the family as the family of a ‘donor’ rather than as the family of a ‘nondonor.’ This shift may make it easier for the family to accept organ donation.”5

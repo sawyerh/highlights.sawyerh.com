@@ -1,0 +1,8 @@
+---
+title: 'Nudge: The government should create a Greenhouse Gas Inventory (GGI…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '3189'
+source: kindle
+---
+
+The government should create a Greenhouse Gas Inventory (GGI), requiring disclosure by the most significant emitters. The GGI would permit people to see the various sources of greenhouse gases in the United States and to track changes over time. Seeing that list, states and localities could respond by considering legislative measures. In all likelihood, interested groups, including members of the media, would draw attention to the largest emitters. Because the climate change problem is salient, a Greenhouse Gas Inventory might well be expected to have the same beneficial effect as the Toxic Release Inventory. To be sure, an inventory of this kind might not produce massive changes on its own. But such a nudge would not be costly, and it would almost certainly help.
