@@ -1,0 +1,8 @@
+---
+title: 'Nudge: A good way to increase people’s fear of a bad outcome is to …'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '483'
+source: kindle
+---
+
+A good way to increase people’s fear of a bad outcome is to remind them of a related incident in which things went wrong; a good way to increase people’s confidence is to remind them of a similar situation in which everything worked out for the best. The pervasive problems are that easily remembered events may inflate people’s probability judgments, and that if no such events come to mind, their judgments of likelihoods might be distorted downward.

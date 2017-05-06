@@ -1,0 +1,8 @@
+---
+title: 'Nudge: The availability heuristic helps to explain much risk-relate…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '473'
+source: kindle
+---
+
+The availability heuristic helps to explain much risk-related behavior, including both public and private decisions to take precautions. Whether people buy insurance for natural disasters is greatly affected by recent experiences.6 In the aftermath of an earthquake, purchases of new earthquake insurance policies rise sharply—but purchases decline steadily from that point, as vivid memories recede.

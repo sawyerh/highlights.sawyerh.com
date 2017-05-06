@@ -1,0 +1,8 @@
+---
+title: 'Nudge: the availability heuristic. They assess the likelihood of ri…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '463'
+source: kindle
+---
+
+the availability heuristic. They assess the likelihood of risks by asking how readily examples come to mind. If people can easily think of relevant examples, they are far more likely to be frightened and concerned than if they cannot.

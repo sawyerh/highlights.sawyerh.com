@@ -1,0 +1,8 @@
+---
+title: 'Nudge: Roughly speaking, losing something makes you twice as misera…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '593'
+source: kindle
+---
+
+Roughly speaking, losing something makes you twice as miserable as gaining the same thing makes you happy. In more technical language, people are “loss averse.”
