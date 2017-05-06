@@ -1,0 +1,8 @@
+---
+title: 'Nudge: If you want people to lose weight, one effective strategy is…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '4010'
+source: kindle
+---
+
+If you want people to lose weight, one effective strategy is to put mirrors in the cafeteria.

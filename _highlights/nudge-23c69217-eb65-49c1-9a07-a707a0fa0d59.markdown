@@ -1,0 +1,8 @@
+---
+title: 'Nudge: We propose a Civility Check that can accurately tell whether…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '3857'
+source: kindle
+---
+
+We propose a Civility Check that can accurately tell whether the email you’re about to send is angry and caution you, “WARNING: THIS APPEARS TO BE AN UNCIVIL EMAIL. DO YOU REALLY AND TRULY WANT TO SEND IT?”
