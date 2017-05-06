@@ -1,0 +1,8 @@
+---
+title: 'Nudge: With required choosing in place, employees have to state the…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '1827'
+source: kindle
+---
+
+With required choosing in place, employees have to state their preferences, and there is no default option. As compared with the usual opt-in approach (you are not enrolled unless you decide to fill out the forms), required choosing should increase participation rates. One company switched from an opt-in regime to active decisions and found that participation rates increased by about 25 percentage points.8

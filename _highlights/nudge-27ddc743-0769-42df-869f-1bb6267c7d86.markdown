@@ -1,0 +1,8 @@
+---
+title: 'Nudge: While automatic enrollment or “quick” enrollment makes the p…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '1837'
+source: kindle
+---
+
+While automatic enrollment or “quick” enrollment makes the process of joining a retirement plan less daunting, expanding the number of funds available to participants can have the opposite effect. One study finds that the more options in the plan, the lower the participation rates.10 This finding should not be surprising. With more options, the process becomes more confusing and difficult, and some people will refuse to choose at all.

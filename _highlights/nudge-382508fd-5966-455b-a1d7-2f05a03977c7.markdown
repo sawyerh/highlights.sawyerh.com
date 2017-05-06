@@ -1,0 +1,8 @@
+---
+title: 'Nudge: the diversification heuristic. “When in doubt, diversify.” D…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '2069'
+source: kindle
+---
+
+the diversification heuristic. “When in doubt, diversify.” Don’t put all your eggs in one basket. In general, diversification is a great idea, but there is a big difference between sensible diversification and the naïve kind. A special case of this rule of thumb is what might be called the “1/n” heuristic: “When faced with ‘n’ options, divide assets evenly across the options.”3 Put the same number of eggs in each basket.
