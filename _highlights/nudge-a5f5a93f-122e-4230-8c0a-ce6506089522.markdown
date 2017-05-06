@@ -1,0 +1,8 @@
+---
+title: 'Nudge: If we want to protect the environment and to increase energy…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '1684'
+source: kindle
+---
+
+If we want to protect the environment and to increase energy independence, similar strategies could be used to make costs more salient. Suppose the thermostat in your home was programmed to tell you the cost per hour of lowering the temperature a few degrees during the heat wave. This would probably have more effect on your behavior than quietly raising the price of electricity, a change that will be experienced only at the end of the month when the bill comes.

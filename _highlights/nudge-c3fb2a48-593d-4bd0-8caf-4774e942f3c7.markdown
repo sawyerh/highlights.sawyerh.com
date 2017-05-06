@@ -1,0 +1,8 @@
+---
+title: 'Nudge: One strategy to use is what Amos Tversky (1972) called “elim…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '1614'
+source: kindle
+---
+
+One strategy to use is what Amos Tversky (1972) called “elimination by aspects.” Someone using this strategy first decides what aspect is most important (say, commuting distance), establishes a cutoff level (say, no more than a thirty-minute commute), then eliminates all the alternatives that do not come up to this standard. The process is repeated, attribute by attribute (no more than $1,500 per month; at least two bedrooms; dogs permitted), until either a choice is made or the set is narrowed down enough to switch over to a compensatory evaluation of the “finalists.” When people are using a simplifying strategy of this kind, alternatives that do not meet the minimum cutoff scores may be eliminated even if they are fabulous on all other dimensions. So, for example, an apartment that is a thirty-five-minute commute will not be considered even if it has a dynamite view and costs two hundred dollars a month less than any of the alternatives. Social science research reveals that as the choices become more numerous and/or vary on more dimensions, people are more likely to adopt simplifying strategies.

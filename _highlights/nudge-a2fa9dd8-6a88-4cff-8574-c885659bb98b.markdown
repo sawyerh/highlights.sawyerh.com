@@ -1,0 +1,8 @@
+---
+title: 'Nudge: We interpret the statement “I should be saving (or dieting, …'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '1782'
+source: kindle
+---
+
+We interpret the statement “I should be saving (or dieting, or exercising) more” to imply that people would be open to strategies that would help them achieve these goals. In other words, they are open to a nudge. They might even be grateful for one.
