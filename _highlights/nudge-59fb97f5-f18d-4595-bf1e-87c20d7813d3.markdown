@@ -1,0 +1,8 @@
+---
+title: 'Nudge: anchors serve as nudges. We can influence the figure you wil…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '453'
+source: kindle
+---
+
+anchors serve as nudges. We can influence the figure you will choose in a particular situation by ever-so-subtly suggesting a starting point for your thought process.

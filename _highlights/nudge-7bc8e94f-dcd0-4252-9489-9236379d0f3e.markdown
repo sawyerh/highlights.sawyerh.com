@@ -1,0 +1,8 @@
+---
+title: 'Nudge: Many psychologists and neuroscientists have been converging …'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '369'
+source: kindle
+---
+
+Many psychologists and neuroscientists have been converging on a description of the brain’s functioning that helps us make sense of these seeming contradictions. The approach involves a distinction between two kinds of thinking, one that is intuitive and automatic, and another that is reflective and rational.1 We will call the first the Automatic System and the second the Reflective System. (In the psychology literature, these two systems are sometimes referred to as System 1 and System 2, respectively.)
