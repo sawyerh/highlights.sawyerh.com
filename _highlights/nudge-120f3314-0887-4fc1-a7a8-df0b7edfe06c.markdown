@@ -1,0 +1,8 @@
+---
+title: 'Nudge: As Yale economist Robert Shiller has shown, the best explana…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '4416'
+source: kindle
+---
+
+As Yale economist Robert Shiller has shown, the best explanation of the real estate bubble greatly overlaps with the best explanation of the stock market bubble of the late 1990s: In both cases, people were influenced by a process of social contagion. This belief produced wildly unrealistic projections, with palpable consequences for home purchases and mortgage choices.

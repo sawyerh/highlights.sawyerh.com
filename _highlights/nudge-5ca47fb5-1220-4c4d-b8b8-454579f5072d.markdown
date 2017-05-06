@@ -1,0 +1,8 @@
+---
+title: 'Nudge: If you want to increase the level of recycling, make it clea…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '4374'
+source: kindle
+---
+
+If you want to increase the level of recycling, make it clear that other people are, in fact, recycling.
