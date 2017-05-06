@@ -1,0 +1,8 @@
+---
+title: 'Nudge: The worst feature of the Swedish plan was the decision to en…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '2618'
+source: kindle
+---
+
+The worst feature of the Swedish plan was the decision to encourage participants to choose their own portfolios. In complex situations, the government might actually be able to provide some useful hints. Recall a main lesson from Part 1: if the underlying decision is difficult and unfamiliar, and if people do not get prompt feedback when they err, then it’s legitimate, even good, to nudge a bit. In this context, it would have been better for the government to say something like this: “We have designed a program that has a comprehensive set of funds for you to choose from. If you do not feel comfortable making this decision on your own, you could consult with an expert, or you could choose the default fund that has been designed by experts for people like you.” The Swedish government seems to agree with us: it no longer actively encourages people to choose their own portfolios.

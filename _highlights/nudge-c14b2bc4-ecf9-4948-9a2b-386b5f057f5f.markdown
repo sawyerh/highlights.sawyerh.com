@@ -1,0 +1,8 @@
+---
+title: 'Nudge: If the United States ever adopts similar partial privatizati…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '2625'
+source: kindle
+---
+
+If the United States ever adopts similar partial privatization of its own Social Security system, whether as an alternative to or substitute for the traditional system, many lessons can usefully be learned from the Swedish experience. Because the U.S. economy is more than thirty times as big as Sweden’s, a similar free-entry system would probably generate thousands of funds. This might make those who believe in the Just Maximize Choices mantra happy, but most Humans would find choosing from such a long list bewildering. A better plan would start by following Sweden’s lead of choosing a good default plan, containing mostly index funds with managers selected by competitive bidding. Participants would then be guided through a simplified choice process (preferably on the Web). The process would start with a yes-or-no question: “Do you want the default fund?” For those who said yes, their task would be done (though of course they could always change their minds at a later date). Those who rejected the default would be offered a small set of blended funds, perhaps based on the age of the participant (again privately managed with competitive fees). Only participants who rejected all of these funds would get to the comprehensive list. Evidence from the private sector suggests that few participants would make use of the big list, but their right to do so would be fully protected.
