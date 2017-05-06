@@ -1,0 +1,8 @@
+---
+title: 'Nudge: It turns out that if you ask people, the day before the elec…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '1198'
+source: kindle
+---
+
+It turns out that if you ask people, the day before the election, whether they intend to vote, you can increase the probability of their voting by as much as 25 percent!22

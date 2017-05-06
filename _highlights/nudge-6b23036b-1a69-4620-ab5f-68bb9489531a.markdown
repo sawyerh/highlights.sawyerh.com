@@ -1,0 +1,8 @@
+---
+title: 'Nudge: The “mere-measurement effect” refers to the finding that whe…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '1193'
+source: kindle
+---
+
+The “mere-measurement effect” refers to the finding that when people are asked what they intend to do, they become more likely to act in accordance with their answers.
