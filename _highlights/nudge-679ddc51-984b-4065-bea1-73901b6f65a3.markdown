@@ -1,0 +1,8 @@
+---
+title: 'Nudge: We all got different estimates because prescription drug pla…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '2843'
+source: kindle
+---
+
+We all got different estimates because prescription drug plans are constantly updating their drug prices. There is no guarantee that the cheapest plan for your mother today would be the cheapest plan for your mother tomorrow. In fact, Consumers Union has tracked price differences in five large states and found continuous monthly changes. Sometimes these fluctuations are only a few dollars; sometimes more. Nearly 40 percent of the 225 plans underwent changes of more than 5 percent, which can add up to several hundred dollars per year.15 Frequent price changes are one more hurdle for Humans to jump, and in light of our experience, they can be a rude awakening to those who don’t know about them.

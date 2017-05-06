@@ -1,0 +1,8 @@
+---
+title: 'Nudge: Software and building engineers live by a time-honored sloga…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '2923'
+source: kindle
+---
+
+Software and building engineers live by a time-honored slogan: keep it simple. And if a building has to be complicated to be functional, then it is best to offer plenty of signs to help people navigate.

@@ -1,0 +1,8 @@
+---
+title: 'Nudge: Random default plan assignment is a terrible idea. If a poor…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '2872'
+source: kindle
+---
+
+Random default plan assignment is a terrible idea. If a poor person is assigned to a bad plan and does not switch, her drug bills may rise, or she may decide to stop taking an expensive drug, as some already have. This may save the government money in the short run, but it will be costly in the long run, especially for diseases such as diabetes, for which a failure to keep on the drug regime can lead to numerous complications. The government also pays more if it assigns someone to one plan if a different plan covers all that person’s drugs and costs 15 percent less.

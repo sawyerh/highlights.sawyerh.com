@@ -1,0 +1,8 @@
+---
+title: 'Nudge: Katie allowed us to see how painful choosing a plan would be…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '2827'
+source: kindle
+---
+
+Katie allowed us to see how painful choosing a plan would be by kindly providing a list of the drugs her mother takes. Thaler logged onto the Medicare Part D Web site and tried his luck. What a nightmare! Just to give one example, the site does not have a spell checker. If you type “Zanax” instead of “Xanax,” you don’t get any help (unlike at Google, for example). This is a problem because drug names resemble strings of random letters, so typing errors are to be expected. Getting all the dosages right is also tricky. You need to know both the size of the pill (for example, 25 mg) and how frequently it is taken. The Web site assumes you take a generic drug, if it is available, and gives you the option of keeping the premium brand drug. Many people, however, take generics while calling them by their brand name, which requires paying close attention to every drug selection. Once a user manages to get all the data entered, the Web site offers three plan suggestions, with annual cost estimates. (Technophobic seniors can call 1-800-MEDICARE and have a customer service representative give them the three plan suggestions and prices, but no explanation is offered for how these plans have been chosen.)14
