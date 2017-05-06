@@ -1,0 +1,8 @@
+---
+title: 'Nudge: The poorest and sickest enrollees are those people eligible …'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '2776'
+source: kindle
+---
+
+The poorest and sickest enrollees are those people eligible for both Medicare and Medicaid (and so are called the “dual eligibles”). These people are disproportionately African-American, Latino, and female. Dual eligibles are more likely to have diabetes and strokes than other Medicare beneficiaries, and they use, on average, ten or more prescription drugs.9 They include the most severely disabled Americans, physically and cognitively handicapped men and women of all ages, and elderly patients suffering from dementia and requiring full-time care. The government has not said exactly how many dual eligibles actively chose a plan, but the evidence we have suggests that very few did. Dual eligibles are able to switch plans at any time—but if few are actively choosing plans, we suspect that few are taking advantage of the flexible switching option.

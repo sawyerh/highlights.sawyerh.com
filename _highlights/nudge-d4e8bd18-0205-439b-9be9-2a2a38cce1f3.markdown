@@ -1,0 +1,8 @@
+---
+title: 'Nudge: It seems somewhere between callous and irresponsible to assi…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '2793'
+source: kindle
+---
+
+It seems somewhere between callous and irresponsible to assign plans without even looking at people’s specific needs. Random assignment is also inconsistent with the market-based philosophy of the plan. In markets, better products get a higher share, and most free-market economists consider this a good feature. We do not think that every automobile manufacturer should get the same market share any more than we think that families should pick their cars at random. Why should we want randomness for insurance plans?
