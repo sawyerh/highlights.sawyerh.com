@@ -1,0 +1,8 @@
+---
+title: 'Nudge: The most straightforward point is that if we can find ways t…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '3233'
+source: kindle
+---
+
+The most straightforward point is that if we can find ways to make energy use visible, we’ll nudge people toward reducing their energy use without mandating any such reductions.
