@@ -1,0 +1,8 @@
+---
+title: 'Nudge: warning systems have to avoid the problem of offering so man…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '1542'
+source: kindle
+---
+
+warning systems have to avoid the problem of offering so many warnings that they are ignored. If our computer constantly nags us about whether we are sure we want to open that attachment, we begin to click “yes” without thinking about it. These warnings are thus rendered useless.

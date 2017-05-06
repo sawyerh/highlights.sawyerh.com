@@ -1,0 +1,8 @@
+---
+title: 'Nudge: If consumers have a less than fully rational belief, firms o…'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '1356'
+source: kindle
+---
+
+If consumers have a less than fully rational belief, firms often have more incentive to cater to that belief than to eradicate it. When many people were still afraid of flying, it was common to see airline flight insurance sold at airports at exorbitant prices. There were no booths in airports selling people advice not to buy such insurance.

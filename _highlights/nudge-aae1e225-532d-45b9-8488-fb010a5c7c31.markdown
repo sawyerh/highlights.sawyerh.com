@@ -1,0 +1,8 @@
+---
+title: 'Nudge: Leaving the gas cap behind is a special kind of predictable …'
+book_uuid: 968b748a-2abe-40ac-87c5-40ea4c7c6524
+location: '1498'
+source: kindle
+---
+
+Leaving the gas cap behind is a special kind of predictable error psychologists call a “postcompletion” error.2 The idea is that when you have finished your main task, you tend to forget things relating to previous steps. Other examples include leaving your ATM card in the machine after getting your cash, or leaving the original in the copying machine after getting your copies. Most ATMs (but not all) no longer allow this error because you get your card back immediately. Another strategy, suggested by Norman, is to use what he calls a “forcing function,” meaning that in order to get what you want, you have to do something else first. So if in order to get your cash, you have to remove the card, you will not forget to do so.
