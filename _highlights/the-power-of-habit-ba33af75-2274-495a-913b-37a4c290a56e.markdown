@@ -1,0 +1,9 @@
+---
+title: 'The Power of Habit: : Some research, for instance, suggested that the biggest
+  caus…'
+book_uuid: 00f4bd57-33ab-4481-805e-8acae5ff2c87
+location: '1873'
+source: kindle
+---
+
+Some research, for instance, suggested that the biggest cause of infant deaths was premature births. And the reason babies were born too early was that mothers suffered from malnourishment during pregnancy. So to lower infant mortality, improve mothers’ diets. Simple, right? But to stop malnourishment, women had to improve their diets before they became pregnant. Which meant the government had to start educating women about nutrition before they became sexually active. Which meant officials had to create nutrition curriculums inside high schools. However, when O’Neill began asking about how to create those curriculums, he discovered that many high school teachers in rural areas didn’t know enough basic biology to teach nutrition. So the government had to remake how teachers were getting educated in college, and give them a stronger grounding in biology so they could eventually teach nutrition to teenage girls, so those teenagers would eat better before they started having sex, and, eventually, be sufficiently nourished when they had children. Poor teacher training, the officials working with O’Neill finally figured out, was a root cause of high infant mortality. If you asked doctors or public health officials for a plan to fight infant deaths, none of them would have suggested changing how teachers are trained. They wouldn’t have known there was a link. However, by teaching college students about biology, you made it possible for them to eventually pass on that knowledge to teenagers, who started eating healthier, and years later give birth to stronger babies. Today, the U.S. 4.22 infant mortality rate is 68 percent lower than when O’Neill started the job.
