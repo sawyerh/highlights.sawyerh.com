@@ -1,0 +1,9 @@
+---
+title: 'Web Form Design: If you only have a few additional inputs for each initial
+  op…'
+book_uuid: e2e091ea-24e3-4078-b64d-50cb03411993
+location: '2720'
+source: kindle
+---
+
+If you only have a few additional inputs for each initial option, exposed below radio buttons or exposed within radio buttons might be your best option. I’ve seen both of these options cause confusion with excessive page jumping and disassociation between initial choices, so tread carefully. But if you really only have 1–3 additional fields per initial choice, I’d go with exposed inline radio buttons. Just make sure you use clear visual associations and transitions, if possible.
