@@ -1,0 +1,8 @@
+---
+title: 'Web Form Design: The “expose within radio buttons” method also hid irrelevant…'
+book_uuid: e2e091ea-24e3-4078-b64d-50cb03411993
+location: '2656'
+source: kindle
+---
+
+The “expose within radio buttons” method also hid irrelevant form inputs from people until they needed them. This meant it was easy on the eyes and completed quite quickly. In fact, this was the fastest solution we tested and had the lowest number of average fixations.

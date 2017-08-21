@@ -1,0 +1,9 @@
+---
+title: 'Web Form Design: Left-Aligned Labels When the data being collected by a form
+  …'
+book_uuid: e2e091ea-24e3-4078-b64d-50cb03411993
+location: '936'
+source: kindle
+---
+
+Left-Aligned Labels When the data being collected by a form is unfamiliar or does not fall into easy-to-process groups (such as the various parts of an address), left-aligning input field labels makes scanning the information required by a form easier (see Figure 4-9 ). People can simply inspect the left column of labels up and down without
