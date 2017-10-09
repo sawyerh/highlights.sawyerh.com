@@ -20,6 +20,8 @@ module Jekyll
             a ? -1 : 1
           end
         end
+      else
+        input
       end
     end
   end

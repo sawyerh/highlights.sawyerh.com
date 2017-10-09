@@ -2,7 +2,6 @@
 title: 'The Tyranny of Stuct: Contrary to what we would like to believe, there is
   no such …'
 book_uuid: 18d3993f-535e-4f9e-a413-e189cc8f07af
-location: 1
 ---
 
 Contrary to what we would like to believe, there is no such thing as a
