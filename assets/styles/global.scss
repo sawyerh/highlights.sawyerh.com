@@ -3,17 +3,8 @@
 
 @import 'toolbox';
 @import 'flickity';
+@import 'fonts';
 @import 'variables';
-
-@each $color in $colors{
-  $i: index($colors, $color);
-  $book_selector: unquote(".book:nth-child(#{length($colors)}n + #{$i})");
-  $nav_selector: unquote(".books__nav__item:nth-child(#{length($colors)}n + #{$i})");
-
-  #{$book_selector} .highlight__content, #{$nav_selector}{
-    background-color: unquote($color);
-  }
-}
 
 * {
   @include box-sizing(border-box)
@@ -23,8 +14,9 @@ body{
   -webkit-font-smoothing: antialiased;
   background: $bg_default;
   color: $text_default;
-  font-family: $serif;
-  font-size: $font_size_default;
+  font-family: "Duo", sans-serif;
+  font-size: $fs-base;
+  line-height: 1.75;
   margin: 0;
 }
 
@@ -52,7 +44,7 @@ button{
 // ========================================================
 .home-button{
   color: $text_faded;
-  font-size: 32px;
+  font-size: $fs-h4;
   position: fixed;
   top: 0;
   right: 0;
@@ -61,7 +53,7 @@ button{
   z-index: 30;
   display: inline-block;
 
-  @include max-width($max_highlight_width + ($gutter * 4)){
+  @include max-width($bp_small_screen){
     position: absolute;
   }
 
@@ -82,7 +74,7 @@ button{
 }
 
 .nav__sticky{
-  background: $bg_dark;
+  background: $bg_default;
   height: $h_nav;
 }
 
@@ -94,17 +86,17 @@ button{
   width: $h_nav;
   height: $h_nav;
   background: #fff;
-  color: $bg_dark;
+  color: $bg_default;
   border: 0 none;
-  border-left: 1px solid $bg_dark;
-  font-size: 32px;
+  border-left: 1px solid $bg_default;
+  font-size: $fs-h4;
   float: left;
   transition: background-color 500ms ease, color 500ms ease;
   outline: none;
 
   &.is-inactive{
     pointer-events: none;
-    background: $bg_dark;
+    background: $bg_default;
     color: $text_faded;
   }
 
@@ -135,8 +127,7 @@ button{
 
 .books__nav__toggle, .nav__about-link{
   line-height: $h_nav;
-  font-family: $sans_condensed;
-  font-size: 24px;
+  font-size: $fs-h5;
   color: $text_faded;
   margin-left: 20px;
   outline: none;
@@ -172,18 +163,16 @@ button{
 }
 
 .books__nav__item{
-  font-family: $sans_condensed;
-  font-size: 90px;
-  line-height: 1;
+  font-size: $fs-h2;
   padding: ($gutter * 1.4) ($gutter * 2) ($gutter * 2);
 
   @include max-width(900px){
-    font-size: 52px;
+    font-size: $fs-h3;
     padding: $gutter ($gutter / 2);
   }
 
   @include max-width($bp_small_screen){
-    font-size: 32px;
+    font-size: $fs-h4;
   }
 }
 
@@ -253,14 +242,13 @@ button{
 }
 
 .book__title{
-  font-family: $sans_condensed;
-  font-weight: 400;
-  font-size: 44px;
+  font-weight: bold;
+  font-size: $fs-h3;
+  font-style: italic;
   margin: 0;
-  line-height: 1;
 
   @include max-width($bp_small_screen){
-    font-size: 30px;
+    font-size: $fs-h4;
   }
 
   a{
@@ -273,17 +261,14 @@ button{
 }
 
 .book__credit{
-  font-family: $sans_condensed;
   font-weight: 400;
-  font-size: 24px;
+  font-size: $fs-h6;
   margin: 0;
   color: $text_faded;
 }
 
 .book__buy{
-  font-family: $sans;
-  font-size: 14px;
-  line-height: 1;
+  font-size: $fs-small;
   color: $text_faded;
   text-decoration: none;
   display: inline-block;
@@ -304,7 +289,6 @@ button{
 }
 
 .highlight{
-  line-height: 1.3;
   margin-bottom: 15px;
 
   &:first-of-type{
@@ -316,8 +300,7 @@ button{
   padding: 15px 20px;
   margin: 0;
   border-radius: 2px;
-  background-color: unquote(nth($colors, 1));
-  color: #000;
+  background-color: $highlight-color;
 
   @include min-width(500px){
     .collection__highlights &, .collection__books &{
@@ -327,8 +310,7 @@ button{
 }
 
 .highlight__footer{
-  font-size: 12px;
-  font-family: $sans;
+  font-size: $fs-small;
   font-weight: 500;
   color: $text_faded;
   margin-top: 5px;
@@ -347,7 +329,7 @@ button{
 
 .highlight__link--all{
   color: $text_default;
-  font-size: 14px;
+  font-size: $fs-small;
   display: block;
   margin-top: 10px;
 
@@ -369,8 +351,7 @@ button{
 // COMMENTS
 // ========================================================
 .comments{
-  font-size: 14px;
-  font-family: $sans;
+  font-size: $fs-small;
   color: $text_faded;
   margin-bottom: $gutter;
 }
@@ -392,7 +373,7 @@ button{
 
   @include min-width(800px){
     .book__title{
-      font-size: 60px;
+      font-size: $fs-h1;
       margin-bottom: 5px;
     }
   }
