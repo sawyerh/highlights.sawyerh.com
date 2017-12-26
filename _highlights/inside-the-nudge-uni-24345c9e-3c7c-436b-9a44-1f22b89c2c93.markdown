@@ -1,0 +1,9 @@
+---
+title: 'Inside the Nudge Uni: self-control is like a precious good that we use up.
+  Lab stu…'
+book_uuid: 8095f6c7-1918-4c71-93c8-e5d2f21457d8
+location: '1990'
+source: kindle
+---
+
+self-control is like a precious good that we use up. Lab studies show that people are much more likely to choose chocolate cake rather than a healthy snack after taking part in a task that requires self-control. 12 Similar effects appear to impact on professional judgements, too. In a now famous study, Danziger et al. found that judges moved from around 65 per cent favourable parole judgements at the beginning of the day to close to zero by late morning. After lunch, positive judgements surged back up to 65 per cent again, before dropping away by the end of the day. 13 Recent studies have shown similar results with other professional groups. The incidence of hand-washing has been found to fall across care workers’ 12-hour shifts, with the drop accelerating the more stressful the shift was. Furthermore, the shorter the break before the shift started, the faster the rate of decline. 14 Similarly, doctors have been found to prescribe more antibiotics as the day wears on. The rate is partly reset after lunch before it drifts up further through the afternoon, ending at around 20 per cent higher than when the day began. 15 It’s an effort to say no to patients who you feel probably don’t need antibiotics, and an effort to keep washing your hands. We’ve seen similar effects in BIT analysis, too, such as the changing probability that social workers will bring a child into care through the week. Decision fatigue, as psychologists call it, has very wide effects and is often far more powerful and pervasive than we realise.
