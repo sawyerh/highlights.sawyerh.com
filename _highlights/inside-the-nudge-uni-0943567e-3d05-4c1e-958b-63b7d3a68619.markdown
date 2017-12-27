@@ -1,0 +1,9 @@
+---
+title: 'Inside the Nudge Uni: Heads of government and business were traditionally
+  not much…'
+book_uuid: 8095f6c7-1918-4c71-93c8-e5d2f21457d8
+location: '4616'
+source: kindle
+---
+
+Heads of government and business were traditionally not much interested in the details of forms and procedures that their citizens and customers had to deal with. Turns out that’s a big mistake. However good your strategy or product, if the person the product or intervention is aimed at has to wade through a poorly designed form or process, they will probably give up and do something else. Your strategists will be left back at HQ saying, ‘What went wrong?’ Getting these design details right has proved fertile ground for behavioural scientists. Much of what such scientists do is familiar to the design professions and ethnographers who study how real people interact with products and services. By understanding how people actually use services and products –what they like and what they get frustrated with –designers can reshape the products and services until they feel easier and more intuitive to use. But behavioural scientists have added two extra elements into the mix. First, they bring in the systematic study of how people think about the world and how they decide, including the mental shortcuts that we all rely on to get through everyday life. This gives the behavioural scientist a more informed idea about what might work better, including sometimes identifying seemingly counter-intuitive alternatives to the current set-up. Second, behavioural science brings in the practice of systematic testing and trialling. The combination, mixed with a little design flair, can prove highly effective (as we saw in Chapters 3 to 6). Addressing these design challenges is about more than ‘nudges’. It is about applying behavioural insights to everything that we do, from how information is presented to how an incentive or regulation is structured.
