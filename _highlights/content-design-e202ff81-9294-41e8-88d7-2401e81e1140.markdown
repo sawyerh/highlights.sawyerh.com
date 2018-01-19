@@ -1,0 +1,21 @@
+---
+title: 'Content Design: The Oxford Guide to Plain English recommends words per sente…'
+book_uuid: '00422958-4ae8-4600-b49e-23b42e3da02a'
+location: 
+---
+
+The Oxford Guide to Plain English recommends words per sentence. It also
+says: 'If you regularly exceed 40 words, you'll certainly weary and deter
+your readers'
+
+Jyoti Sanyal, author of Indlish (the book for every English-speaking
+Indian), said: 'Based on several studies, press associations in the USA
+have laid down a readability table. Their survey shows readers find
+sentences of 8 words or less very easy to read; 11 words, easy; 14 words
+fairly easy; 17 words standard; 21 words fairly difficult; 25 words
+difficult and 29 words or more, very difficult.'
+
+Author Ann Wylie said: 'When the average sentence length in a piece was
+fewer than 8 words long, readers understood 100% of the story. At 14 words,
+they could comprehend more than 90% of the information. But move up to
+43-word sentences and comprehension dropped below 10 percent.'
