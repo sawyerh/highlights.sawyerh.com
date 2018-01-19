@@ -1,0 +1,11 @@
+---
+title: 'Content Design: Most probably do 4 to 5 saccades per second, and a regressio…'
+book_uuid: '00422958-4ae8-4600-b49e-23b42e3da02a'
+location: 
+---
+
+Most probably do 4 to 5 saccades per second, and a regression once every 2
+seconds. This leads to a typographical consideration. If lines of text are
+too short, you'll increase regressive saccades. If they are too long, the
+return path is too long and people can get confused about where their eye
+needs to go back to.

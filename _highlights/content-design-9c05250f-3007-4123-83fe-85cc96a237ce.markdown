@@ -1,0 +1,9 @@
+---
+title: 'Content Design: Text presented in sentence case is the most familiar style
+  f…'
+book_uuid: '00422958-4ae8-4600-b49e-23b42e3da02a'
+location: 
+---
+
+Text presented in sentence case is the most familiar style for most people
+and, therefore, usually the fastest to read.
