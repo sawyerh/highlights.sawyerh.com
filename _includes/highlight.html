@@ -1,6 +1,6 @@
 <article class="highlight{% if highlight.is_featured %} highlight--featured{% endif %}">
   <blockquote class="highlight__content">
-    {{ highlight.content }}
+    {{ highlight.content | markdownify }}
   </blockquote>
 
   <div class="highlight__footer">
