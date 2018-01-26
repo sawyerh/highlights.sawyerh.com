@@ -1,0 +1,9 @@
+---
+title: 'The Manager''s Path: : There are 52 weeks in a year, or about 13 per quarter.
+  Howev…'
+book_uuid: f45be418-399a-4462-a0d0-9e857180ab2f
+location: '2009'
+source: kindle
+---
+
+There are 52 weeks in a year, or about 13 per quarter. However, realistically your team will lose a lot of that time. Vacations, meetings, review season, production outages, onboarding new employees all of these things take away from focus. Don’t expect to get more than 10 weeks’ worth of focused effort on the main projects per team member per quarter. It’s likely that Q1 (immediately after the winter holidays) will be the most productive and Q4 (the quarter that includes winter and the end-of-year holidays) will be the least productive.
