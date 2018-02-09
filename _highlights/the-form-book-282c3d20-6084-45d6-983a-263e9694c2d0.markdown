@@ -1,0 +1,23 @@
+---
+title: 'The Form Book: Good design is not a panacea, and should not be merely cosme…'
+book_uuid: ba6c9bdd-00f8-4cfa-9bdd-204d8ba6bb0b
+location: 
+---
+
+Good design is not a panacea, and should not be merely cosmetic. Nothing is
+more disheartening than a harmless, friendly-looking form whose content
+turns out to be the direct opposite. The fact that tax return forms look so
+complicated is primarily because the tax system is complicated, and paying
+taxes can't be made more pleasant just by making the forms look good.
+Hiding things away or sprucing them up will not help, but a clearly
+laid-out and easy-to-read design may at least soften the blow.
+
+In a demanding context, form design has to cope with many obstacles. It
+always reflects pre-existing structures, and in so doing it often brings to
+light flaws that can only be rectified by reorganization. But changing
+existing systems - personal, material or technical - is often very
+expensive and is liable to meet with strong resistance, so this is one of
+the greatest challenges to all sides. Companies need to recognize the need
+for change, and designers must think beyond design for its own sake and
+attune their minds to the structure of the company and the needs of its
+customers.

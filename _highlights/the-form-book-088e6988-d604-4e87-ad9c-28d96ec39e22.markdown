@@ -1,0 +1,14 @@
+---
+title: 'The Form Book: Forms are based on the assumption that they are absolutely
+  n…'
+book_uuid: ba6c9bdd-00f8-4cfa-9bdd-204d8ba6bb0b
+location: 
+---
+
+Forms are based on the assumption that they are absolutely necessary. It
+would contradict the whole concept of the form if the same end could be
+achieved by filling in a different form or even doing without one
+altogether. There is nothing vague and there are no maybes. Only yes or no,
+valid or invalid, true or false. And yet many forms appear to be
+interchangeable and arbitrary both in their design and in the information
+they request.
