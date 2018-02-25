@@ -1,0 +1,8 @@
+---
+title: 'Automating Inequalit: The Personal Responsibility and Work Opportunity Reconciliat…'
+book_uuid: 9968afa8-3e65-4fd6-9639-1798669f1cb7
+location: '560'
+source: kindle
+---
+
+The Personal Responsibility and Work Opportunity Reconciliation Act (PRWORA) of 1996 is often held responsible for the demise of welfare. The PRWORA replaced AFDC with Temporary Assistance to Needy Families (TANF) and enforced work outside the home at any cost. TANF limited lifetime eligibility for public assistance to 60 months with few exceptions, introduced strict work requirements, ended support for four-year college education, and put into effect a wide array of sanctions to penalize noncompliance. Sanctions are imposed, for example, for being late to an appointment, missing a volunteer work assignment, not attending job training, not completing drug testing, not attending mental health counseling, or ignoring any other therapeutic or job-training activity prescribed by a caseworker. Each sanction can result in a time-limited or permanent loss of benefits. It is true that the PRWORA achieved striking contractions in public assistance. Almost 8.5 million people were removed from the welfare rolls between 1996 and 2006. In 2014, fewer adults were being served by cash assistance than in 1962. In 1973, four of five poor children were receiving benefits from AFDC. Today, TANF serves fewer than one in five of them.
